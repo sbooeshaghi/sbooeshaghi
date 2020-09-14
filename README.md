@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|The_One_WR|TheNameIsNeo1|
-Mon Sep 14 06:06:08 UTC 2020
+|-|matias_kaplan|
+Mon Sep 14 12:07:13 UTC 2020
