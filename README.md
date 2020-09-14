@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|matias_kaplan|
-Mon Sep 14 12:07:13 UTC 2020
+|zdzdzdzd0|galicae|
+|SimSci9|chofski|
+|-|BiomageLtd|
+Mon Sep 14 18:05:55 UTC 2020
