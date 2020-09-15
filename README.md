@@ -4,7 +4,16 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|zdzdzdzd0|galicae|
-|SimSci9|chofski|
-|-|BiomageLtd|
-Mon Sep 14 18:05:55 UTC 2020
+|doobidoos|AngZhou3|
+|matias_kaplan|hanhanhan_kim|
+|vntranos|HeevaBaharlou|
+|-|SaterAmy|
+|-|dcolinmorgan|
+|-|pashakho|
+|-|CostacurtaJulia|
+|-|mesuturkiye|
+|-|giovannicolaz_|
+|-|dema_karim|
+|-|brodie_brodes|
+|-|PHDMonstR|
+Tue Sep 15 00:14:52 UTC 2020
