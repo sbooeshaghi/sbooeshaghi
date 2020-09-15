@@ -4,8 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|MWheelerMD|
-|-|alexa_d_perez|
-|-|yousef_alowayed|
-|-|vntranos|
-Tue Sep 15 06:05:53 UTC 2020
+|ifoIIowcuteppl|darkcloud_01|
+|-|RNAseqPerson|
+|-|genoza1|
+|-|lIllIIlIIllIlI|
+Tue Sep 15 12:07:04 UTC 2020
