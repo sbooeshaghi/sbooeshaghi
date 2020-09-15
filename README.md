@@ -4,8 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|ifoIIowcuteppl|darkcloud_01|
-|-|RNAseqPerson|
-|-|genoza1|
-|-|lIllIIlIIllIlI|
-Tue Sep 15 12:07:04 UTC 2020
+|eczenrs|nico_anguita|
+|septiharas|aidanfwinters|
+Tue Sep 15 18:05:45 UTC 2020
