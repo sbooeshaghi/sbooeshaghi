@@ -4,7 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|bioptero|JohnSeektruth|
-|can_rhll|-|
-|AnimishNVaze|-|
-Wed Sep 16 12:07:13 UTC 2020
+|Route0660|SwissCognitive|
+|lazuandi|AndreasHadjimi4|
+|-|saul_hrr|
+|-|Desmondsmith|
+|-|AnimishNVaze|
+Wed Sep 16 18:05:58 UTC 2020
