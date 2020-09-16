@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|eczenrs|nico_anguita|
-|septiharas|aidanfwinters|
-Tue Sep 15 18:05:45 UTC 2020
+|karnsaroya|-|
+|JohnSeektruth|-|
+Wed Sep 16 00:14:57 UTC 2020
