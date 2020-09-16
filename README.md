@@ -4,4 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Wed Sep 16 06:06:44 UTC 2020
+|bioptero|JohnSeektruth|
+|can_rhll|-|
+|AnimishNVaze|-|
+Wed Sep 16 12:07:13 UTC 2020
