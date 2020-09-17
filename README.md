@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|ZaynIsBaeQS|DalithSteiger|
-Thu Sep 17 06:06:58 UTC 2020
+|OldestScientist|YingXu71793336|
+|-|wandaacp|
+|-|HollowScientist|
+Thu Sep 17 12:07:31 UTC 2020
