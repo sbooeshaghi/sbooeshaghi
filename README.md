@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|OldestScientist|YingXu71793336|
-|-|wandaacp|
-|-|HollowScientist|
-Thu Sep 17 12:07:31 UTC 2020
+|devanbaijal3|ZaynIsBaeQS|
+|wandaacp|-|
+Thu Sep 17 18:05:58 UTC 2020
