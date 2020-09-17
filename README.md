@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|DORAEN0M|bioptero|
-|saul_hrr|-|
-|Desmondsmith|-|
-Thu Sep 17 00:14:54 UTC 2020
+|ZaynIsBaeQS|DalithSteiger|
+Thu Sep 17 06:06:58 UTC 2020
