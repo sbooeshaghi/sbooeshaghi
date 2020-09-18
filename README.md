@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|muwatin961|neuromanifold|
-|DaviSidarta|west_lighthouse|
-|HibWest|-|
-Fri Sep 18 00:15:15 UTC 2020
+|gurnit_atwal|eczenrs|
+|galactus_1|diegoalexespi|
+Fri Sep 18 06:06:54 UTC 2020
