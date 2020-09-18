@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|gurnit_atwal|eczenrs|
-|galactus_1|diegoalexespi|
-Fri Sep 18 06:06:54 UTC 2020
+|TonysPants|kumar99_rahul|
+Fri Sep 18 12:10:43 UTC 2020
