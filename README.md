@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|TonysPants|kumar99_rahul|
-Fri Sep 18 12:10:43 UTC 2020
+|kumar99_rahul|FelixJBerrios|
+|Batbatmok|-|
+|domain_org|-|
+Fri Sep 18 18:07:20 UTC 2020
