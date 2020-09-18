@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|devanbaijal3|ZaynIsBaeQS|
-|wandaacp|-|
-Thu Sep 17 18:05:58 UTC 2020
+|muwatin961|neuromanifold|
+|DaviSidarta|west_lighthouse|
+|HibWest|-|
+Fri Sep 18 00:15:15 UTC 2020
