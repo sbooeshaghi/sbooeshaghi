@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|tavinathanson|MichaelsRocks|
-Sat Sep 19 00:15:06 UTC 2020
+|-|ALadett|
+|-|matias_kaplan|
+Sat Sep 19 06:06:50 UTC 2020
