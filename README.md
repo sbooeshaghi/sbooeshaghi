@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|talihyos|YoTalih|
-Sat Sep 19 18:07:14 UTC 2020
+|-|TonysPants|
+Sun Sep 20 00:15:37 UTC 2020
