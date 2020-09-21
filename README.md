@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|ArgylePhynx|babamalika17|
-Mon Sep 21 06:06:29 UTC 2020
+|maureengreenesq|ArgylePhynx|
+|babamalika17|-|
+Mon Sep 21 12:07:23 UTC 2020
