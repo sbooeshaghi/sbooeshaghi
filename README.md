@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AnimishNVaze|-|
-Sun Sep 20 18:06:00 UTC 2020
+|jcrichman|Fateme_Jv|
+Mon Sep 21 00:15:41 UTC 2020
