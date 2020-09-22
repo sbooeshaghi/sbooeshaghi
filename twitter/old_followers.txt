@@ -3,7 +3,6 @@ Fateme_Jv
 MichaelsRocks
 YingXu71793336
 DalithSteiger
-SwissCognitive
 nico_anguita
 aidanfwinters
 darkcloud_01
@@ -1201,7 +1200,6 @@ apir0n
 eleutheromaniaD
 amitshomrat
 dlarios94
-darik_anderson
 laforgue
 caldarellip1
 KDelchev1
@@ -1344,6 +1342,7 @@ S7itch3m
 lisabjurwald
 relkmi
 casparianstrip
+AnimishNVaze
 SonicBubbleBoom
 mathelehrerhere
 libermir

@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Laila1Angle|RisingPhoenixL|
-Tue Sep 22 12:07:24 UTC 2020
+|SwissCognitive|AnimishNVaze|
+|darik_anderson|-|
+Tue Sep 22 18:05:55 UTC 2020
