@@ -4,7 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|FelixJBerrios|maureengreenesq|
-|marshag39237636|davisidarta|
-|neuromanifold|-|
-Mon Sep 21 18:05:58 UTC 2020
+|digpath|kev_fanning|
+|lefanning2|-|
+|simoesfili|-|
+Tue Sep 22 00:15:15 UTC 2020
