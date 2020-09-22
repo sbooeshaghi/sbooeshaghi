@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|digpath|kev_fanning|
-|lefanning2|-|
-|simoesfili|-|
-Tue Sep 22 00:15:15 UTC 2020
+|naveenpandey05|AmipsNano|
+|feb_veb|lucknowniwasi|
+Tue Sep 22 06:06:31 UTC 2020
