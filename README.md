@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|naveenpandey05|AmipsNano|
-|feb_veb|lucknowniwasi|
-Tue Sep 22 06:06:31 UTC 2020
+|Laila1Angle|RisingPhoenixL|
+Tue Sep 22 12:07:24 UTC 2020
