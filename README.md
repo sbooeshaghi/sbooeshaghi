@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AnimishNVaze|theHessam|
-Wed Sep 23 00:15:06 UTC 2020
+|DalithSteiger|MarcoMaruggi|
+Wed Sep 23 06:06:34 UTC 2020
