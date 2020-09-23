@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|MarcoMaruggi|AnimishNVaze|
-|shaudimh|-|
-Wed Sep 23 12:07:17 UTC 2020
+|mesuturkiye|-|
+|twominutepapers|-|
+|blane9171|-|
+Wed Sep 23 18:05:56 UTC 2020
