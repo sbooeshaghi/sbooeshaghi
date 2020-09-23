@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|SwissCognitive|AnimishNVaze|
-|darik_anderson|-|
-Tue Sep 22 18:05:55 UTC 2020
+|AnimishNVaze|theHessam|
+Wed Sep 23 00:15:06 UTC 2020
