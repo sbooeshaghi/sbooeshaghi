@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|DalithSteiger|MarcoMaruggi|
-Wed Sep 23 06:06:34 UTC 2020
+|MarcoMaruggi|AnimishNVaze|
+|shaudimh|-|
+Wed Sep 23 12:07:17 UTC 2020
