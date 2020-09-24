@@ -4,10 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|cvirurodriguez|jashapiro|
-|photo_mp|twominutepapers|
-|jhan2qt|blane9171|
-|yannbuck|-|
-|Tumblin_Tom|-|
-|ZaynIsBaeQS|-|
-Thu Sep 24 00:15:43 UTC 2020
+|ganbhag|cvirurodriguez|
+|-|photo_mp|
+|-|jhan2qt|
+|-|Tumblin_Tom|
+|-|doobidoos|
+Thu Sep 24 06:07:26 UTC 2020
