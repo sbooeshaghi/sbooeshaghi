@@ -4,7 +4,10 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|mesuturkiye|-|
-|twominutepapers|-|
-|blane9171|-|
-Wed Sep 23 18:05:56 UTC 2020
+|cvirurodriguez|jashapiro|
+|photo_mp|twominutepapers|
+|jhan2qt|blane9171|
+|yannbuck|-|
+|Tumblin_Tom|-|
+|ZaynIsBaeQS|-|
+Thu Sep 24 00:15:43 UTC 2020
