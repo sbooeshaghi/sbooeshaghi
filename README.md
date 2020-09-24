@@ -4,9 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|ganbhag|cvirurodriguez|
-|-|photo_mp|
-|-|jhan2qt|
-|-|Tumblin_Tom|
-|-|doobidoos|
-Thu Sep 24 06:07:26 UTC 2020
+|HollowScientist|GrayScientist1|
+|-|ganbhag|
+Thu Sep 24 12:07:18 UTC 2020
