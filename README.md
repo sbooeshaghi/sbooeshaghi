@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|HollowScientist|GrayScientist1|
-|-|ganbhag|
-Thu Sep 24 12:07:18 UTC 2020
+|yodamnbae|cauchyikes|
+Thu Sep 24 18:05:59 UTC 2020
