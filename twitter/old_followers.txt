@@ -1036,7 +1036,6 @@ MersihaGadzo
 admercs
 MariaBe41640705
 humbug1994
-sudanombudsman
 Ali360hp
 seanbankier
 ITwarriorFr
@@ -1516,7 +1515,7 @@ boti_ka
 HeerCollin
 dyl4nm4rsh4ll
 phdapps
-GrayScientist1
+hollowscientist
 polvere7
 EvolSci
 saxena_prtk
