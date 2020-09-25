@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|sepidehparhami|
-|-|babasaraki1|
-Fri Sep 25 06:06:57 UTC 2020
+|-|goodlish|
+Fri Sep 25 12:10:43 UTC 2020
