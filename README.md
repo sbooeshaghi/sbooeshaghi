@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|yodamnbae|cauchyikes|
-Thu Sep 24 18:05:59 UTC 2020
+|-|ZaynIsBaeQS|
+Fri Sep 25 00:15:24 UTC 2020
