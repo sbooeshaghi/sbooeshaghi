@@ -4,8 +4,11 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|0x174|
-|-|Frank_Txu|
-|-|GhasemiSadegh|
-|-|KiarKini|
-Sat Sep 26 12:07:13 UTC 2020
+|tntfckff|PatelOncology|
+|-|DeeptimanChatt2|
+|-|DanieleBraga7|
+|-|electricosic|
+|-|gdfgdhngbhert|
+|-|WAM_iam|
+|-|ben_szalai|
+Sat Sep 26 18:06:14 UTC 2020
