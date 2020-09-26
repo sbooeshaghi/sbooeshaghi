@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|KiarKini|-|
-|mirza_gralel|-|
-Sat Sep 26 00:15:16 UTC 2020
+|arashnabbi|shesacadiak|
+|-|sha_gandhi|
+|-|3SaSha4|
+Sat Sep 26 06:07:07 UTC 2020
