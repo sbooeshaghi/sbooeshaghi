@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|sudanombudsman|hollowscientist|
-|GrayScientist1|-|
-Fri Sep 25 18:06:15 UTC 2020
+|KiarKini|-|
+|mirza_gralel|-|
+Sat Sep 26 00:15:16 UTC 2020
