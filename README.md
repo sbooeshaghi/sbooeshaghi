@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Michelle_54420|LiDongyao|
-Sun Sep 27 06:07:10 UTC 2020
+|YusufBekdemir7|Heer_Lab|
+Sun Sep 27 12:07:20 UTC 2020
