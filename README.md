@@ -4,8 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Seun_beta|KuppeChristoph|
-|electricosic|Prabhu_gene|
-|WAM_iam|DrAnyaJones|
-|ben_szalai|dededeking1|
-Sun Sep 27 00:16:08 UTC 2020
+|Michelle_54420|LiDongyao|
+Sun Sep 27 06:07:10 UTC 2020
