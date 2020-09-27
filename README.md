@@ -4,11 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|tntfckff|PatelOncology|
-|-|DeeptimanChatt2|
-|-|DanieleBraga7|
-|-|electricosic|
-|-|gdfgdhngbhert|
-|-|WAM_iam|
-|-|ben_szalai|
-Sat Sep 26 18:06:14 UTC 2020
+|Seun_beta|KuppeChristoph|
+|electricosic|Prabhu_gene|
+|WAM_iam|DrAnyaJones|
+|ben_szalai|dededeking1|
+Sun Sep 27 00:16:08 UTC 2020
