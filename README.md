@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|YusufBekdemir7|Heer_Lab|
-Sun Sep 27 12:07:20 UTC 2020
+|TabasCOVID_19|BNSHAW_1999|
+|saliha_ey|-|
+Sun Sep 27 18:06:09 UTC 2020
