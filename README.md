@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|TabasCOVID_19|BNSHAW_1999|
-|saliha_ey|-|
-Sun Sep 27 18:06:09 UTC 2020
+|-|leonxlin|
+|-|cdeboever3|
+|-|notmaxib|
+Mon Sep 28 00:16:02 UTC 2020
