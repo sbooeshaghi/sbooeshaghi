@@ -4,7 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|laxmanshastri|bioptero|
-|cerealk22934207|omidvheravi|
-|-|nuggetdemamarre|
-Mon Sep 28 12:07:28 UTC 2020
+Mon Sep 28 18:06:16 UTC 2020
