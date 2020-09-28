@@ -4,7 +4,11 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|leonxlin|
-|-|cdeboever3|
-|-|notmaxib|
-Mon Sep 28 00:16:02 UTC 2020
+|bioptero|-|
+|omidvheravi|-|
+|scotty529|-|
+|leonxlin|-|
+|cdeboever3|-|
+|illWill477|-|
+|notmaxib|-|
+Mon Sep 28 06:06:22 UTC 2020
