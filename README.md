@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|JohnSeektruth|-|
-Tue Sep 29 00:16:02 UTC 2020
+|michelebusby|-|
+Tue Sep 29 06:06:47 UTC 2020
