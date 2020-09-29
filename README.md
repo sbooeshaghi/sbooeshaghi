@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|michelebusby|-|
-Tue Sep 29 06:06:47 UTC 2020
+|west_lighthouse|Beacon_Keeper|
+|hollowscientist|JohnSeektruth|
+|-|Whineyscientist|
+Tue Sep 29 12:07:46 UTC 2020

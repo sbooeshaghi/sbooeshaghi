@@ -1021,7 +1021,7 @@ hercme24
 molote_molote
 Herambraj1
 platutong
-west_lighthouse
+Beacon_Keeper
 doc_newt
 abdo007live
 HeyMo_DC
@@ -1130,6 +1130,7 @@ leoboksor
 JS1351
 RogerMelin2
 jifsmom
+JohnSeektruth
 Plasmacellguy
 FahadAlidi
 efsaneydio
@@ -1522,7 +1523,7 @@ boti_ka
 HeerCollin
 dyl4nm4rsh4ll
 phdapps
-hollowscientist
+Whineyscientist
 polvere7
 EvolSci
 saxena_prtk
