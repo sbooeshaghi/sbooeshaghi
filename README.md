@@ -4,6 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|andsnz|
-|-|faythtan|
-Wed Sep 30 06:06:26 UTC 2020
+|Makram15398606|-|
+|andsnz|-|
+|_smicera|-|
+|faythtan|-|
+Wed Sep 30 12:07:42 UTC 2020
