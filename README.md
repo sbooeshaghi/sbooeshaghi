@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|bell_ish1|-|
-|Makram15398606|-|
-|33_TREX|-|
-Tue Sep 29 18:06:10 UTC 2020
+|-|Makram15398606|
+Wed Sep 30 00:15:56 UTC 2020
