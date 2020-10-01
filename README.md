@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|meigetsus|Makram15398606|
-|NassLou94|DestinyFront|
-|amaross64|-|
-Thu Oct  1 06:06:29 UTC 2020
+|jossandjohn|nbelhusseini|
+|MrMoTweet|bvgri|
+Thu Oct  1 12:07:33 UTC 2020
