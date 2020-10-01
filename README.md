@@ -4,6 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|jossandjohn|nbelhusseini|
-|MrMoTweet|bvgri|
-Thu Oct  1 12:07:33 UTC 2020
+|sourjyadipR|AliKishk_|
+|ganbhag|bell_ish1|
+|matias_kaplan|bunueldante|
+|jtchamberlin|-|
+Thu Oct  1 18:06:24 UTC 2020
