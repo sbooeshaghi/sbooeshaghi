@@ -4,10 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|nnsrkh|hitamgelashitam|
-|dewisthriving|PDWC4289|
-|-|33_TREX|
-|-|RNAEddie|
-|-|amir_feizi|
-|-|DylanTheGingg|
-Fri Oct  2 12:10:46 UTC 2020
+|amir_feizi|-|
+|DylanTheGingg|-|
+Fri Oct  2 18:06:34 UTC 2020
