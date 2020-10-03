@@ -4,6 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|amir_feizi|-|
-|DylanTheGingg|-|
-Fri Oct  2 18:06:34 UTC 2020
+|SalehFayezM|Tall_Dark_Irish|
+|Beacon_Keeper|ben_szalai|
+|-|cdeboever3|
+|-|illWill477|
+|-|Pk_suta|
+Sat Oct  3 00:16:11 UTC 2020
