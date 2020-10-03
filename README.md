@@ -4,9 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|SalehFayezM|Tall_Dark_Irish|
-|Beacon_Keeper|ben_szalai|
-|-|cdeboever3|
-|-|illWill477|
-|-|Pk_suta|
-Sat Oct  3 00:16:11 UTC 2020
+|ZaynIsBaeQS|-|
+|ben_szalai|-|
+|cdeboever3|-|
+|Pk_suta|-|
+Sat Oct  3 06:06:49 UTC 2020
