@@ -4,8 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|goodlish|goodlySTR|
-|neuronair|JohnSeektruth|
-|-|saliha_ey|
-|-|sham_wowlock|
-Sun Oct  4 12:07:45 UTC 2020
+|sham_wowlock|CarineArif|
+Sun Oct  4 18:06:25 UTC 2020
