@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|sham_wowlock|CarineArif|
-Sun Oct  4 18:06:25 UTC 2020
+|SalehFayezM|eliotsherman|
+|gdfgdhngbhert|AustinMHartman|
+|-|GFYRSLFBTCH|
+Mon Oct  5 00:16:41 UTC 2020
