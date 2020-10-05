@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|SalehFayezM|
-Mon Oct  5 12:07:58 UTC 2020
+|illWill477|-|
+Mon Oct  5 18:06:30 UTC 2020
