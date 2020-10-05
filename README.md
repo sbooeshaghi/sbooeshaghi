@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|SalehFayezM|eliotsherman|
-|gdfgdhngbhert|AustinMHartman|
-|-|GFYRSLFBTCH|
-Mon Oct  5 00:16:41 UTC 2020
+|-|andreweallen|
+Mon Oct  5 06:07:03 UTC 2020
