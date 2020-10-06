@@ -4,8 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|sororgia|Wafa_Alghatam|
-|steven_se99|-|
-|Makram15398606|-|
-|beerbro_|-|
-Tue Oct  6 00:16:25 UTC 2020
+|Wafa_Alghatam|-|
+Tue Oct  6 06:07:15 UTC 2020
