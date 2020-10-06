@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|apir0n|feb_veb|
-|-|sham_wowlock|
-Tue Oct  6 12:07:47 UTC 2020
+|GFYRSLFBTCH|GFYRSLFB|
+|sham_wowlock|-|
+Tue Oct  6 18:06:40 UTC 2020
