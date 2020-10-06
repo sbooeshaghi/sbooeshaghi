@@ -650,6 +650,7 @@ GorentasHarun
 RaviTezu
 srh_lstr
 mike_riley87
+feb_veb
 stubbornfellow
 twominutepapers
 HadilKoumayha
@@ -1211,7 +1212,6 @@ THUotila
 LeuMous
 IPuercospin
 Desmondsmith
-apir0n
 eleutheromaniaD
 amitshomrat
 dlarios94
@@ -1797,6 +1797,7 @@ celestelabedz
 DexteTs
 Hamid_R_Akbari
 FarhadShk
+sham_wowlock
 sham_wowlock
 ulisrael1
 ben_szalai
