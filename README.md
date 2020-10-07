@@ -4,7 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|cauchyikes|connor0mason|
-|sadasant|aanaqvi|
-|RisingPhoenixL|-|
-Wed Oct  7 06:07:05 UTC 2020
+|Omrhsq|sbanz_official|
+|-|cauchyikes|
+|-|Omhsq12|
+Wed Oct  7 12:08:06 UTC 2020
