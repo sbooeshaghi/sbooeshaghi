@@ -4,6 +4,11 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|GFYRSLFBTCH|GFYRSLFB|
-|sham_wowlock|-|
-Tue Oct  6 18:06:40 UTC 2020
+|shapira_yonatan|clifton_lewis97|
+|DestinyFront|theosysbio|
+|-|BeuschChristian|
+|-|GlennHowatt|
+|-|cliff_wvu|
+|-|chrltmrshl|
+|-|Nasslou94|
+Wed Oct  7 00:16:40 UTC 2020
