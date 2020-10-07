@@ -4,7 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Omrhsq|sbanz_official|
-|-|cauchyikes|
-|-|Omhsq12|
-Wed Oct  7 12:08:06 UTC 2020
+Wed Oct  7 18:06:38 UTC 2020
