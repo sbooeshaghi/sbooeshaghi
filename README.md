@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Wed Oct  7 18:06:38 UTC 2020
+|AnimishNVaze|AdibChristian|
+|-|illWill477|
+Thu Oct  8 00:14:02 UTC 2020
