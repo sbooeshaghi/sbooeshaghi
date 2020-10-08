@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|renevdeuren|-|
-Thu Oct  8 06:06:03 UTC 2020
+|PDWC4289|renevdeuren|
+|illWill477|dahlia4289|
+Thu Oct  8 12:08:16 UTC 2020
