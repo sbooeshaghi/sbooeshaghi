@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|2theThymus|-|
-|illWill477|-|
-Fri Oct  9 12:11:08 UTC 2020
+|cauchyikes|-|
+|islamfa03860124|-|
+Fri Oct  9 18:06:40 UTC 2020
