@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|lmanent|fischer_cr|
-|-|illWill477|
-Fri Oct  9 00:16:15 UTC 2020
+|modernotesi|-|
+Fri Oct  9 06:07:04 UTC 2020

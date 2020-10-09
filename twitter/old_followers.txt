@@ -1177,7 +1177,6 @@ queuedepth
 HBakiyom
 MilneNdy
 chrislong125
-modernotesi
 PhilBladder
 loris_assi
 onakres
