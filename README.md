@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|cauchyikes|-|
-|islamfa03860124|-|
-Fri Oct  9 18:06:40 UTC 2020
+|-|illWill477|
+Sat Oct 10 00:16:44 UTC 2020
