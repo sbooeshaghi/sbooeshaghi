@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|CarmenGeha|
-Sun Oct 11 12:07:46 UTC 2020
+|-|mburgos369|
+|-|beerkiddo_|
+Sun Oct 11 18:06:43 UTC 2020
