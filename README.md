@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sat Oct 10 18:06:40 UTC 2020
+|SalehFayezM|shapira_yonatan|
+|-|notmaxib|
+Sun Oct 11 00:17:39 UTC 2020
