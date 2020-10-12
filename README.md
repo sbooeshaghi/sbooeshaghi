@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|beerkiddo_|beerbro_|
-Mon Oct 12 06:07:28 UTC 2020
+|sid_kulk|-|
+|AryanKamal_|-|
+Mon Oct 12 12:08:15 UTC 2020
