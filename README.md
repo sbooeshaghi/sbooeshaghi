@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|2theThymus|
-|-|apir0n|
-Mon Oct 12 00:17:30 UTC 2020
+|beerkiddo_|beerbro_|
+Mon Oct 12 06:07:28 UTC 2020
