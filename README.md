@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|gayformarx|-|
-|ncb38534504|-|
-Tue Oct 13 00:17:19 UTC 2020
+|dipespandey08|bsletten|
+|-|lmanent|
+Tue Oct 13 06:06:58 UTC 2020
