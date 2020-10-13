@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|dipespandey08|bsletten|
-|-|lmanent|
-Tue Oct 13 06:06:58 UTC 2020
+|-|ArjavShah13|
+|-|apir0n|
+Tue Oct 13 12:08:23 UTC 2020
