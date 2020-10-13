@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|apir0n|ncb38534504|
-Mon Oct 12 18:06:55 UTC 2020
+|gayformarx|-|
+|ncb38534504|-|
+Tue Oct 13 00:17:19 UTC 2020
