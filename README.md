@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|dipespandey08|
-Wed Oct 14 12:08:34 UTC 2020
+|NeginHeravi|hugo_aerts|
+|cristiano68|-|
+Wed Oct 14 18:07:03 UTC 2020
