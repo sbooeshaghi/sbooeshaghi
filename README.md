@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|estoyentwwwiter|rod_runnerr|
-|HBakiyom|-|
-Thu Oct 15 00:17:23 UTC 2020
+Thu Oct 15 06:07:34 UTC 2020
