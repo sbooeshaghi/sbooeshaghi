@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|PotatoOfReason|cristiano68|
-|-|PotatoOfReason_|
-|-|sid_kulk|
-Thu Oct 15 12:08:30 UTC 2020
+|AnimishNVaze|-|
+|matias_kaplan|-|
+Thu Oct 15 18:06:55 UTC 2020
