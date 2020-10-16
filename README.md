@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AnimishNVaze|-|
-|matias_kaplan|-|
-Thu Oct 15 18:06:55 UTC 2020
+Fri Oct 16 00:17:46 UTC 2020
