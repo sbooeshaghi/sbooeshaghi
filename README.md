@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|sbanz_official|LabSmalley|
-|ethx47|-|
-Fri Oct 16 06:07:10 UTC 2020
+Fri Oct 16 12:11:32 UTC 2020
