@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|sudo_BreeB|
-Sat Oct 17 00:17:47 UTC 2020
+|AmipsNano|CentristRon|
+|RonAli72105275|-|
+Sat Oct 17 06:07:01 UTC 2020
