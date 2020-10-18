@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|dipespandey08|-|
-Sat Oct 17 18:07:16 UTC 2020
+|shirley_xxs522|ChristophPepin|
+Sun Oct 18 00:18:22 UTC 2020
