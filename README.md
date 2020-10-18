@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|ChristophPepin|-|
-Sun Oct 18 06:07:01 UTC 2020
+|-|mjethalia6|
+Sun Oct 18 12:08:07 UTC 2020
