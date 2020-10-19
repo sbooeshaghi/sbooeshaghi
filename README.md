@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|prwey|deepcodng|
-Mon Oct 19 06:07:39 UTC 2020
+Mon Oct 19 12:08:38 UTC 2020
