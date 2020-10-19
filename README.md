@@ -4,5 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|apir0n|-|
-Sun Oct 18 18:07:07 UTC 2020
+|saraa9208|fyn9208|
+|hikarana|-|
+|illWill477|-|
+|jimnotwell|-|
+Mon Oct 19 00:18:14 UTC 2020
