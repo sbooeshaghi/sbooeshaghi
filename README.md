@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|gurnit_atwal|
-Mon Oct 19 18:07:10 UTC 2020
+|JohnSeektruth|MichalaKoch|
+|-|illWill477|
+Tue Oct 20 00:17:53 UTC 2020
