@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|illWill477|soph_liu|
-Tue Oct 20 06:07:29 UTC 2020
+|-|JohnSeektruth|
+|-|illWill477|
+Tue Oct 20 12:08:41 UTC 2020
