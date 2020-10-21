@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|apir0n|
-Wed Oct 21 00:18:06 UTC 2020
+Wed Oct 21 06:07:30 UTC 2020
