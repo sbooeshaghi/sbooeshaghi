@@ -1,3 +1,5 @@
+SixthWaveNano
+AmipsNano
 soph_liu
 MichalaKoch
 mjethalia6
@@ -1272,6 +1274,7 @@ Shas__18
 jordanaboali
 phillip169
 ovipic
+gurnit_atwal
 ZaynIsBaeQS
 Remanescente9
 lmanent
@@ -1309,7 +1312,7 @@ shaharbrr
 TheEmpiriSylum
 _jashothi
 PCh911
-XpaceForThis
+EntidadQuiral
 comat0se
 evo_nano
 Attigui17
