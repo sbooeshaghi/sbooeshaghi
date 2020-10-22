@@ -4,8 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|XpaceForThis|SixthWaveNano|
-|-|AmipsNano|
-|-|gurnit_atwal|
-|-|EntidadQuiral|
-Wed Oct 21 18:07:05 UTC 2020
+Thu Oct 22 00:18:55 UTC 2020
