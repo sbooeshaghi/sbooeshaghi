@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|hippopedoid|
-Fri Oct 23 12:11:50 UTC 2020
+|bell_ish1|fsimeski|
+Fri Oct 23 18:07:05 UTC 2020
