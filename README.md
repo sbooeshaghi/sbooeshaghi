@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Ceiteach_MacS|bell_ish1|
-|apir0n|-|
-Fri Oct 23 00:18:30 UTC 2020
+Fri Oct 23 06:07:31 UTC 2020
