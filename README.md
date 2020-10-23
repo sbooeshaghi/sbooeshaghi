@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|mohammd70w|-|
-Thu Oct 22 18:07:05 UTC 2020
+|Ceiteach_MacS|bell_ish1|
+|apir0n|-|
+Fri Oct 23 00:18:30 UTC 2020
