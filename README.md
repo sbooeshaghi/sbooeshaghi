@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AmipsNano|haghshenas_e|
-|SharmajiUttam|-|
-Sat Oct 24 06:07:26 UTC 2020
+|mawakresna|FabioGomezCano1|
+|-|ditsonthego|
+|-|Theodysse|
+Sat Oct 24 12:08:48 UTC 2020
