@@ -4,11 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|fsimeski|The_Saman_Mode|
-|FilipIlievski94|jaredtsimpson|
-|-|_AbhayChaudhary|
-|-|RohithMohan|
-|-|PlanaDeborah|
-|-|TitoJoeThomas|
-|-|radagaisus|
-Sat Oct 24 00:18:32 UTC 2020
+|AmipsNano|haghshenas_e|
+|SharmajiUttam|-|
+Sat Oct 24 06:07:26 UTC 2020
