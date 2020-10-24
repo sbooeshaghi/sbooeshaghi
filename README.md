@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|mawakresna|FabioGomezCano1|
-|-|ditsonthego|
-|-|Theodysse|
-Sat Oct 24 12:08:48 UTC 2020
+|Whineyscientist|tsotnech|
+|-|ScientistJatti|
+Sat Oct 24 18:07:01 UTC 2020
