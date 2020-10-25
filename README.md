@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|cavidHaydari3|AmipsNano|
-|-|dipespandey08|
-Sun Oct 25 00:19:14 UTC 2020
+|AliKishk_|-|
+Sun Oct 25 06:07:29 UTC 2020
