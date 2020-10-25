@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AliKishk_|-|
-Sun Oct 25 06:07:29 UTC 2020
+|-|bell_ish1|
+|-|cavidHaydari3|
+Sun Oct 25 12:08:41 UTC 2020
