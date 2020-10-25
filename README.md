@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Whineyscientist|tsotnech|
-|-|ScientistJatti|
-Sat Oct 24 18:07:01 UTC 2020
+|cavidHaydari3|AmipsNano|
+|-|dipespandey08|
+Sun Oct 25 00:19:14 UTC 2020
