@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|verbine|
-|-|apir0n|
-Sun Oct 25 18:07:17 UTC 2020
+|Heer_Lab|christian_cozma|
+|verbine|-|
+|jerryjfan|-|
+Mon Oct 26 00:19:05 UTC 2020
