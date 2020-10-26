@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|PhilBladder|-|
-Mon Oct 26 12:09:11 UTC 2020
+|EntidadQuiral|anothermegone|
+Mon Oct 26 18:07:47 UTC 2020
