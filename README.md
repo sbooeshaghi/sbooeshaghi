@@ -4,6 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|strider313|chriswithers13|
-|brownricesyrupp|keeepitsqueaky|
-Tue Oct 27 00:18:54 UTC 2020
+|wandaacp|ihcturner|
+|gurnit_atwal|smh_harry|
+|amfoes|Alii_Ganjj|
+|-|wacpwacp|
+Tue Oct 27 06:07:45 UTC 2020
