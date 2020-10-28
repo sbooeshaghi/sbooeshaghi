@@ -4,4 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Wed Oct 28 06:07:32 UTC 2020
+|-|mawakresna|
+Wed Oct 28 12:09:19 UTC 2020
