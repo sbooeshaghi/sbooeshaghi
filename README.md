@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|NeBanovich|achuwilson|
-|-|hoffman_steven|
-Thu Oct 29 00:19:24 UTC 2020
+|-|Shirley48727067|
+Thu Oct 29 06:08:11 UTC 2020
