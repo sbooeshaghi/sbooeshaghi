@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|TyBc84367336|-|
-Thu Oct 29 12:09:41 UTC 2020
+|ulenrich|AliKishk_|
+|-|maureengreenesq|
+|-|TyBc84367336|
+Thu Oct 29 18:05:02 UTC 2020
