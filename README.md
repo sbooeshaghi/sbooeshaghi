@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|Shirley48727067|
-Thu Oct 29 06:08:11 UTC 2020
+|TyBc84367336|-|
+Thu Oct 29 12:09:41 UTC 2020
