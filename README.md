@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|maureengreenesq|-|
-|OrBar_1|-|
-Fri Oct 30 00:11:33 UTC 2020
+|-|r0ryD|
+|-|KipnissNathan|
+Fri Oct 30 06:04:49 UTC 2020
