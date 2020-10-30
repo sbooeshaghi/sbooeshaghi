@@ -4,6 +4,10 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|r0ryD|
-|-|KipnissNathan|
-Fri Oct 30 06:04:49 UTC 2020
+|bioptero|its_me_agnish|
+|killuavi_|-|
+|ZaynIsBaeQS|-|
+|agniswarleo1999|-|
+|r0ryD|-|
+|KipnissNathan|-|
+Fri Oct 30 12:05:46 UTC 2020
