@@ -4,5 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AhmetTefiye|-|
-Fri Oct 30 18:04:18 UTC 2020
+|SamaIs_CodeRed|ZaynIsBaeQS|
+|monweneekarin|BaBalogog|
+|gurnit_atwal|mbeisen|
+|hoffman_steven|-|
+Sat Oct 31 00:10:43 UTC 2020
