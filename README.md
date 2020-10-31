@@ -4,8 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|SamaIs_CodeRed|ZaynIsBaeQS|
-|monweneekarin|BaBalogog|
-|gurnit_atwal|mbeisen|
-|hoffman_steven|-|
-Sat Oct 31 00:10:43 UTC 2020
+|BaBalogog|bioptero|
+|mbeisen|-|
+Sat Oct 31 06:04:53 UTC 2020
