@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|BaBalogog|bioptero|
-|mbeisen|-|
-Sat Oct 31 06:04:53 UTC 2020
+|bioptero|-|
+Sat Oct 31 12:05:32 UTC 2020
