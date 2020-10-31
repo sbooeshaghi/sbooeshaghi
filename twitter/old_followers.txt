@@ -17,9 +17,7 @@ _AbhayChaudhary
 RohithMohan
 PlanaDeborah
 TitoJoeThomas
-radagaisus
 hippopedoid
-SixthWaveNano
 AmipsNano
 soph_liu
 MichalaKoch
@@ -1231,7 +1229,6 @@ THUotila
 LeuMous
 IPuercospin
 Desmondsmith
-apir0n
 eleutheromaniaD
 amitshomrat
 dlarios94
@@ -2296,6 +2293,7 @@ BillyTomski
 zhi_yuan_hu
 lanitorresmapa
 sefsinsen
+hoffman_steven
 martinjzhang
 alexmascension
 jambocurious
