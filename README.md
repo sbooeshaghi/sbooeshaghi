@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|radagaisus|hoffman_steven|
-|SixthWaveNano|-|
-|apir0n|-|
-Sat Oct 31 18:04:16 UTC 2020
+|SalehFayezM|bioptero|
+Sun Nov  1 00:11:59 UTC 2020
