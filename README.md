@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Mon Nov  2 00:11:31 UTC 2020
+|queuedepth|colonriveraMD|
+|AnimishNVaze|-|
+Mon Nov  2 06:05:12 UTC 2020
