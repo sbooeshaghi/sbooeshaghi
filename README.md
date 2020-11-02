@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|lilyjudy|annekylosaurus|
-|-|AnimishNVaze|
-Mon Nov  2 12:05:51 UTC 2020
+|AnimishNVaze|-|
+Mon Nov  2 18:04:41 UTC 2020
