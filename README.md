@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Farshadflix|Farshadopolo|
-|BenjaminGVincen|-|
-Tue Nov  3 06:05:25 UTC 2020
+|bioptero|-|
+Tue Nov  3 12:06:02 UTC 2020
