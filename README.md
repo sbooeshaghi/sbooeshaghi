@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|bioptero|-|
-Tue Nov  3 12:06:02 UTC 2020
+|-|apir0n|
+|-|AnimishNVaze|
+Tue Nov  3 18:04:45 UTC 2020
