@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|apir0n|
-|-|AnimishNVaze|
-Tue Nov  3 18:04:45 UTC 2020
+Wed Nov  4 00:11:59 UTC 2020
