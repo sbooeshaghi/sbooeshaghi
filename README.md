@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|colonriveraMD|-|
-|kesperlin|-|
-|gunnerschreibt|-|
-Thu Nov  5 06:05:10 UTC 2020
+|amosh512|bioptero|
+|-|AHMED_ALSHAFAI1|
+Thu Nov  5 12:06:28 UTC 2020
