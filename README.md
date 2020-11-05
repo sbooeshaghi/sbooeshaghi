@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|amosh512|bioptero|
-|-|AHMED_ALSHAFAI1|
-Thu Nov  5 12:06:28 UTC 2020
+|Abdulnifty|AbuNifty|
+|criccio517|-|
+Thu Nov  5 18:04:47 UTC 2020
