@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|IgnatiusQuixote|kesperlin|
-|-|gunnerschreibt|
-Thu Nov  5 00:11:54 UTC 2020
+|colonriveraMD|-|
+|kesperlin|-|
+|gunnerschreibt|-|
+Thu Nov  5 06:05:10 UTC 2020
