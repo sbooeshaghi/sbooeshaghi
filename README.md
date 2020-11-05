@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|dalyproductions|BalducciBorges|
-|apir0n|StudioG88|
-|-|salahaddinayou|
-Wed Nov  4 18:04:36 UTC 2020
+|IgnatiusQuixote|kesperlin|
+|-|gunnerschreibt|
+Thu Nov  5 00:11:54 UTC 2020
