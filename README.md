@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AmipsNano|-|
-|SalehFayezM|-|
-Fri Nov  6 06:05:33 UTC 2020
+|dipespandey08|SamaIs_CodeRed|
+Fri Nov  6 12:06:38 UTC 2020
