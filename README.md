@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|dipespandey08|SamaIs_CodeRed|
-Fri Nov  6 12:06:38 UTC 2020
+|SamaIs_CodeRed|-|
+Fri Nov  6 18:04:52 UTC 2020
