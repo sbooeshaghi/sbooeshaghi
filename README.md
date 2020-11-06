@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Abdulnifty|AbuNifty|
-|criccio517|-|
-Thu Nov  5 18:04:47 UTC 2020
+Fri Nov  6 00:12:19 UTC 2020
