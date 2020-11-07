@@ -119,6 +119,7 @@ DmKorkin
 cmlakhan
 bvolkangurses
 CiMIMPRS
+goofy_1_goofy
 findomquen
 DataDrivenMD
 andrew4costa
@@ -581,7 +582,6 @@ naswitter
 AbuNifty
 Izadtus
 alam_rich
-jeremynotatwor1
 YoTAlih
 TheVioletKitty1
 KiarKini
@@ -837,7 +837,6 @@ qvchater
 DiazDiestro
 brian_bo
 nlouise179
-GSharadaa
 m_stellios
 arnidotmy
 CounselAKM
