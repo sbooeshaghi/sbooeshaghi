@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|admercs|-|
-|JoshuaSagron|-|
-Sat Nov  7 00:12:25 UTC 2020
+|goofy_1_goofy|SalehFayezM|
+|jjjhhhra|-|
+|bioptero|-|
+Sat Nov  7 06:05:33 UTC 2020
