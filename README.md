@@ -4,6 +4,10 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|jeremynotatwor1|goofy_1_goofy|
-|GSharadaa|-|
-Sat Nov  7 12:06:23 UTC 2020
+|-|bioptero|
+|-|fghodoosi|
+|-|IgnatiusQuixote|
+|-|DanielPodlesny|
+|-|breuniglab|
+|-|TheBaum561|
+Sat Nov  7 18:04:59 UTC 2020
