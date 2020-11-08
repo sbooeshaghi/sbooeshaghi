@@ -4,9 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|fghodoosi|crackback2022|
-|crackback2020|-|
-|DanielPodlesny|-|
-|breuniglab|-|
-|TheBaum561|-|
-Sun Nov  8 00:13:16 UTC 2020
+|-|jjjhhhra|
+Sun Nov  8 06:05:23 UTC 2020
