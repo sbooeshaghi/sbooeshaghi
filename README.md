@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Tall_Dark_Irish|giorria_fiain|
-Mon Nov  9 00:12:59 UTC 2020
+Mon Nov  9 06:05:46 UTC 2020
