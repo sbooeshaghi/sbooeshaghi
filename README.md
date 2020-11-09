@@ -4,8 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|JoshSBloom|eczenrs|
-|ValdiNoorAzhar|salihaey|
-|AnimishNVaze|-|
-|saliha_ey|-|
-Sun Nov  8 18:07:26 UTC 2020
+|Tall_Dark_Irish|giorria_fiain|
+Mon Nov  9 00:12:59 UTC 2020
