@@ -4,4 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Tue Nov 10 06:04:47 UTC 2020
+|giorria_fiain|Mo_Croi_Glas|
+Tue Nov 10 12:05:47 UTC 2020
