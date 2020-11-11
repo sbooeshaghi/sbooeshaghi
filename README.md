@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|mickyfmickyf|mf1982mf|
-Tue Nov 10 18:04:32 UTC 2020
+|larvlars|-|
+Wed Nov 11 00:09:48 UTC 2020
