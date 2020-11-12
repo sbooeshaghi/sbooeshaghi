@@ -4,4 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Wed Nov 11 18:04:47 UTC 2020
+|rod_runnerr|-|
+Thu Nov 12 00:11:39 UTC 2020
