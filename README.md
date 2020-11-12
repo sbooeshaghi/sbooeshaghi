@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|wacpwacp|mbakbankbiasa|
-|trumpercat|-|
-|illWill477|-|
-Thu Nov 12 12:06:10 UTC 2020
+|euromaestro|-|
+Thu Nov 12 18:04:57 UTC 2020
