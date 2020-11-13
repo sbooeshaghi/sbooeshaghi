@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|euromaestro|-|
-Thu Nov 12 18:04:57 UTC 2020
+|-|sisichen|
+|-|illWill477|
+Fri Nov 13 00:11:55 UTC 2020
