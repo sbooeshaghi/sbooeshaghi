@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|sisichen|
-|-|illWill477|
-Fri Nov 13 00:11:55 UTC 2020
+|-|dipespandey08|
+Fri Nov 13 06:05:26 UTC 2020
