@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|mohanned_oraba|
-|-|Hbakiyom|
-Fri Nov 13 18:04:51 UTC 2020
+|Nathani02617995|apir0n|
+|-|NJohnJoseph|
+Sat Nov 14 00:12:03 UTC 2020
