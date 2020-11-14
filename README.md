@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Nathani02617995|apir0n|
-|-|NJohnJoseph|
-Sat Nov 14 00:12:03 UTC 2020
+|Mukarram_AJ|Mukarram_J|
+Sat Nov 14 06:05:18 UTC 2020
