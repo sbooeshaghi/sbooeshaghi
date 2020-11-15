@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Mo_Croi_Glas|PotatoOfReason|
-|JALynchUIC|Z_i_i_0|
-Sat Nov 14 18:05:24 UTC 2020
+Sun Nov 15 00:12:49 UTC 2020
