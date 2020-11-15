@@ -4,6 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|bioptero|
-|-|JonathanPelah|
-Sun Nov 15 12:06:06 UTC 2020
+|HidSab|-|
+|apir0n|-|
+|gurnit_atwal|-|
+|JonathanPelah|-|
+Sun Nov 15 18:05:34 UTC 2020
