@@ -4,4 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sun Nov 15 00:12:49 UTC 2020
+|bioptero|NTallapragada|
+Sun Nov 15 06:05:35 UTC 2020
