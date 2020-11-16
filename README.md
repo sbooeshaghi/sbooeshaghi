@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Mon Nov 16 06:05:33 UTC 2020
+|ALadett|SamaIs_CodeRed|
+|wzyhzau|-|
+Mon Nov 16 12:06:13 UTC 2020
