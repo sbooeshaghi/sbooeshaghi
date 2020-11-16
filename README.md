@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|illWill477|-|
-Mon Nov 16 00:12:35 UTC 2020
+Mon Nov 16 06:05:33 UTC 2020
