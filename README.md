@@ -4,8 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|HidSab|-|
-|apir0n|-|
-|gurnit_atwal|-|
-|JonathanPelah|-|
-Sun Nov 15 18:05:34 UTC 2020
+|illWill477|-|
+Mon Nov 16 00:12:35 UTC 2020
