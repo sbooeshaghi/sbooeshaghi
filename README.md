@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|hugo_aerts|_eefii|
-|eczenrs|-|
-|Z_i_i_0|-|
-Mon Nov 16 18:04:52 UTC 2020
+|-|CaSaMiLaN8|
+Tue Nov 17 00:12:54 UTC 2020
