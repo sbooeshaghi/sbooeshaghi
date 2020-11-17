@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|CaSaMiLaN8|
-Tue Nov 17 00:12:54 UTC 2020
+|SamaIs_CodeRed|drewFthacker|
+|-|nadmullin|
+Tue Nov 17 06:05:29 UTC 2020
