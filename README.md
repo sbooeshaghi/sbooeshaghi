@@ -4,4 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Tue Nov 17 18:05:04 UTC 2020
+|-|eczenrs|
+|-|BioRoboost|
+|-|AlexWHewitt|
+Wed Nov 18 00:12:41 UTC 2020
