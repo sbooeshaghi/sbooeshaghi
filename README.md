@@ -4,6 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|mgd_1256|JALynchUIC|
-|SchibyAmir|-|
-Thu Nov 19 00:12:35 UTC 2020
+|IgnatiusQuixote|kabbe_m|
+|-|nrdstorm|
+|-|iamhuman1802|
+|-|ganbhag|
+Thu Nov 19 06:05:45 UTC 2020
