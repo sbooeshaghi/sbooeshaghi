@@ -4,8 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|IgnatiusQuixote|kabbe_m|
-|-|nrdstorm|
-|-|iamhuman1802|
-|-|ganbhag|
-Thu Nov 19 06:05:45 UTC 2020
+|-|mgd_1256|
+Thu Nov 19 12:06:32 UTC 2020
