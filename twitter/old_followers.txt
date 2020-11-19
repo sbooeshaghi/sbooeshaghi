@@ -730,7 +730,6 @@ Munkee010
 l333333337
 peshkov32
 deeboeh
-mgd_1256
 caiuspetron
 Dr_Mohd_AlAbri
 DaveMustaln
@@ -1350,7 +1349,6 @@ Jaro2903
 Dor570
 salahaddinayou
 snehasunshine
-SchibyAmir
 BrainiacSoldjer
 KcSharona
 amurphy00
@@ -2232,6 +2230,7 @@ fgypas
 jp_hamilton
 Adrian_Veres_
 hypercompetent
+JALynchUIC
 jjmerkin
 stevemunger
 arnavmehta3
