@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|housem0use|
-Fri Nov 20 06:06:31 UTC 2020
+|housem0use|-|
+Fri Nov 20 12:07:18 UTC 2020
