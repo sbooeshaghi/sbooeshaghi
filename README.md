@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|alfozan|
-Sat Nov 21 12:07:10 UTC 2020
+|cgdskrblt|AnimishNVaze|
+Sat Nov 21 18:05:38 UTC 2020
