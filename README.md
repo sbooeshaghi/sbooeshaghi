@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|StudentsCommun3|
-Fri Nov 20 18:05:26 UTC 2020
+|-|KevinMFlatley|
+Sat Nov 21 00:12:57 UTC 2020
