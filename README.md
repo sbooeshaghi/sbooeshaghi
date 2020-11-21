@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|SplashAttac|
-Sat Nov 21 06:06:14 UTC 2020
+|-|alfozan|
+Sat Nov 21 12:07:10 UTC 2020
