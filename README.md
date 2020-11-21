@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|KevinMFlatley|
-Sat Nov 21 00:12:57 UTC 2020
+|-|SplashAttac|
+Sat Nov 21 06:06:14 UTC 2020
