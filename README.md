@@ -4,8 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|theIntuitionist|
-|-|nschlut|
-|-|dipespandey08|
-|-|RobForeman8|
-Sun Nov 22 06:06:09 UTC 2020
+|nschlut|cavidHaydari3|
+|dipespandey08|-|
+|RobForeman8|-|
+Sun Nov 22 12:06:27 UTC 2020
