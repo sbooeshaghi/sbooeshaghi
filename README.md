@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|cgdskrblt|AnimishNVaze|
-Sat Nov 21 18:05:38 UTC 2020
+|goodlySTR|-|
+|MeijaJuris|-|
+|cavidHaydari3|-|
+Sun Nov 22 00:13:59 UTC 2020
