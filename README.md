@@ -4,7 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|goodlySTR|-|
-|MeijaJuris|-|
-|cavidHaydari3|-|
-Sun Nov 22 00:13:59 UTC 2020
+|-|theIntuitionist|
+|-|nschlut|
+|-|dipespandey08|
+|-|RobForeman8|
+Sun Nov 22 06:06:09 UTC 2020
