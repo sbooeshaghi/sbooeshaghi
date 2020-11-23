@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|joinstrandbase|PEVUXcompany|
-Sun Nov 22 18:05:25 UTC 2020
+|mf1982mf|hull01482|
+Mon Nov 23 00:13:34 UTC 2020
