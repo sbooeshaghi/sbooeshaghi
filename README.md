@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|mf1982mf|hull01482|
-Mon Nov 23 00:13:34 UTC 2020
+|GSharadaa|-|
+|UchennaEmechebe|-|
+Mon Nov 23 06:06:24 UTC 2020
