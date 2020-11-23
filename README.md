@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|GSharadaa|-|
-|UchennaEmechebe|-|
-Mon Nov 23 06:06:24 UTC 2020
+|-|GSharadaa|
+Mon Nov 23 12:06:54 UTC 2020
