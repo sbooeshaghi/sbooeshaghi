@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|criccio517|
-Tue Nov 24 06:05:56 UTC 2020
+|SamaIs_CodeRed|ALadett|
+|DiaryMadam|DarioRShaw|
+Tue Nov 24 12:06:41 UTC 2020
