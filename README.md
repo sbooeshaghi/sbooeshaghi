@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|SamaIs_CodeRed|ALadett|
-|DiaryMadam|DarioRShaw|
-Tue Nov 24 12:06:41 UTC 2020
+|DarioRShaw|-|
+Tue Nov 24 18:05:30 UTC 2020
