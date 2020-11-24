@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|michaelwainberg|SamaIs_CodeRed|
-|-|gurnit_atwal|
-Mon Nov 23 18:05:30 UTC 2020
+Tue Nov 24 00:13:18 UTC 2020
