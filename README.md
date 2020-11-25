@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|romanyam|
-|-|illWill477|
-Wed Nov 25 00:13:35 UTC 2020
+|ruihan_zhang|-|
+|apir0n|-|
+Wed Nov 25 06:06:26 UTC 2020

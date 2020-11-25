@@ -145,7 +145,6 @@ jordan_mcrae_
 ElowitzLab
 YUHANHAO2
 achaud20
-ruihan_zhang
 nima_genome
 shapira_yonatan
 annie__erickson
@@ -1232,7 +1231,6 @@ THUotila
 LeuMous
 IPuercospin
 Desmondsmith
-apir0n
 eleutheromaniaD
 amitshomrat
 dlarios94
