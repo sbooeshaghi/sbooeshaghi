@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|DarioRShaw|-|
-Tue Nov 24 18:05:30 UTC 2020
+|-|romanyam|
+|-|illWill477|
+Wed Nov 25 00:13:35 UTC 2020
