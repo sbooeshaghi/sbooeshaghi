@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|BioRoboost|elhamazizi|
-|-|IrianaGarza|
-Thu Nov 26 06:06:18 UTC 2020
+|IrianaGarza|san_sluck|
+|bioptero|Hbakiyom|
+|GSharadaa|-|
+Thu Nov 26 12:06:52 UTC 2020
