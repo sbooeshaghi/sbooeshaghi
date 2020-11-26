@@ -4,7 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|IrianaGarza|san_sluck|
-|bioptero|Hbakiyom|
-|GSharadaa|-|
-Thu Nov 26 12:06:52 UTC 2020
+|-|bioptero|
+|-|GSharadaa|
+|-|apir0n|
+Thu Nov 26 18:05:41 UTC 2020
