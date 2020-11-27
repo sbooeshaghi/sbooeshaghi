@@ -4,8 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|jjjhhhra|NhiHin|
-|tootaanda|Samirrz1|
-|-|Izadtus|
-|-|nebbulan|
-Fri Nov 27 06:06:19 UTC 2020
+|Izadtus|kozakghost95|
+Fri Nov 27 12:07:09 UTC 2020
