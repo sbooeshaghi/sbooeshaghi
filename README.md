@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Izadtus|kozakghost95|
-Fri Nov 27 12:07:09 UTC 2020
+|-|eric_lubeck|
+Fri Nov 27 18:05:27 UTC 2020
