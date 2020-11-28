@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|PatelOncology|brunogegenhuber|
-|dzhanoev|-|
-Sat Nov 28 00:14:03 UTC 2020
+Sat Nov 28 06:06:16 UTC 2020
