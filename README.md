@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|eric_lubeck|
-Fri Nov 27 18:05:27 UTC 2020
+|PatelOncology|brunogegenhuber|
+|dzhanoev|-|
+Sat Nov 28 00:14:03 UTC 2020
