@@ -4,4 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sat Nov 28 06:06:16 UTC 2020
+|iamhuman1802|dofreed|
+|anis_dhsoft|aBioSWE|
+|apir0n|gavin_sowa|
+Sat Nov 28 12:07:11 UTC 2020
