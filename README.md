@@ -4,7 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|iamhuman1802|dofreed|
-|anis_dhsoft|aBioSWE|
-|apir0n|gavin_sowa|
-Sat Nov 28 12:07:11 UTC 2020
+|StudentsCommun3|genebrew|
+|-|drelopara|
+|-|CellModel|
+|-|shinagawa__|
+|-|apir0n|
+Sat Nov 28 18:05:45 UTC 2020
