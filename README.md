@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|shinagawa__|alienghic|
-Sun Nov 29 00:14:43 UTC 2020
+|nebbulan|-|
+Sun Nov 29 06:06:06 UTC 2020
