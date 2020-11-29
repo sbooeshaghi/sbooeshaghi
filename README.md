@@ -4,9 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|StudentsCommun3|genebrew|
-|-|drelopara|
-|-|CellModel|
-|-|shinagawa__|
-|-|apir0n|
-Sat Nov 28 18:05:45 UTC 2020
+|shinagawa__|alienghic|
+Sun Nov 29 00:14:43 UTC 2020
