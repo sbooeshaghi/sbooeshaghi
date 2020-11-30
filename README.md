@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|pabloacosta9|mfinpablo|
-Sun Nov 29 18:05:29 UTC 2020
+Mon Nov 30 00:14:40 UTC 2020
