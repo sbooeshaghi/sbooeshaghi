@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|saketkc|JeremyKap|
-Mon Nov 30 06:06:42 UTC 2020
+Mon Nov 30 12:07:40 UTC 2020
