@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|aniramesh5|-|
-Tue Dec  1 12:07:36 UTC 2020
+|kunaljasty|_SandraAziz_|
+|san_sluck|-|
+Tue Dec  1 18:16:20 UTC 2020
