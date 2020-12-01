@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|romanyam|-|
-Mon Nov 30 18:06:00 UTC 2020
+|GSharadaa|-|
+Tue Dec  1 00:15:06 UTC 2020
