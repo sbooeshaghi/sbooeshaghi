@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Wed Dec  2 06:06:26 UTC 2020
+|-|laitho|
+|-|minakhoshnoodi|
+Wed Dec  2 12:07:47 UTC 2020
