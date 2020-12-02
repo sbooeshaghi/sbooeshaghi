@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|kunaljasty|_SandraAziz_|
-|san_sluck|-|
-Tue Dec  1 18:16:20 UTC 2020
+|laitho|-|
+|_SandraAziz_|-|
+|11november1918|-|
+Wed Dec  2 00:14:34 UTC 2020
