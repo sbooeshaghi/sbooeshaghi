@@ -4,30 +4,28 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|boxjellytalk|
-|-|santiagokique|
-|-|nataliecapogna|
-|-|Tahir_ul_qamar|
-|-|OTsiouri|
-|-|KLNahas|
-|-|lucicse|
-|-|stefanospinel15|
-|-|Nayimcete|
-|-|cas_crispr|
-|-|AnttonLamarka|
-|-|chisinig|
-|-|KyleZWang|
-|-|themaklin|
-|-|Syndestad_|
-|-|NicholasHoppe|
-|-|HayleyMBennett|
-|-|kkovary|
-|-|EdythParker|
-|-|rodrigobarnes|
-|-|jbreboix|
-|-|scientist_soham|
-|-|Fatem3hSa|
-|-|abhilash_111|
-|-|teregaviota|
-|-|jballaji|
-Thu Dec  3 12:07:58 UTC 2020
+|mdrshhn|ShaneRoesemann|
+|jballaji|NayrouzAz|
+|-|zamanian_|
+|-|Nuno11878867|
+|-|Ray32364897|
+|-|a_c_herman|
+|-|Alvaro_ac_al|
+|-|dylan_w_mills|
+|-|IsaacGuerreiro9|
+|-|ceneic|
+|-|devomics|
+|-|MrsZngn|
+|-|HootanKamran|
+|-|Duc_blackogon|
+|-|noush_joglekar|
+|-|AramModrek|
+|-|shelakshmenot|
+|-|scottlmnop|
+|-|dannyrabiz|
+|-|fosado_ricardo|
+|-|tfischer78|
+|-|ucielp|
+|-|yannbuck|
+|-|dipespandey08|
+Thu Dec  3 18:06:12 UTC 2020
