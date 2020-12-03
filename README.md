@@ -4,7 +4,14 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|elhamazizi|DNSidiropoulos|
-|GSharadaa|mollyrgordon1|
-|minakhoshnoodi|-|
-Wed Dec  2 18:05:34 UTC 2020
+|TyBc84367336|dan_martimarti|
+|-|cianelquimico|
+|-|gavin_w_wilson|
+|-|arielmadr|
+|-|L_de_Haro|
+|-|JThomasNTU|
+|-|SaberaTalukder|
+|-|AdriVillastrigo|
+|-|HWelfley|
+|-|soumyakundu_|
+Thu Dec  3 00:14:47 UTC 2020
