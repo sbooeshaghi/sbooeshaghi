@@ -4,24 +4,30 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|minakhoshnoodi|Nwhughes3|
-|-|feyzarguc|
-|-|fulong_yu|
-|-|modafalla|
-|-|kaylia_duncan|
-|-|Qiuzhuang|
-|-|shuttupdad|
-|-|tin_rb|
-|-|jntkym|
-|-|rafsanjaniLab|
-|-|littlebaleine|
-|-|ZvxyWu|
-|-|hero_of_lore|
-|-|RichaRast|
-|-|jsmithhopkins|
-|-|munzmarci|
-|-|nonstandardcode|
-|-|nathan_omans|
-|-|GSharadaa|
-|-|minakhoshi|
-Thu Dec  3 06:06:23 UTC 2020
+|-|boxjellytalk|
+|-|santiagokique|
+|-|nataliecapogna|
+|-|Tahir_ul_qamar|
+|-|OTsiouri|
+|-|KLNahas|
+|-|lucicse|
+|-|stefanospinel15|
+|-|Nayimcete|
+|-|cas_crispr|
+|-|AnttonLamarka|
+|-|chisinig|
+|-|KyleZWang|
+|-|themaklin|
+|-|Syndestad_|
+|-|NicholasHoppe|
+|-|HayleyMBennett|
+|-|kkovary|
+|-|EdythParker|
+|-|rodrigobarnes|
+|-|jbreboix|
+|-|scientist_soham|
+|-|Fatem3hSa|
+|-|abhilash_111|
+|-|teregaviota|
+|-|jballaji|
+Thu Dec  3 12:07:58 UTC 2020
