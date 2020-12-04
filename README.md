@@ -4,13 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|de369|awkhub|
-|SahilRGupta|HPratheek|
-|-|IanDMedeiros|
-|-|bmathema|
-|-|DarciG6|
-|-|ZSiwen|
-|-|suderiss|
-|-|devash1shde|
-|-|GSharadaa|
-Fri Dec  4 06:06:25 UTC 2020
+|sarahrussellsci|daniela_oaks|
+Fri Dec  4 12:08:19 UTC 2020
