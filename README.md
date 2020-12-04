@@ -4,19 +4,13 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|GSharadaa|MKBioinfGenome|
-|galib_ewu36|DavidSMLee|
-|-|ThyagoHills|
-|-|volkov_leo|
-|-|AhmadJalilian|
-|-|jcjray|
-|-|leilabguzman|
-|-|kherreh|
-|-|proukakis|
-|-|jenniherrmann|
-|-|Ndeseka|
-|-|VahapEldem8|
-|-|DarioBalacco|
-|-|ClathrinSays|
-|-|SahilRGupta|
-Fri Dec  4 00:14:47 UTC 2020
+|de369|awkhub|
+|SahilRGupta|HPratheek|
+|-|IanDMedeiros|
+|-|bmathema|
+|-|DarciG6|
+|-|ZSiwen|
+|-|suderiss|
+|-|devash1shde|
+|-|GSharadaa|
+Fri Dec  4 06:06:25 UTC 2020
