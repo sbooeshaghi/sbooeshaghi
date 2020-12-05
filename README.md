@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|GSharadaa|
-|-|tangming2005|
-|-|simocristea|
-Sat Dec  5 06:06:25 UTC 2020
+|tangming2005|AoiSenju|
+|simocristea|eczenrs|
+Sat Dec  5 12:07:24 UTC 2020
