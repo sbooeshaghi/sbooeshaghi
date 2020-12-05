@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|GersonOJ|
-|-|jrcfernandes|
-Fri Dec  4 18:06:06 UTC 2020
+|opencovid19|-|
+|eczenrs|-|
+|GSharadaa|-|
+Sat Dec  5 00:15:10 UTC 2020
