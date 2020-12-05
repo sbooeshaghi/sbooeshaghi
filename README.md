@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|tangming2005|AoiSenju|
-|simocristea|eczenrs|
-Sat Dec  5 12:07:24 UTC 2020
+|-|felix_rozenberg|
+|-|Sher1ockk|
+Sat Dec  5 18:06:25 UTC 2020
