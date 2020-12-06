@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|felix_rozenberg|
-|-|Sher1ockk|
-Sat Dec  5 18:06:25 UTC 2020
+Sun Dec  6 00:15:51 UTC 2020
