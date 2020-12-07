@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|bioptero|
-Sun Dec  6 18:05:51 UTC 2020
+|AdibChristian|-|
+|jkeyhans|-|
+|GSharadaa|-|
+Mon Dec  7 00:15:43 UTC 2020
