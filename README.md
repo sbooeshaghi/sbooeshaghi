@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|SaberaTalukder|KhairMufti|
-Mon Dec  7 06:07:22 UTC 2020
+|-|gtmnagalla|
+|-|GSharadaa|
+Mon Dec  7 12:07:57 UTC 2020
