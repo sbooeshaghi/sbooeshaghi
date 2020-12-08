@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|GSharadaa|JKaylight|
-Tue Dec  8 00:15:27 UTC 2020
+|matias_kaplan|-|
+Tue Dec  8 06:07:16 UTC 2020
