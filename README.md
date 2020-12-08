@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|apir0n|-|
-|ChaoMin02009965|-|
-Mon Dec  7 18:06:12 UTC 2020
+|GSharadaa|JKaylight|
+Tue Dec  8 00:15:27 UTC 2020
