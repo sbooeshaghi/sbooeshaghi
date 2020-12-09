@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|GSharadaa|AdibChristian|
-Wed Dec  9 06:07:17 UTC 2020
+|-|nextcfd|
+|-|GSharadaa|
+Wed Dec  9 12:08:08 UTC 2020
