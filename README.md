@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|linzhang88|
-|-|CaltechN|
-|-|swarnaq|
-Tue Dec  8 18:06:17 UTC 2020
+|swarnaq|AliJasonSaleh1|
+|Birdontheboat|apir0n|
+Wed Dec  9 00:15:31 UTC 2020
