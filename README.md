@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|kesperlin|-|
-Thu Dec 10 06:07:11 UTC 2020
+|DarioBalacco|ydsa_caltech|
+|alexsteyne|-|
+|EMANZAKY|-|
+Thu Dec 10 12:08:24 UTC 2020
