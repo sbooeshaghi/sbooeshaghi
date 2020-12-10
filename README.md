@@ -4,4 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Thu Dec 10 00:15:43 UTC 2020
+|kesperlin|-|
+Thu Dec 10 06:07:11 UTC 2020
