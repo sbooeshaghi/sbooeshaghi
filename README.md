@@ -4,8 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Mojgan_Asadi|KevinKaichuang|
-|GSharadaa|WillRosencrans|
-|evolvwing|JFluidMech|
-|intipedroso|-|
-Fri Dec 11 00:15:53 UTC 2020
+|-|Mojgan_Asadi|
+|-|GSharadaa|
+|-|intipedroso|
+Fri Dec 11 06:07:07 UTC 2020
