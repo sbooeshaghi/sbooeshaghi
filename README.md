@@ -4,7 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|DashboardDaisy|sgsguietsu|
-|GSharadaa|a_gazelessstare|
-|ffajrulf|fajrulfx_|
-Fri Dec 11 12:08:04 UTC 2020
+|cavidHaydari3|PriyanujSengup1|
+|-|AdityaMahadevan|
+|-|GSharadaa|
+Fri Dec 11 18:06:33 UTC 2020
