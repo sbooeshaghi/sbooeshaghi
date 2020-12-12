@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|MohammadrezEsm1|jvcavv|
-|-|cavidHaydari3|
-Sat Dec 12 00:15:51 UTC 2020
+|cavidHaydari3|-|
+Sat Dec 12 06:07:10 UTC 2020
