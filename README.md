@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|cavidHaydari3|PriyanujSengup1|
-|-|AdityaMahadevan|
-|-|GSharadaa|
-Fri Dec 11 18:06:33 UTC 2020
+|MohammadrezEsm1|jvcavv|
+|-|cavidHaydari3|
+Sat Dec 12 00:15:51 UTC 2020
