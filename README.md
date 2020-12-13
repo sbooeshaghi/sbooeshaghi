@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|DNSidiropoulos|cavidHaydari3|
-|dipespandey08|-|
-Sat Dec 12 18:06:29 UTC 2020
+|GSharadaa|-|
+Sun Dec 13 00:16:24 UTC 2020
