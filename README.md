@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|illWill477|-|
-Mon Dec 14 06:08:13 UTC 2020
+|cavidHaydari3|opencovid19|
+|amtpl|GSharadaa|
+Mon Dec 14 12:08:43 UTC 2020
