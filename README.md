@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|GSharadaa|nanopore|
-|angelicagolban|-|
-Mon Dec 14 00:16:08 UTC 2020
+|illWill477|-|
+Mon Dec 14 06:08:13 UTC 2020
