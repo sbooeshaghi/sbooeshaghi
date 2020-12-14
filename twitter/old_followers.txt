@@ -21,7 +21,6 @@ KhairMufti
 u_smell_it
 felix_rozenberg
 Sher1ockk
-AoiSenju
 GersonOJ
 jrcfernandes
 daniela_oaks
@@ -1183,7 +1182,7 @@ hercme24
 molote_molote
 Herambraj1
 platutong
-_eefii
+tickification
 doc_newt
 abdo007live
 HeyMo_DC
