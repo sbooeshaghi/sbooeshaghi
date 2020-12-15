@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AoiSenju|tickification|
-|_eefii|-|
-Mon Dec 14 18:05:34 UTC 2020
+|GSharadaa|cavidHaydari3|
+|ZaynIsBaeQS|-|
+Tue Dec 15 00:15:48 UTC 2020
