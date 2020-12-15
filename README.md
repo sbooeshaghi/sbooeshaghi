@@ -4,6 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|GSharadaa|cavidHaydari3|
-|ZaynIsBaeQS|-|
-Tue Dec 15 00:15:48 UTC 2020
+|-|dipespandey08|
+|-|wbgrant2|
+|-|abidoliverali|
+|-|ZaynIsBaeQS|
+Tue Dec 15 06:07:46 UTC 2020
