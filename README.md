@@ -4,8 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|dipespandey08|
-|-|wbgrant2|
-|-|abidoliverali|
-|-|ZaynIsBaeQS|
-Tue Dec 15 06:07:46 UTC 2020
+|wbgrant2|Huangtongabc1|
+|abidoliverali|-|
+Tue Dec 15 12:08:29 UTC 2020
