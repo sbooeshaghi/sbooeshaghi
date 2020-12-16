@@ -1911,7 +1911,6 @@ joanapetrescu
 sangsin_lee
 benjykun
 samsinai
-BaBalogog
 KollmarMartin
 fsharifi4
 Arctan2

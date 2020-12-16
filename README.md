@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|ZaynIsBaeQS|GSharadaa|
-Tue Dec 15 18:06:15 UTC 2020
+|BaBalogog|-|
+Wed Dec 16 00:16:08 UTC 2020
