@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|rbalabaki|
-|-|GSharadaa|
-|-|illWill477|
-Wed Dec 16 12:08:37 UTC 2020
+|-|K_Corthals|
+Wed Dec 16 18:06:40 UTC 2020
