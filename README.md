@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|BaBalogog|-|
-Wed Dec 16 00:16:08 UTC 2020
+|rbalabaki|-|
+|GSharadaa|-|
+|AnimaAnandkumar|-|
+Wed Dec 16 06:07:37 UTC 2020
