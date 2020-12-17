@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|Rounak04329645|
-Thu Dec 17 06:07:38 UTC 2020
+|-|NicoLopezCarran|
+Thu Dec 17 12:09:00 UTC 2020
