@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|K_Corthals|
-Wed Dec 16 18:06:40 UTC 2020
+|-|iam78488476|
+|-|BaBalogog|
+Thu Dec 17 00:17:58 UTC 2020
