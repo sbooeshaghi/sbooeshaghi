@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|NicoLopezCarran|
-Thu Dec 17 12:09:00 UTC 2020
+|Nwhughes3|-|
+|kazumachack|-|
+Thu Dec 17 18:08:23 UTC 2020

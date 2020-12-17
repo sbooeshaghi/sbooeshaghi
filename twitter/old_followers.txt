@@ -97,7 +97,6 @@ scientist_soham
 Fatem3hSa
 abhilash_111
 teregaviota
-Nwhughes3
 feyzarguc
 fulong_yu
 modafalla
@@ -1797,7 +1796,6 @@ mfiruleva
 B_samuel92
 AHMED_ALSHAFAI1
 R303S3
-kazumachack
 sci_debunker
 PatGuenther1
 ivirshup
