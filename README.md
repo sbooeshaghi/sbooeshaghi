@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|iam78488476|
-|-|BaBalogog|
-Thu Dec 17 00:17:58 UTC 2020
+|-|Rounak04329645|
+Thu Dec 17 06:07:38 UTC 2020
