@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Rounak04329645|evolvwing|
-|dipespandey08|-|
-Fri Dec 18 06:08:09 UTC 2020
+Fri Dec 18 12:09:01 UTC 2020
