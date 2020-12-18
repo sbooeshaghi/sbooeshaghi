@@ -4,4 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Fri Dec 18 12:09:01 UTC 2020
+|Ray32364897|Genomics_Guy|
+Fri Dec 18 18:15:05 UTC 2020
