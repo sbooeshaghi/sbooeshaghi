@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|BROUGHT_WORST|seeliglab|
-|-|aelbrought|
-Fri Dec 18 00:17:18 UTC 2020
+|Rounak04329645|evolvwing|
+|dipespandey08|-|
+Fri Dec 18 06:08:09 UTC 2020
