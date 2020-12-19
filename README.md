@@ -4,4 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sat Dec 19 06:07:49 UTC 2020
+|-|a_tashkeev|
+Sat Dec 19 12:09:00 UTC 2020
