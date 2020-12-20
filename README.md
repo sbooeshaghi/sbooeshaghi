@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|DrDanielSwan|lucson94493979|
-|-|cavidHaydari3|
-Sun Dec 20 06:07:34 UTC 2020
+|b11_dr|MakerBassam|
+|notlinear1|-|
+Sun Dec 20 12:08:46 UTC 2020
