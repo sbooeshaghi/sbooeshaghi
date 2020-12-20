@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AngelaMerks|-|
-|cavidHaydari3|-|
-Sun Dec 20 00:16:50 UTC 2020
+|DrDanielSwan|lucson94493979|
+|-|cavidHaydari3|
+Sun Dec 20 06:07:34 UTC 2020
