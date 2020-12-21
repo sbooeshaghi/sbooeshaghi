@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|sangram_ksahu|reinadelplatano|
-|-|lylaatta|
-Mon Dec 21 00:19:26 UTC 2020
+|GSharadaa|cralbors|
+|-|afikanyati|
+|-|sangram_ksahu|
+Mon Dec 21 06:08:04 UTC 2020
