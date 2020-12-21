@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|GSharadaa|cralbors|
-|-|afikanyati|
-|-|sangram_ksahu|
-Mon Dec 21 06:08:04 UTC 2020
+|-|robamezquita|
+Mon Dec 21 12:09:27 UTC 2020
