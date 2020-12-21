@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|robamezquita|-|
-Sun Dec 20 18:11:21 UTC 2020
+|sangram_ksahu|reinadelplatano|
+|-|lylaatta|
+Mon Dec 21 00:19:26 UTC 2020
