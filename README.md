@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|BlasiCerdaBrnt|-|
-Tue Dec 22 12:11:45 UTC 2020
+Tue Dec 22 18:20:00 UTC 2020
