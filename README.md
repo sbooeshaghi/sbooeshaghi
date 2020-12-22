@@ -4,8 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AndreasHadjimi4|aihardin|
-|ellenagnesa|AAHadjimitsis|
-|cavidHaydari3|GSharadaa|
-|gurnit_atwal|-|
-Mon Dec 21 18:15:02 UTC 2020
+|-|OrenSMizr|
+|-|cavidHaydari3|
+Tue Dec 22 00:20:57 UTC 2020
