@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|OrenSMizr|
-|-|cavidHaydari3|
-Tue Dec 22 00:20:57 UTC 2020
+|rbalabaki|BlasiCerdaBrnt|
+Tue Dec 22 06:09:59 UTC 2020
