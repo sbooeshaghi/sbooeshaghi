@@ -4,9 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|ArjavShah13|JMSD16|
-|GSharadaa|russel_locked|
-|-|zrcjessica|
-|-|mohanned_oraba|
-|-|cavidHaydari3|
-Wed Dec 23 12:11:39 UTC 2020
+|Nomdeplumi1|vikizyo|
+|-|baetsie|
+|-|GSharadaa|
+Wed Dec 23 18:24:45 UTC 2020
