@@ -4,9 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|ArianaChriss|
-|-|RyanConti4|
-|-|Quizzomaniac|
-|-|roayaei|
-|-|dipespandey08|
-Wed Dec 23 06:10:20 UTC 2020
+|ArjavShah13|JMSD16|
+|GSharadaa|russel_locked|
+|-|zrcjessica|
+|-|mohanned_oraba|
+|-|cavidHaydari3|
+Wed Dec 23 12:11:39 UTC 2020
