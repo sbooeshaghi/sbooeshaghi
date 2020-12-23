@@ -4,4 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Tue Dec 22 18:20:00 UTC 2020
+|mohanned_oraba|Pejminister|
+|cavidHaydari3|flamholz|
+|-|rbalabaki|
+Wed Dec 23 00:22:45 UTC 2020
