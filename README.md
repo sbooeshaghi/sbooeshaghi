@@ -4,7 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|SalehFayezM|altadataio|
-|GSharadaa|Ktaninaaa|
-|apir0n|-|
-Thu Dec 24 12:11:22 UTC 2020
+|boti_ka|DadrasArmin|
+|-|jidroid|
+|-|peterkcrane|
+|-|GSharadaa|
+Thu Dec 24 18:26:04 UTC 2020
