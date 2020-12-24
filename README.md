@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Nomdeplumi1|vikizyo|
-|-|baetsie|
-|-|GSharadaa|
-Wed Dec 23 18:24:45 UTC 2020
+|baetsie|OldDogHotel|
+|saxena_prtk|saxenapratik1|
+Thu Dec 24 00:26:01 UTC 2020
