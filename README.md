@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|KellanMoorse|
-|-|apir0n|
-Fri Dec 25 06:07:53 UTC 2020
+|-|maya_ayoubi|
+Fri Dec 25 12:09:18 UTC 2020
