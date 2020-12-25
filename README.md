@@ -4,8 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|boti_ka|DadrasArmin|
-|-|jidroid|
-|-|peterkcrane|
-|-|GSharadaa|
-Thu Dec 24 18:26:04 UTC 2020
+|Haytham_Alhamed|-|
+Fri Dec 25 00:23:11 UTC 2020
