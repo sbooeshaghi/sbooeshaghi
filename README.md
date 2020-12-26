@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|apir0n|pvcinelli|
-|-|strange_stuff_|
-|-|GSharadaa|
-Sat Dec 26 12:09:23 UTC 2020
+|pvcinelli|ZaynIsBaeQS|
+|strange_stuff_|-|
+Sat Dec 26 18:21:01 UTC 2020
