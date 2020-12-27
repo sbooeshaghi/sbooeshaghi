@@ -332,7 +332,6 @@ ccallihoo
 LMT_Spoon
 talisol
 ReggiardoRoman
-xginga
 suzy_beeler
 hull01482
 mukundmadhav
@@ -1646,7 +1645,7 @@ _marjo_david
 peterch405
 maddymduran
 _cajackson
-lambertchu94
+LambchopsChu
 keshav_motwani
 salihaey
 DiegoAHuyke
