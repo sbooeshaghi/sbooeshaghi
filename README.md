@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|xginga|LambchopsChu|
-|lambertchu94|-|
-Sun Dec 27 00:22:42 UTC 2020
+|maureengreenesq|-|
+|shaudimh|-|
+Sun Dec 27 06:07:59 UTC 2020
