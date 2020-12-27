@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|Kandimalla_Prat|
-Sun Dec 27 12:09:11 UTC 2020
+|tradr16|jeny_po|
+|-|apir0n|
+Sun Dec 27 18:22:20 UTC 2020
