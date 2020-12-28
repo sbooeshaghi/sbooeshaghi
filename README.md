@@ -4,4 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Mon Dec 28 06:09:08 UTC 2020
+|ZSiwen|serragencaliogl|
+|nataliecapogna|_AbhayChaudhary|
+|admiraladkins|-|
+|intipedroso|-|
+Mon Dec 28 12:09:34 UTC 2020
