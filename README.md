@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|tradr16|jeny_po|
-|-|apir0n|
-Sun Dec 27 18:22:20 UTC 2020
+|MiladMiladi_|-|
+Mon Dec 28 00:23:09 UTC 2020
