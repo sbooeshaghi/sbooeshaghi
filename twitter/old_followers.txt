@@ -63,7 +63,7 @@ awkhub
 HPratheek
 IanDMedeiros
 bmathema
-DarciG6
+ZSiwen
 suderiss
 MKBioinfGenome
 DavidSMLee
@@ -142,7 +142,6 @@ jsmithhopkins
 munzmarci
 nonstandardcode
 nathan_omans
-dan_martimarti
 cianelquimico
 gavin_w_wilson
 arielmadr
@@ -276,7 +275,6 @@ PHDMonstR
 galicae
 chofski
 BiomageLtd
-A__Aljalahmah
 PanizCharkhchi
 InnesBrendanT
 ChaneyKalinich
@@ -2054,6 +2052,7 @@ mceccarelli
 maegsul
 AlexisWe
 kianfaizi
+shaudimh
 cataluna84
 tweetstefanos
 jimrose835
