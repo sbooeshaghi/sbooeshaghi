@@ -4,7 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|DarciG6|ZSiwen|
-|dan_martimarti|shaudimh|
-|A__Aljalahmah|-|
-Tue Dec 29 06:10:50 UTC 2020
+Tue Dec 29 12:10:38 UTC 2020
