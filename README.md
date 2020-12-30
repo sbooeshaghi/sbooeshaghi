@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|NickyNeuro|
-Wed Dec 30 06:10:51 UTC 2020
+|mohanned_oraba|VincenzoCitr0|
+|GSharadaa|-|
+Wed Dec 30 12:09:56 UTC 2020
