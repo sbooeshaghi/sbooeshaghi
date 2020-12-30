@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|TheVioletKitty1|fractalyza|
-|thatprimenumber|AleCerverat|
-|rana_frog|-|
-Wed Dec 30 00:25:52 UTC 2020
+|-|NickyNeuro|
+Wed Dec 30 06:10:51 UTC 2020
