@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|dan_martimarti|
-Tue Dec 29 18:31:38 UTC 2020
+|TheVioletKitty1|fractalyza|
+|thatprimenumber|AleCerverat|
+|rana_frog|-|
+Wed Dec 30 00:25:52 UTC 2020
