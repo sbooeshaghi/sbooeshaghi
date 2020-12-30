@@ -4,6 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|mohanned_oraba|VincenzoCitr0|
-|GSharadaa|-|
-Wed Dec 30 12:09:56 UTC 2020
+|abhinavappidi27|VaibhavMittal96|
+|hiasanduka|monkeygede|
+|1039334089|GSharadaa|
+|illWill477|ycai_cs|
+|-|intipedroso|
+Wed Dec 30 18:31:26 UTC 2020
