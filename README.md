@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|JadFahs|infinite_frank|
-Thu Dec 31 00:27:59 UTC 2020
+|-|Theodysse|
+Thu Dec 31 06:14:24 UTC 2020
