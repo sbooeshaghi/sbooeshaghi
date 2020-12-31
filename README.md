@@ -4,9 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|abhinavappidi27|VaibhavMittal96|
-|hiasanduka|monkeygede|
-|1039334089|GSharadaa|
-|illWill477|ycai_cs|
-|-|intipedroso|
-Wed Dec 30 18:31:26 UTC 2020
+|JadFahs|infinite_frank|
+Thu Dec 31 00:27:59 UTC 2020
