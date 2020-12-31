@@ -4,5 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|Theodysse|
-Thu Dec 31 06:14:24 UTC 2020
+|Theodysse|-|
+|dipespandey08|-|
+|GSharadaa|-|
+|KevinCHQuinn|-|
+Thu Dec 31 12:12:53 UTC 2020
