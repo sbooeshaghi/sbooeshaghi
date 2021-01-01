@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|HeevaBaharlou|-|
-Thu Dec 31 18:33:56 UTC 2020
+|tickification|Susi_Horn|
+|adithsarun|Ireland_2021|
+Fri Jan  1 00:26:58 UTC 2021
