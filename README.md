@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|mohanned_oraba|
-|-|HeevaBaharlou|
-|-|dipespandey08|
-Fri Jan  1 06:11:57 UTC 2021
+|mohanned_oraba|abhinavappidi27|
+Fri Jan  1 12:10:51 UTC 2021
