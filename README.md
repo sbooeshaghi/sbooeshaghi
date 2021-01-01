@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|tickification|Susi_Horn|
-|adithsarun|Ireland_2021|
-Fri Jan  1 00:26:58 UTC 2021
+|-|mohanned_oraba|
+|-|HeevaBaharlou|
+|-|dipespandey08|
+Fri Jan  1 06:11:57 UTC 2021
