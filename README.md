@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|disgudting|10110I101|
-|mathyoud|-|
-Sat Jan  2 00:26:05 UTC 2021
+|fosado_ricardo|ricardo_fosado|
+Sat Jan  2 06:12:21 UTC 2021
