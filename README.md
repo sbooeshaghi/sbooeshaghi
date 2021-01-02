@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|seanbankier|GSharadaa|
-Fri Jan  1 18:29:19 UTC 2021
+|disgudting|10110I101|
+|mathyoud|-|
+Sat Jan  2 00:26:05 UTC 2021
