@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|bioptero|mohanned_oraba|
-|-|GSharadaa|
-Sun Jan  3 12:10:08 UTC 2021
+|serragencaliogl|serragncalioglu|
+|-|bioptero|
+Sun Jan  3 18:28:23 UTC 2021
