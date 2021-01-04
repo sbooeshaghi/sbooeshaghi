@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|bioptero|nnharb|
-|GSharadaa|-|
-Mon Jan  4 12:11:42 UTC 2021
+|Susi_Horn|GSharadaa|
+|nnharb|-|
+Mon Jan  4 18:30:20 UTC 2021
