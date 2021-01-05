@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|DJBourned|eczenrs|
-|GSharadaa|-|
-Tue Jan  5 12:11:43 UTC 2021
+|_atthis|GSharadaa|
+|-|lor_dambrosio|
+Tue Jan  5 18:32:34 UTC 2021
