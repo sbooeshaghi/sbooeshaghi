@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Wed Jan  6 06:14:46 UTC 2021
+|dipespandey08|DonnellyDNA|
+|GSharadaa|eczenrs|
+Wed Jan  6 12:12:19 UTC 2021
