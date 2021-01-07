@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|deepamgp|-|
-Wed Jan  6 18:32:55 UTC 2021
+|-|JadFahs|
+|-|jind0sh|
+Thu Jan  7 00:32:32 UTC 2021
