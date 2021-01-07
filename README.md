@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|JadFahs|
-|-|jind0sh|
-Thu Jan  7 00:32:32 UTC 2021
+|fischer_cr|-|
+|zheyu_HH|-|
+|jind0sh|-|
+Thu Jan  7 06:16:26 UTC 2021
