@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|dipespandey08|
-Thu Jan  7 18:33:47 UTC 2021
+|infinite_frank|rabarretom|
+|GSharadaa|illWill477|
+Fri Jan  8 00:31:56 UTC 2021
