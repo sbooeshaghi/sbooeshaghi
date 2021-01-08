@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|Jessica_36531|
-|-|GSharadaa|
-Fri Jan  8 06:17:34 UTC 2021
+|GSharadaa|AnalyticalBioS1|
+|-|BrowserOmni|
+|-|ChaoMin02009965|
+Fri Jan  8 12:14:59 UTC 2021
