@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|infinite_frank|rabarretom|
-|GSharadaa|illWill477|
-Fri Jan  8 00:31:56 UTC 2021
+|-|Jessica_36531|
+|-|GSharadaa|
+Fri Jan  8 06:17:34 UTC 2021
