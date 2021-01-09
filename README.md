@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Farid76808744|-|
-Sat Jan  9 06:19:38 UTC 2021
+|hull01482|Ivermectinworks|
+|ramiabisaab|-|
+|thepythonquiz|-|
+Sat Jan  9 12:14:31 UTC 2021
