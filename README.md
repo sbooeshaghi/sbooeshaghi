@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Fri Jan  8 18:32:02 UTC 2021
+|senatorsane1|-|
+|apir0n|-|
+Sat Jan  9 00:31:52 UTC 2021
