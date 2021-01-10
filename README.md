@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Capt_Zag|zheyu_HH|
-|-|ramiabisaab|
-Sun Jan 10 06:21:47 UTC 2021
+|2021Digital|-|
+Sun Jan 10 12:16:16 UTC 2021
