@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|mohanned_oraba|2021Digital|
-|Ireland_2021|apir0n|
-Sat Jan  9 18:35:49 UTC 2021
+|jeny_po|mohanned_oraba|
+|-|PalaTauApa|
+Sun Jan 10 00:33:04 UTC 2021
