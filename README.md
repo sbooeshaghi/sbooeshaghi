@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|cobyviner|-|
-Mon Jan 11 00:32:40 UTC 2021
+|julissa111|-|
+Mon Jan 11 06:22:48 UTC 2021
