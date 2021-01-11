@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Ktaninaaa|AKtanina|
-|-|cobyviner|
-Sun Jan 10 18:34:36 UTC 2021
+|cobyviner|-|
+Mon Jan 11 00:32:40 UTC 2021
