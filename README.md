@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|julissa111|-|
-Mon Jan 11 06:22:48 UTC 2021
+|pencilsnpaints2|-|
+Mon Jan 11 12:18:16 UTC 2021
