@@ -4,5 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|dipespandey08|-|
-Tue Jan 12 12:19:19 UTC 2021
+|-|rrastogi02|
+|-|f_calvet|
+|-|JimKaminski|
+|-|monweneekarin|
+|-|apir0n|
+Tue Jan 12 18:41:49 UTC 2021
