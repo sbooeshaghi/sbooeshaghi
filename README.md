@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|apir0n|-|
-|housem0use|-|
-Tue Jan 12 00:35:45 UTC 2021
+|Corey7999|-|
+|ChaoMin02009965|-|
+Tue Jan 12 06:23:39 UTC 2021
