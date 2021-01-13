@@ -4,7 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|HeiniMNatri|calvinrosson|
-|-|jeffmontague|
-|-|Ishaavaasyam|
-Wed Jan 13 12:27:32 UTC 2021
+|Maziari|GeorgSmieszkol|
+|-|thom_reimer|
+|-|ecohealthnut|
+Wed Jan 13 18:50:55 UTC 2021
