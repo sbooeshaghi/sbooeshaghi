@@ -4,8 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|edibalian|MovinBytes|
-|Maziari|chris_karon|
-|-|SQLThugette|
-|-|paulkalebu|
-Wed Jan 13 00:42:09 UTC 2021
+|-|Maziari|
+|-|HeiniMNatri|
+Wed Jan 13 06:29:11 UTC 2021
