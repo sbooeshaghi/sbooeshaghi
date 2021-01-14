@@ -4,8 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|TeresaChubb|
-|-|michellemck0|
-|-|OAltruistic|
-|-|Maziari|
-Thu Jan 14 00:50:01 UTC 2021
+|-|Sumaira_Zaman_|
+Thu Jan 14 06:31:23 UTC 2021
