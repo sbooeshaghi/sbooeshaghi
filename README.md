@@ -4,7 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Maziari|GeorgSmieszkol|
-|-|thom_reimer|
-|-|ecohealthnut|
-Wed Jan 13 18:50:55 UTC 2021
+|-|TeresaChubb|
+|-|michellemck0|
+|-|OAltruistic|
+|-|Maziari|
+Thu Jan 14 00:50:01 UTC 2021
