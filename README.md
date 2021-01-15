@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|elisabetta1412|niusha_paks|
-|-|eli_mereu|
-Fri Jan 15 00:45:04 UTC 2021
+|-|geosimafrica|
+|-|dipespandey08|
+Fri Jan 15 06:27:38 UTC 2021
