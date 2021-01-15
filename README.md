@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|almasa1442|caseytolan|
-|gurnit_atwal|-|
-|Sumaira_Zaman_|-|
-Thu Jan 14 18:47:27 UTC 2021
+|elisabetta1412|niusha_paks|
+|-|eli_mereu|
+Fri Jan 15 00:45:04 UTC 2021
