@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|thedaforum|-|
-Fri Jan 15 12:25:09 UTC 2021
+|-|RoseAnderson_|
+Fri Jan 15 18:46:42 UTC 2021
