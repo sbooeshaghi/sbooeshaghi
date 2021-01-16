@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|radhaboya|DannyKlinenberg|
-Sat Jan 16 00:48:24 UTC 2021
+|-|theIntuitionist|
+Sat Jan 16 06:28:46 UTC 2021
