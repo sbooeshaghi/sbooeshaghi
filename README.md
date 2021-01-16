@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|RoseAnderson_|
-Fri Jan 15 18:46:42 UTC 2021
+|radhaboya|DannyKlinenberg|
+Sat Jan 16 00:48:24 UTC 2021
