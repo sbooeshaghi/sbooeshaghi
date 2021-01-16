@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|theIntuitionist|-|
-Sat Jan 16 12:24:00 UTC 2021
+|stefanospinel15|gusram_ok|
+|-|ellenagnesa|
+Sat Jan 16 18:44:43 UTC 2021
