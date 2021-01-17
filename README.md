@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|gusram_ok|IIIllllIIllIII1|
-|AlOdailH|AlOdeleH|
-|apir0n|-|
-Sun Jan 17 00:45:00 UTC 2021
+|-|stefanospinel15|
+|-|armin_dadras|
+Sun Jan 17 06:28:26 UTC 2021
