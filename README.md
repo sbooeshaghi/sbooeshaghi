@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|gusram_ok|
-|-|ellenagnesa|
-Sat Jan 16 18:44:43 UTC 2021
+|gusram_ok|IIIllllIIllIII1|
+|AlOdailH|AlOdeleH|
+|apir0n|-|
+Sun Jan 17 00:45:00 UTC 2021
