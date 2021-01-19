@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Charles20962955|psobolewskiPhD|
-|-|RossCG|
-Mon Jan 18 18:45:59 UTC 2021
+|benjykun|_benyang_|
+Tue Jan 19 00:47:43 UTC 2021
