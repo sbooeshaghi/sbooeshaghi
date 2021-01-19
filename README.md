@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|peshkov32|caesarkhan1|
-|-|PersianFrenchie|
-Tue Jan 19 12:27:23 UTC 2021
+|PersianFrenchie|kgrandia|
+|illWill477|altayphd|
+Tue Jan 19 18:46:13 UTC 2021
