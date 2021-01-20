@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|russel_locked|gurnit_atwal|
-|bvolkangurses|-|
-|altayphd|-|
-Wed Jan 20 00:49:15 UTC 2021
+|bioptero|AngusLindsayVUW|
+Wed Jan 20 06:34:04 UTC 2021
