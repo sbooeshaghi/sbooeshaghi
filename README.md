@@ -4,7 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|stefanospinel15|
-|-|dlarios94|
-|-|magda_szcz|
-Wed Jan 20 12:27:12 UTC 2021
+|stefanospinel15|CharlieRoco|
+|dlarios94|-|
+|magda_szcz|-|
+Wed Jan 20 18:46:40 UTC 2021
