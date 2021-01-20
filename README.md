@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|PersianFrenchie|kgrandia|
-|illWill477|altayphd|
-Tue Jan 19 18:46:13 UTC 2021
+|russel_locked|gurnit_atwal|
+|bvolkangurses|-|
+|altayphd|-|
+Wed Jan 20 00:49:15 UTC 2021
