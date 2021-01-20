@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|bioptero|AngusLindsayVUW|
-Wed Jan 20 06:34:04 UTC 2021
+|-|stefanospinel15|
+|-|dlarios94|
+|-|magda_szcz|
+Wed Jan 20 12:27:12 UTC 2021
