@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|onertipaday|-|
-|PGREKM|-|
-Fri Jan 22 12:26:29 UTC 2021
+|Jiteshpujari9|-|
+|SMTirier|-|
+Fri Jan 22 18:45:26 UTC 2021
