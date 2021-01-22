@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|-|
-|DiegoAHuyke|-|
-Thu Jan 21 18:44:51 UTC 2021
+|Raph_Vial|raph_v_|
+Fri Jan 22 00:46:57 UTC 2021
