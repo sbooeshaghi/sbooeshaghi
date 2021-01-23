@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|g_bonfiglio|stefanospinel15|
-|lincdog|-|
-Sat Jan 23 12:24:10 UTC 2021
+|beerbro_|eric_lubeck|
+Sat Jan 23 18:44:22 UTC 2021
