@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|bioptero|stefanospinel15|
-|MariaBe41640705|Mariaaaa90210|
-Sat Jan 23 00:47:24 UTC 2021
+|stefanospinel15|olaolisubroto|
+|astiwinayah|bioptero|
+Sat Jan 23 06:29:47 UTC 2021
