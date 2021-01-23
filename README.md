@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|olaolisubroto|
-|astiwinayah|bioptero|
-Sat Jan 23 06:29:47 UTC 2021
+|g_bonfiglio|stefanospinel15|
+|lincdog|-|
+Sat Jan 23 12:24:10 UTC 2021
