@@ -4,9 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|cumartesirtesi|
-|-|KKajderowicz|
-|-|devash1shde|
-|-|eleutheromaniaD|
-|-|PGREKM|
-Sun Jan 24 18:44:06 UTC 2021
+|devash1shde|mxbernhard|
+|eleutheromaniaD|-|
+|PGREKM|-|
+Mon Jan 25 00:46:14 UTC 2021
