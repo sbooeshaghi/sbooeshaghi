@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|apir0n|stefanospinel15|
-|gurnit_atwal|Olga121a|
-Mon Jan 25 06:32:52 UTC 2021
+Mon Jan 25 12:26:41 UTC 2021
