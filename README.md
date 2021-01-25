@@ -4,4 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Mon Jan 25 12:26:41 UTC 2021
+|stefanospinel15|fioremjm|
+|jackmsuckling1|shoeb_mo92|
+|Lamloumz|-|
+|Mo92Refaat|-|
+Mon Jan 25 18:45:38 UTC 2021
