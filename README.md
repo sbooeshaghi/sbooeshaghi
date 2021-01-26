@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|salongwell|
-Tue Jan 26 12:08:52 UTC 2021
+|bioptero|dipespandey08|
+|Olga121a|-|
+Tue Jan 26 18:18:04 UTC 2021
