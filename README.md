@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|EmeraldGroup1|stefanospinel15|
-Tue Jan 26 06:07:38 UTC 2021
+|stefanospinel15|salongwell|
+Tue Jan 26 12:08:52 UTC 2021
