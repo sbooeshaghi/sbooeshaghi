@@ -4,7 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|stefanospinel15|
-|-|genebrew|
-|-|Lebanon17Oct|
-Wed Jan 27 06:07:48 UTC 2021
+|stefanospinel15|-|
+|genebrew|-|
+|Lebanon17Oct|-|
+Wed Jan 27 12:09:18 UTC 2021
