@@ -4,6 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|bioptero|dipespandey08|
-|Olga121a|-|
-Tue Jan 26 18:18:04 UTC 2021
+|Izadtus|fjsanchezrivera|
+|India_Society|DashiellMassey|
+|-|morris_frank_|
+|-|bioptero|
+|-|EmeraldGroup1|
+Wed Jan 27 00:17:43 UTC 2021
