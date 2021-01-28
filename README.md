@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|-|
-Thu Jan 28 07:53:59 UTC 2021
+|bioptero|GigaScience|
+|-|gbike_cost|
+|-|stefanospinel15|
+Thu Jan 28 12:09:02 UTC 2021
