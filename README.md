@@ -4,8 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|AnaBetty2304|
-|-|jefekoble|
-|-|bioptero|
-|-|gurnit_atwal|
-Fri Jan 29 00:18:58 UTC 2021
+|quantum_graeme|AliSohi6|
+|_ali_reza92|dan_stent|
+|-|FarhanD7|
+|-|bbsirtale|
+Fri Jan 29 06:07:26 UTC 2021
