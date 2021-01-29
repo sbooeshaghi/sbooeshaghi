@@ -4,8 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|esfand15|
-|-|c_tiene|
-|-|phANDYpack|
-|-|RusanZeid|
-Fri Jan 29 12:09:07 UTC 2021
+|-|ferro_luke|
+|-|vjk2005|
+|-|stefanospinel15|
+Fri Jan 29 18:21:40 UTC 2021
