@@ -4,5 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|jefekoble|-|
-Thu Jan 28 18:20:45 UTC 2021
+|-|AnaBetty2304|
+|-|jefekoble|
+|-|bioptero|
+|-|gurnit_atwal|
+Fri Jan 29 00:18:58 UTC 2021
