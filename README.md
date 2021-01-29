@@ -4,8 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|quantum_graeme|AliSohi6|
-|_ali_reza92|dan_stent|
-|-|FarhanD7|
-|-|bbsirtale|
-Fri Jan 29 06:07:26 UTC 2021
+|stefanospinel15|esfand15|
+|-|c_tiene|
+|-|phANDYpack|
+|-|RusanZeid|
+Fri Jan 29 12:09:07 UTC 2021
