@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|-|
-|bell_ish1|-|
-Sat Jan 30 12:08:49 UTC 2021
+|nad_afq|Physacourses|
+Sat Jan 30 18:19:24 UTC 2021
