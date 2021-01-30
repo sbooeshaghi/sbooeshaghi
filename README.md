@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|ferro_luke|
-|-|vjk2005|
-|-|stefanospinel15|
-Fri Jan 29 18:21:40 UTC 2021
+|stefanospinel15|philip_burnham|
+|icoolkid|VS_Marine|
+Sat Jan 30 00:17:55 UTC 2021
