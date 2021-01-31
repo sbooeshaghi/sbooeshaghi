@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|nad_afq|Physacourses|
-Sat Jan 30 18:19:24 UTC 2021
+|-|hiltonlab|
+|-|NiekBuurmaH2O|
+|-|stefanospinel15|
+Sun Jan 31 00:18:53 UTC 2021
