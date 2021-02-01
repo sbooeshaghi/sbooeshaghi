@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|_CuriousBit_|stefanospinel15|
-|MIS_Graduate|SahasMarri|
-Mon Feb  1 12:09:25 UTC 2021
+|stefanospinel15|donaramzi|
+Mon Feb  1 18:21:32 UTC 2021
