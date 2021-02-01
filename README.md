@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|_Vadjina_|-|
-|Hbakiyom|-|
-Mon Feb  1 00:19:28 UTC 2021
+|dipespandey08|-|
+Mon Feb  1 06:07:29 UTC 2021
