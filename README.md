@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|donaramzi|
-Mon Feb  1 18:21:32 UTC 2021
+|subversivelass|EthansDad3D|
+|-|shehacksthesoul|
+Tue Feb  2 00:19:18 UTC 2021
