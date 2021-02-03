@@ -4,8 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|-|
-|Whoplash|-|
-|vanhoan310|-|
-|mohamedt_badr|-|
-Wed Feb  3 12:08:28 UTC 2021
+|-|Hbakiyom|
+Wed Feb  3 18:12:56 UTC 2021
