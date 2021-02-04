@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|KhairMufti|Mojgan_Asadi|
-|stefanospinel15|rjrubi0|
-|rjrubiodotlaw|-|
-Thu Feb  4 06:06:28 UTC 2021
+|Mojgan_Asadi|gibsonnews|
+|Olga121a|-|
+Thu Feb  4 12:17:56 UTC 2021
