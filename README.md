@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|Hbakiyom|
-Wed Feb  3 18:12:56 UTC 2021
+|donaramzi|stefanospinel15|
+|-|Olga121a|
+Thu Feb  4 00:13:48 UTC 2021
