@@ -116,7 +116,6 @@ ZhijianLi3
 MrMoAtif1
 JKaylight
 gtmnagalla
-KhairMufti
 u_smell_it
 felix_rozenberg
 Sher1ockk
@@ -171,7 +170,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -599,6 +597,7 @@ zTiredScientist
 amine_boukraa
 BambiKamnie
 leinShephard
+Mojgan_Asadi
 Mojgan_Asadi
 blackIrish777
 Deustekken
@@ -1285,7 +1284,7 @@ bcd6939
 almagoch
 villeneuveeyes
 Fix_ny9ja
-rjrubiodotlaw
+rjrubi0
 SahilRGupta
 andresfranco87
 somaliatoday999
