@@ -4,9 +4,13 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Agtrader21|AdriSuarezGonz|
-|-|ksgarg|
-|-|DrKathyRichmond|
-|-|ekernf01|
-|-|webyrd|
-Fri Feb  5 06:06:37 UTC 2021
+|GSharadaa|sagrikachugh|
+|-|0xeinar|
+|-|TBradley27|
+|-|LCaccianini|
+|-|tonybyebye|
+|-|rdhorak|
+|-|kashyapchhatbar|
+|-|stefanospinel15|
+|-|cmercury25|
+Fri Feb  5 12:07:37 UTC 2021
