@@ -4,6 +4,10 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|stefanospinel15|
-|-|dipespandey08|
-Thu Feb  4 18:06:39 UTC 2021
+|stefanospinel15|APredeus|
+|_letrec|MartinTreppner|
+|-|YingStat|
+|-|z_chiang|
+|-|myjajarm|
+|-|Olga121a|
+Fri Feb  5 00:14:00 UTC 2021
