@@ -4,10 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|APredeus|
-|_letrec|MartinTreppner|
-|-|YingStat|
-|-|z_chiang|
-|-|myjajarm|
-|-|Olga121a|
-Fri Feb  5 00:14:00 UTC 2021
+|Agtrader21|AdriSuarezGonz|
+|-|ksgarg|
+|-|DrKathyRichmond|
+|-|ekernf01|
+|-|webyrd|
+Fri Feb  5 06:06:37 UTC 2021
