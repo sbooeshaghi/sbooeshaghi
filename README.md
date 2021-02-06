@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|GSharadaa|pochekailov|
-|-|bell_ish1|
-Sat Feb  6 12:07:45 UTC 2021
+|stefanospinel15|-|
+|CounselAKM|-|
+|Olga121a|-|
+Sat Feb  6 18:06:22 UTC 2021
