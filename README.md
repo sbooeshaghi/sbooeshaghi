@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|nouh1alonso|GSharadaa|
-Sun Feb  7 00:14:20 UTC 2021
+|-|HaeunHwangbo|
+Sun Feb  7 06:06:24 UTC 2021
