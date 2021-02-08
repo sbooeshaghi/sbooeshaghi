@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|bioptero|dnatieclub|
-|-|monkeygede|
-Mon Feb  8 06:06:52 UTC 2021
+|monkeygede|stefanospinel15|
+|KellanNg|-|
+Mon Feb  8 12:07:32 UTC 2021

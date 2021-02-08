@@ -197,6 +197,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -597,7 +598,6 @@ jeromestarkey
 assm1980
 haimsnir
 KFM1992
-monkeygede
 monkeygede
 siayi
 HSingati
@@ -2546,7 +2546,6 @@ miguelrubbertoe
 samkimhis
 clairecatralph
 helloyanwei
-KellanNg
 Der_Evert
 HanGuo97
 countrsignal
