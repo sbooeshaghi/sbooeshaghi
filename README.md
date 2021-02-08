@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|monkeygede|stefanospinel15|
-|KellanNg|-|
-Mon Feb  8 12:07:32 UTC 2021
+|illWill477|bioptero|
+Mon Feb  8 18:06:44 UTC 2021
