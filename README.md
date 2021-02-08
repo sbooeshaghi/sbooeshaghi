@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AAHadjimitsis|-|
-|amgfernandes|-|
-Sun Feb  7 18:06:26 UTC 2021
+|patanq|-|
+Mon Feb  8 00:14:25 UTC 2021
