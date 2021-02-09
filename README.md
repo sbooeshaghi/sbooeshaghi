@@ -4,5 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|illWill477|
-Tue Feb  9 00:13:57 UTC 2021
+|JShendure|www8383w|
+|3SaSha4|stefanospinel15|
+|Mostafa_Fad|HayaUP|
+|-|chrislong125|
+Tue Feb  9 06:06:35 UTC 2021
