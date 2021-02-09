@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|GSharadaa|-|
-|HayaUP|-|
-|chrislong125|-|
-Tue Feb  9 12:07:46 UTC 2021
+|mayself100|selfmay0987|
+|afarplace|KellieKravarik|
+Tue Feb  9 18:06:39 UTC 2021
