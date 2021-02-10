@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|hiltonlab|-|
-Wed Feb 10 00:14:36 UTC 2021
+|stefanospinel15|GSharadaa|
+Wed Feb 10 06:06:39 UTC 2021
