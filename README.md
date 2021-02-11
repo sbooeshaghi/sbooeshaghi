@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|www8383w|-|
-|gottapatchemall|-|
-Thu Feb 11 06:06:51 UTC 2021
+|stefanospinel15|TwkSaville|
+Thu Feb 11 12:07:44 UTC 2021
