@@ -1,3 +1,4 @@
+mcintyre_re
 TwkSaville
 ddunbar
 OluyomiOjo
@@ -358,7 +359,6 @@ dcolinmorgan
 pashakho
 CostacurtaJulia
 giovannicolaz_
-dema_karim
 brodie_brodes
 PHDMonstR
 galicae
@@ -760,7 +760,6 @@ _lhomme_
 FirassBo
 Thalie_silence
 DudeWithATube
-rbalabaki
 yeyengasthor
 Howell_Rowan
 OrHaN__TuRMuS
