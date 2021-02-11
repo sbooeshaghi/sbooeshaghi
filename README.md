@@ -4,10 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|ddunbar|
-|-|OluyomiOjo|
-|-|stefanospinel15|
-|-|bioptero|
-|-|gottapatchemall|
-|-|illWill477|
-Thu Feb 11 00:14:08 UTC 2021
+|www8383w|-|
+|gottapatchemall|-|
+Thu Feb 11 06:06:51 UTC 2021
