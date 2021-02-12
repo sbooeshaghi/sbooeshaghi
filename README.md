@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|bioptero|Olga121a|
-Fri Feb 12 00:15:45 UTC 2021
+|GSharadaa|stefanospinel15|
+|-|bioptero|
+Fri Feb 12 06:06:33 UTC 2021
