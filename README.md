@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|dema_karim|mcintyre_re|
-|rbalabaki|-|
-Thu Feb 11 18:06:37 UTC 2021
+|bioptero|Olga121a|
+Fri Feb 12 00:15:45 UTC 2021
