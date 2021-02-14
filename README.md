@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Olga121a|-|
-Sun Feb 14 00:14:39 UTC 2021
+|ScientistJatti|Bioin4magician|
+Sun Feb 14 06:06:41 UTC 2021
