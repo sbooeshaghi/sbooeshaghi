@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|ScientistJatti|Bioin4magician|
-Sun Feb 14 06:06:41 UTC 2021
+|WyattMcDonnell|-|
+Sun Feb 14 12:07:32 UTC 2021

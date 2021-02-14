@@ -2265,7 +2265,6 @@ WNanoscience
 SeanlNguyen
 phylogenypluckr
 pp0196
-WyattMcDonnell
 nimra236
 anurendra
 erictdawson
