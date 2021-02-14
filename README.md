@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|WyattMcDonnell|-|
-Sun Feb 14 12:07:32 UTC 2021
+|-|Olga121a|
+Sun Feb 14 18:06:32 UTC 2021
