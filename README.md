@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|Olga121a|
-Sun Feb 14 18:06:32 UTC 2021
+|shuttupdad|adorapanshu|
+Mon Feb 15 00:14:28 UTC 2021
