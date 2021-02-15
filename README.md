@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|shuttupdad|adorapanshu|
-Mon Feb 15 00:14:28 UTC 2021
+Mon Feb 15 06:06:48 UTC 2021
