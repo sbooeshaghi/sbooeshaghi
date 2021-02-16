@@ -4,9 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|MDDX16|
-|mburgos369|Avgchick1|
-|-|mburgosmd|
-|-|sudo_BreeB|
-|-|BrickCityHQ|
-Tue Feb 16 06:06:29 UTC 2021
+|GSharadaa|rakszewska|
+|-|stefanospinel15|
+Tue Feb 16 12:07:48 UTC 2021
