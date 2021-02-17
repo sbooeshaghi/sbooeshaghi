@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|sam_bhasin|apimplaskar|
-Wed Feb 17 12:07:43 UTC 2021
+|cumartesirtesi|salihaey|
+|stefanospinel15|-|
+|first1butterfly|-|
+Wed Feb 17 18:05:51 UTC 2021
