@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|ulisrael1|
-Thu Feb 18 00:14:38 UTC 2021
+|ulisrael1|alienzj|
+Thu Feb 18 06:06:36 UTC 2021
