@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|jidroid|jidin_dinesh|
-|-|GSharadaa|
-Thu Feb 18 12:07:46 UTC 2021
+|shapira_yonatan|-|
+Thu Feb 18 18:06:33 UTC 2021
