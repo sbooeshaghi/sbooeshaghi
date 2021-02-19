@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|maneesha_thaker|
-|armin_dadras|benAdoran|
-|bioptero|sham_wowlock|
-Fri Feb 19 12:07:50 UTC 2021
+|benAdoran|-|
+|sham_wowlock|-|
+Fri Feb 19 18:06:24 UTC 2021
