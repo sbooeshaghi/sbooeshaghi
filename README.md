@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|benAdoran|-|
-|sham_wowlock|-|
-Fri Feb 19 18:06:24 UTC 2021
+|-|ulisrael1|
+Sat Feb 20 00:14:12 UTC 2021
