@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|jidin_dinesh|JidinDinesh|
-|mohanned_oraba|stefanospinel15|
-|malteseunderdog|dr_jpe|
-Mon Feb 22 12:06:42 UTC 2021
+|stefanospinel15|MohammadLotfol1|
+|-|bioptero|
+Mon Feb 22 18:06:25 UTC 2021
