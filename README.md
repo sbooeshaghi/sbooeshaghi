@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|MohammadLotfol1|
-|-|bioptero|
-Mon Feb 22 18:06:25 UTC 2021
+Tue Feb 23 00:14:32 UTC 2021
