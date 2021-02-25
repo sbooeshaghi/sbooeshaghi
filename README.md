@@ -4,8 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Pejminister|KevinWNg|
-|Abeer_ksa|rsrivas1|
-|-|stefanospinel15|
-|-|101Alun|
-Wed Feb 24 18:06:30 UTC 2021
+|stefanospinel15|Abeer_ksa|
+|101Alun|-|
+|matias_kaplan|-|
+Thu Feb 25 00:14:19 UTC 2021
