@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|bioptero|argschwind|
-Thu Feb 25 06:07:14 UTC 2021
+|altadataio|upasna74688235|
+|-|GSharadaa|
+Thu Feb 25 12:07:50 UTC 2021
