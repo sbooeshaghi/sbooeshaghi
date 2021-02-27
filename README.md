@@ -4,35 +4,17 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Jessica_36531|Rohan_B_13|
-|-|patrlundgren|
-|-|sickomingbo|
-|-|GhorbaniAmirata|
-|-|sanna_madan|
-|-|mnandita|
-|-|vahidnezhadlab|
-|-|cpnoct|
-|-|jorgealvite|
-|-|hello_nathaniel|
-|-|BRHopkins92|
-|-|ArabdhaB|
-|-|TheSocialDiner|
-|-|NerrawWerd|
-|-|Jens_Luebeck|
-|-|Talal916|
-|-|Davood_Norouzi|
-|-|towfiqueRaj|
-|-|MrKarunhands|
-|-|_Trace_Henry|
-|-|Feriitrb|
-|-|elhamazizi|
-|-|PetrovADmitri|
-|-|KDolasia|
-|-|benoitbruneau|
-|-|weinberz|
-|-|mjabal|
-|-|Maziyar_Ke|
-|-|LabNowakowski|
-|-|SMoghadami|
-|-|marcoyannic|
-Sat Feb 27 06:06:50 UTC 2021
+|Hbakiyom|matthewhirschey|
+|-|DMalawsky|
+|-|linoafferreira|
+|-|yangjoonkim|
+|-|MDMorgan_cam|
+|-|OMID_MASH|
+|-|keilie_79|
+|-|RuxandraTesloi1|
+|-|ka1618033|
+|-|alt_spliced|
+|-|fe_emiliani|
+|-|asmasonomics|
+|-|GolnazMorad|
+Sat Feb 27 12:07:34 UTC 2021
