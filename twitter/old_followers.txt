@@ -1,3 +1,14 @@
+InstituteRoyan
+victoriartobin
+LexiSchneider7
+michelson_da
+dbgoodman
+hsnajafabadi
+bmomeni
+MiladSlt1
+cskokgibbs
+emilhaegglund
+RebLWalker
 matthewhirschey
 DMalawsky
 linoafferreira
@@ -259,6 +270,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka

@@ -4,17 +4,16 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Hbakiyom|matthewhirschey|
-|-|DMalawsky|
-|-|linoafferreira|
-|-|yangjoonkim|
-|-|MDMorgan_cam|
-|-|OMID_MASH|
-|-|keilie_79|
-|-|RuxandraTesloi1|
-|-|ka1618033|
-|-|alt_spliced|
-|-|fe_emiliani|
-|-|asmasonomics|
-|-|GolnazMorad|
-Sat Feb 27 12:07:34 UTC 2021
+|-|InstituteRoyan|
+|-|victoriartobin|
+|-|LexiSchneider7|
+|-|michelson_da|
+|-|dbgoodman|
+|-|hsnajafabadi|
+|-|bmomeni|
+|-|MiladSlt1|
+|-|cskokgibbs|
+|-|emilhaegglund|
+|-|RebLWalker|
+|-|stefanospinel15|
+Sat Feb 27 18:06:30 UTC 2021
