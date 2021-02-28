@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|virologistjoe|
-|-|mohanned_oraba|
-Sun Feb 28 06:06:55 UTC 2021
+|shadowfather6|AseelAwdeh|
+|Arctan2|intspg|
+Sun Feb 28 12:07:49 UTC 2021
