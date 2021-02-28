@@ -4,8 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|alirezaomidi_|
-|-|reillycoopersci|
-|-|christineyyeh|
-|-|Hbakiyom|
-Sun Feb 28 00:15:40 UTC 2021
+|stefanospinel15|virologistjoe|
+|-|mohanned_oraba|
+Sun Feb 28 06:06:55 UTC 2021
