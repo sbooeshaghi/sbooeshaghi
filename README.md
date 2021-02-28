@@ -4,16 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|InstituteRoyan|
-|-|victoriartobin|
-|-|LexiSchneider7|
-|-|michelson_da|
-|-|dbgoodman|
-|-|hsnajafabadi|
-|-|bmomeni|
-|-|MiladSlt1|
-|-|cskokgibbs|
-|-|emilhaegglund|
-|-|RebLWalker|
-|-|stefanospinel15|
-Sat Feb 27 18:06:30 UTC 2021
+|-|alirezaomidi_|
+|-|reillycoopersci|
+|-|christineyyeh|
+|-|Hbakiyom|
+Sun Feb 28 00:15:40 UTC 2021
