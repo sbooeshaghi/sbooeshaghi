@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|cralbors|avgupta_me|
-|mohanned_oraba|JuanBarredo|
-|-|TitoJoeThomas|
-Mon Mar  1 00:15:51 UTC 2021
+|bioptero|abhilashapuroh2|
+|changrong|stefanospinel15|
+Mon Mar  1 06:07:06 UTC 2021
