@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|adamlmaclean|
-|-|illWill477|
-Tue Mar  2 00:12:31 UTC 2021
+|__wrecktangle|-|
+Tue Mar  2 06:07:03 UTC 2021
