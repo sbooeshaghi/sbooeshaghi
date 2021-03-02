@@ -1,3 +1,4 @@
+jj_marlow
 adamlmaclean
 caltechalumni
 abhilashapuroh2
@@ -19,12 +20,10 @@ MiladSlt1
 cskokgibbs
 emilhaegglund
 RebLWalker
-matthewhirschey
 DMalawsky
 linoafferreira
 yangjoonkim
 MDMorgan_cam
-OMID_MASH
 keilie_79
 RuxandraTesloi1
 ka1618033
@@ -279,6 +278,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
