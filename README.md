@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|caltechalumni|
-|-|GSharadaa|
-Mon Mar  1 18:06:34 UTC 2021
+|-|adamlmaclean|
+|-|illWill477|
+Tue Mar  2 00:12:31 UTC 2021
