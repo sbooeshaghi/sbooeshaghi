@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|matthewhirschey|jj_marlow|
-|OMID_MASH|stefanospinel15|
-Tue Mar  2 12:06:50 UTC 2021
+|stefanospinel15|StudioG88|
+Tue Mar  2 18:06:01 UTC 2021
