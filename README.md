@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|GSharadaa|shamsgasm|
-|-|niklasjlang|
-|-|andreamrau|
-Wed Mar  3 12:08:05 UTC 2021
+|illWill477|dccc_phd|
+|-|GSharadaa|
+Wed Mar  3 18:08:50 UTC 2021
