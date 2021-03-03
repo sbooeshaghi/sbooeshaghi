@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|TumkayaTayfun|
-Wed Mar  3 06:07:04 UTC 2021
+|GSharadaa|shamsgasm|
+|-|niklasjlang|
+|-|andreamrau|
+Wed Mar  3 12:08:05 UTC 2021
