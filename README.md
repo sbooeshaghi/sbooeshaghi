@@ -4,5 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|StudioG88|
-Tue Mar  2 18:06:01 UTC 2021
+|bioptero|TMBrochier|
+|StudioG88|fuck_med_school|
+|-|omid_bazgir|
+|-|Matthew_N_B|
+Wed Mar  3 00:14:42 UTC 2021
