@@ -4,8 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|bioptero|TMBrochier|
-|StudioG88|fuck_med_school|
-|-|omid_bazgir|
-|-|Matthew_N_B|
-Wed Mar  3 00:14:42 UTC 2021
+|-|TumkayaTayfun|
+Wed Mar  3 06:07:04 UTC 2021
