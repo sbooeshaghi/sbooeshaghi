@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|KevinWNg|moorejh|
-|-|illWill477|
-Thu Mar  4 00:14:45 UTC 2021
+|NerrawWerd|Deep_Ruh|
+|omidvheravi|bioptero|
+Thu Mar  4 06:06:27 UTC 2021
