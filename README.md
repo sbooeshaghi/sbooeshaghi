@@ -4,7 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|_SandraAziz_|SGA831|
-|AbhiBlore|-|
-|bioptero|-|
-Fri Mar  5 12:08:01 UTC 2021
+Fri Mar  5 18:07:27 UTC 2021
