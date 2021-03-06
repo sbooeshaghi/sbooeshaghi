@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Fri Mar  5 18:07:27 UTC 2021
+|shamsgasm|-|
+|renevdeuren|-|
+Sat Mar  6 00:14:53 UTC 2021
