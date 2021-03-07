@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|pietersede|corndate|
-Sat Mar  6 18:06:48 UTC 2021
+|-|matias_kaplan|
+Sun Mar  7 00:15:51 UTC 2021
