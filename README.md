@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|matias_kaplan|
-Sun Mar  7 00:15:51 UTC 2021
+|hello_nathaniel|shamsgasm|
+|Talal916|bioptero|
+|ZaynIsBaeQS|-|
+Sun Mar  7 06:06:53 UTC 2021
