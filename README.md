@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|lexrovner|
-|-|Quizzomaniac|
-Tue Mar  9 12:08:12 UTC 2021
+|Quizzomaniac|mohanned_oraba|
+|Junasys1|-|
+Tue Mar  9 18:19:57 UTC 2021
