@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|KarenBr62387055|
-|-|jakesprime|
-Thu Mar 11 12:08:19 UTC 2021
+|FrostJonathan3|-|
+|bioptero|-|
+|jakesprime|-|
+Thu Mar 11 18:09:34 UTC 2021
