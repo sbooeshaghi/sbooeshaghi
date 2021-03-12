@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|cavidHaydari3|sam_bhasin|
-|gurnit_atwal|bioptero|
-Fri Mar 12 00:15:08 UTC 2021
+|bioptero|-|
+Fri Mar 12 06:07:03 UTC 2021
