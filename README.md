@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|bioptero|-|
-Fri Mar 12 06:07:03 UTC 2021
+|-|shapira_yonatan|
+|-|cavidHaydari3|
+Fri Mar 12 12:08:14 UTC 2021
