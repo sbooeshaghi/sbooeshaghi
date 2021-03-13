@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|mohanned_oraba|bioptero|
-|dipespandey08|-|
-|BrickCityHQ|-|
-Sat Mar 13 00:15:08 UTC 2021
+|-|comat0se|
+Sat Mar 13 06:07:05 UTC 2021
