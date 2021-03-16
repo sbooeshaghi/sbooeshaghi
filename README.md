@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|sam_bhasin|mohanned_oraba|
-|Luke__Ward|-|
-Tue Mar 16 00:15:05 UTC 2021
+Tue Mar 16 06:07:09 UTC 2021
