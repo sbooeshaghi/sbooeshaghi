@@ -359,6 +359,7 @@ nadmullin
 CaSaMiLaN8
 NTallapragada
 PotatoOfReason
+mohanned_oraba
 HenriquesLab
 sisichen
 BalducciBorges
@@ -581,7 +582,6 @@ Stanleyweiberg
 Wafa_Alghatam
 ART_lou7
 YasserSud
-sam_bhasin
 Diversitweetz
 Francespace96
 Elvispr98745962
@@ -2397,7 +2397,6 @@ yarbsalocin
 MathSchoolInt
 dna_rosenberg
 koetjen
-Luke__Ward
 Luke__Ward
 RoryKirchner
 lioscro
