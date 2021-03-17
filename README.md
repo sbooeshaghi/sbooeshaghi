@@ -4,7 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|shapira_yonatan|ZaynIsBaeQS|
-|bassamkaram|-|
-|cavidHaydari3|-|
-Wed Mar 17 00:15:25 UTC 2021
+Wed Mar 17 06:07:09 UTC 2021
