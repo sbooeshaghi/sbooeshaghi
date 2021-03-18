@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|mohanned_oraba|cavidHaydari3|
-|KeyhanB_|KayhanB21|
-Thu Mar 18 06:07:24 UTC 2021
+|-|mohanned_oraba|
+|-|shapira_yonatan|
+Thu Mar 18 12:08:21 UTC 2021
