@@ -4,8 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|fouadromieh|fouad_gt|
-|cavidHaydari3|-|
-|_jashothi|-|
-|FredOnion|-|
-Wed Mar 17 18:08:01 UTC 2021
+|MohammadHD72|bigdata_school|
+Thu Mar 18 00:15:17 UTC 2021
