@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|apir0n|stefanospinel15|
-|Abeer_ksa|gurnit_atwal|
-Fri Mar 19 18:10:05 UTC 2021
+|stefanospinel15|-|
+|MabbyGecca|-|
+Sat Mar 20 00:15:14 UTC 2021
