@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|lady_xor_tiger|
-Sat Mar 20 06:07:02 UTC 2021
+|-|Abeer_ksa|
+|-|fspasqualini|
+Sat Mar 20 12:08:25 UTC 2021
