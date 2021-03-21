@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|the__buck|DrAshM2|
-|fspasqualini|-|
-Sat Mar 20 18:10:04 UTC 2021
+|-|stefanospinel15|
+Sun Mar 21 00:16:16 UTC 2021
