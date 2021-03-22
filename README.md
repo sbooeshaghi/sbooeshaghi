@@ -4,7 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|JidinDinesh|stefanospinel15|
-|raph_v_|BeuschChristian|
-|-|raph_360|
-Mon Mar 22 12:08:33 UTC 2021
+|easyandright1|LambertChu_|
+|stefanospinel15|-|
+|BeuschChristian|-|
+|cavidHaydari3|-|
+|LambchopsChu|-|
+Mon Mar 22 18:11:20 UTC 2021

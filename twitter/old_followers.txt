@@ -4,7 +4,6 @@ MelNuesch
 tomyoong
 jamesrhawley
 KarenBr62387055
-easyandright1
 DatabaeInLA
 lexrovner
 Deep_Ruh
@@ -293,7 +292,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -397,7 +395,6 @@ connor0mason
 aanaqvi
 clifton_lewis97
 theosysbio
-BeuschChristian
 BeuschChristian
 GlennHowatt
 cliff_wvu
@@ -1458,7 +1455,6 @@ esrailke123
 ryanannawolfe
 laure_ayoub
 navasmontilla
-cavidHaydari3
 MakerBassam
 ahmetdunya
 OllieSymons
@@ -1778,7 +1774,7 @@ _marjo_david
 peterch405
 maddymduran
 _cajackson
-LambchopsChu
+LambertChu_
 keshav_motwani
 salihaey
 inodb
