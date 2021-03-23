@@ -4,9 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|easyandright1|LambertChu_|
-|stefanospinel15|-|
-|BeuschChristian|-|
-|cavidHaydari3|-|
-|LambchopsChu|-|
-Mon Mar 22 18:11:20 UTC 2021
+|mbakbankbiasa|wndnnscp|
+|-|cavidHaydari3|
+Tue Mar 23 00:15:30 UTC 2021
