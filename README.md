@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|mbakbankbiasa|wndnnscp|
-|-|cavidHaydari3|
-Tue Mar 23 00:15:30 UTC 2021
+|-|stefanospinel15|
+|-|mohanned_oraba|
+Tue Mar 23 06:07:15 UTC 2021
