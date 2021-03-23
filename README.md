@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|IlyaSimutin|
-Tue Mar 23 12:13:47 UTC 2021
+|shapira_yonatan|bioptero|
+|ARZayla3|-|
+Tue Mar 23 18:10:44 UTC 2021
