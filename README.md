@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|shapira_yonatan|bioptero|
-|ARZayla3|-|
-Tue Mar 23 18:10:44 UTC 2021
+|bioptero|collinsosbon|
+|vanhoan310|-|
+|collins26139862|-|
+Wed Mar 24 00:15:51 UTC 2021
