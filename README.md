@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|bioptero|collinsosbon|
-|vanhoan310|-|
-|collins26139862|-|
-Wed Mar 24 00:15:51 UTC 2021
+|stefanospinel15|MSoumner|
+|illWill477|-|
+Wed Mar 24 06:02:33 UTC 2021
