@@ -487,6 +487,7 @@ ElowitzLab
 YUHANHAO2
 achaud20
 nima_genome
+shapira_yonatan
 annie__erickson
 j3nnysheng
 CuriousMaia
@@ -497,7 +498,6 @@ mythlegendmusic
 McdunnJ
 AltBrutus
 Guro36818633
-pzaia
 hung_hung9
 bernatalie
 joaomlribeiro
@@ -1684,7 +1684,6 @@ anacrgomez
 AudioVD
 srivatsan_n
 wDimD
-tugsandtost
 AMSOilTrader
 kod3000
 blane9171
