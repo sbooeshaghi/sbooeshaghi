@@ -4,7 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|maspioncosmos|adeliaamasita|
-|-|patrickstumpf01|
-|-|illWill477|
-Thu Mar 25 06:02:47 UTC 2021
+|patrickstumpf01|stefanospinel15|
+|-|mohanned_oraba|
+|-|shapira_yonatan|
+Thu Mar 25 12:02:52 UTC 2021
