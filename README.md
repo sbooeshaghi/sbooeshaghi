@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|patrickstumpf01|stefanospinel15|
-|-|mohanned_oraba|
-|-|shapira_yonatan|
-Thu Mar 25 12:02:52 UTC 2021
+|mohanned_oraba|TsinghuaB|
+|Real_Adam_B|RealAdamB1|
+Thu Mar 25 18:11:18 UTC 2021
