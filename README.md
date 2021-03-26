@@ -4,5 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|chisinig|eczenrs|
-Fri Mar 26 12:02:59 UTC 2021
+|shamsgasm|hnbandukwala|
+|mohanned_oraba|stefanospinel15|
+|AlicePsyche|Bingjie_Zhang_|
+|-|illWill477|
+Fri Mar 26 18:11:13 UTC 2021
