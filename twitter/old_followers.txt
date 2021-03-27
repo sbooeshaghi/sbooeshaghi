@@ -137,7 +137,6 @@ NiekBuurmaH2O
 Physacourses
 philip_burnham
 VS_Marine
-ferro_luke
 vjk2005
 esfand15
 c_tiene
@@ -197,6 +196,7 @@ Kandimalla_Prat
 maya_ayoubi
 KellanMoorse
 DadrasArmin
+a0b09873
 peterkcrane
 AKtanina
 anikagupta18
@@ -1473,7 +1473,6 @@ georgelennox83
 pvhnturk
 MilneNdy
 chrislong125
-PhilBladder
 loris_assi
 onakres
 draircraft
@@ -1691,7 +1690,6 @@ soyunamarmota11
 bhrenton
 WAM_iam
 faythtan
-_richard_feder
 tbrittoborges
 KristinBriney
 TerryAdirimMD
