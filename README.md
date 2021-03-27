@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|ferro_luke|a0b09873|
-|PhilBladder|-|
-|_richard_feder|-|
-Sat Mar 27 06:02:31 UTC 2021
+|Arish_Dar|stefanospinel15|
+Sat Mar 27 12:02:45 UTC 2021
