@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|BrunetLab|
-|iAOdele|AlOdeleH|
-Sun Mar 28 06:02:27 UTC 2021
+Sun Mar 28 12:02:42 UTC 2021
