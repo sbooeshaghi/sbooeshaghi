@@ -4,9 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|shapira_yonatan|Nusob88|
-|DexteTs|stefanospinel15|
-|-|KailashBP10|
-|-|Hbakiyom|
-|-|dttsin|
-Tue Mar 30 00:06:17 UTC 2021
+|esfand15|arcstat_|
+|stefanospinel15|SHolderbach|
+|KailashBP10|-|
+Tue Mar 30 06:02:43 UTC 2021
