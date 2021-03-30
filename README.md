@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|esfand15|arcstat_|
-|stefanospinel15|SHolderbach|
-|KailashBP10|-|
-Tue Mar 30 06:02:43 UTC 2021
+|cavidHaydari3|-|
+Tue Mar 30 12:03:01 UTC 2021
