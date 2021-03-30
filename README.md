@@ -4,5 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|GB13Faithless|
-Mon Mar 29 18:11:02 UTC 2021
+|shapira_yonatan|Nusob88|
+|DexteTs|stefanospinel15|
+|-|KailashBP10|
+|-|Hbakiyom|
+|-|dttsin|
+Tue Mar 30 00:06:17 UTC 2021
