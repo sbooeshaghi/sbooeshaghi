@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|nico_anguita|-|
-Wed Mar 31 12:02:49 UTC 2021
+|stefanospinel15|irisapoy|
+Wed Mar 31 18:12:11 UTC 2021
