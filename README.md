@@ -4,8 +4,14 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|ambulanzen|
-|Bumpy65397439|jdliechty|
-|-|craigsmail|
-|-|mohanned_oraba|
-Thu Apr  1 18:12:46 UTC 2021
+|mohanned_oraba|vic_rev|
+|illWill477|Hz_is_frequency|
+|-|PNgsabrina|
+|-|manikanda_raja|
+|-|hackingdata|
+|-|tzenszen|
+|-|Karamcakes|
+|-|evo_devo_diva|
+|-|sarajimenezc|
+|-|bbuchfink|
+Fri Apr  2 00:12:47 UTC 2021
