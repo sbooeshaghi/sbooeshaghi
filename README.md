@@ -4,9 +4,11 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|SadeghiJavad1|
-|-|BHilbush|
-|-|alanmej55130600|
-|-|SEVAplasmids|
-|-|illWill477|
-Fri Apr  2 06:02:27 UTC 2021
+|-|emanuelvgo|
+|-|oozeofwisdom|
+|-|pedromquiros|
+|-|TheMrHallux|
+|-|SarojChakrabo19|
+|-|panconchoclo|
+|-|abhigyanray|
+Fri Apr  2 12:02:52 UTC 2021
