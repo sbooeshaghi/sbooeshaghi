@@ -4,11 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|abc7alexcheney|SupraReddi|
-|-|jasonhackney|
-|-|KarelBrinda|
-|-|ValentinaMurtaj|
-|-|mohanned_oraba|
-|-|shapira_yonatan|
-|-|abc7alex|
-Fri Apr  2 18:12:10 UTC 2021
+|Hbakiyom|dwollny85|
+|-|Jared_Mamrot|
+|-|Juliet_Immunity|
+|-|stefanospinel15|
+Sat Apr  3 00:06:45 UTC 2021
