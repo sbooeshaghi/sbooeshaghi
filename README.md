@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|Neelv1998|
-|mohanned_oraba|leonard02746305|
-Sat Apr  3 06:02:34 UTC 2021
+|-|stefanospinel15|
+Sat Apr  3 12:02:44 UTC 2021
