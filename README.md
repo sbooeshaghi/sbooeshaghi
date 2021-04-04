@@ -4,8 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|wisin_wilfer|quick_ben|
-|-|pzaia|
-|-|jose__sky|
-|-|Hbakiyom|
-Sun Apr  4 12:02:48 UTC 2021
+|eczenrs|souza7591|
+|bvaiv|Navidjolausefi|
+|-|stefanospinel15|
+|-|Metabuji|
+Sun Apr  4 18:11:50 UTC 2021
