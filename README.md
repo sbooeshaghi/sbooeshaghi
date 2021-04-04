@@ -4,9 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|MusaPMarrah|
-|JosephHollingw1|dpolychr2|
-|-|mohanned_oraba|
-|-|AdamCribbs|
-|-|MooreJillE|
-Sat Apr  3 18:11:27 UTC 2021
+|Feriitrb|servchrist_|
+|_facilitator_|-|
+|AdamCribbs|-|
+|MooreJillE|-|
+Sun Apr  4 00:07:11 UTC 2021
