@@ -4,8 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Feriitrb|servchrist_|
-|_facilitator_|-|
-|AdamCribbs|-|
-|MooreJillE|-|
-Sun Apr  4 00:07:11 UTC 2021
+|a0b09873|-|
+|LGLiyau|-|
+Sun Apr  4 06:02:37 UTC 2021
