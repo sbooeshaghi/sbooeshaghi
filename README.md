@@ -4,8 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|c_sheare|
-|Metabuji|dwu02139|
-|-|rvchikar|
-|-|Metabad|
-Mon Apr  5 00:07:27 UTC 2021
+|mohanned_oraba|Hustlerstory|
+|shapira_yonatan|jameswainaina56|
+|-|VChandra_|
+|-|we_harm|
+|-|stefanospinel15|
+Mon Apr  5 06:02:34 UTC 2021
