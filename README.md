@@ -4,8 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|SayandeepaR|
-|-|Feriosa3|
-|-|mohanned_oraba|
-|-|shapira_yonatan|
-Mon Apr  5 12:02:54 UTC 2021
+|-|eczenrs|
+|-|Wlucey3|
+|-|espinozacamero1|
+Mon Apr  5 18:12:15 UTC 2021
