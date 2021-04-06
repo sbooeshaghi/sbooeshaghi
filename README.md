@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|eczenrs|
-|-|Wlucey3|
-|-|espinozacamero1|
-Mon Apr  5 18:12:15 UTC 2021
+|Wlucey3|stefanospinel15|
+|espinozacamero1|-|
+Tue Apr  6 00:07:20 UTC 2021
