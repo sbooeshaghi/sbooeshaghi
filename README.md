@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|HamidKian10|
-|-|mohanned_oraba|
-|-|renevdeuren|
-Tue Apr  6 12:02:40 UTC 2021
+|TheMrHallux|GetaRheum|
+|mohanned_oraba|-|
+Tue Apr  6 18:12:51 UTC 2021
