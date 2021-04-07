@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|stefanospinel15|
-|-|sam_bhasin|
-Wed Apr  7 12:03:03 UTC 2021
+|-|mohanned_oraba|
+Wed Apr  7 18:12:20 UTC 2021
