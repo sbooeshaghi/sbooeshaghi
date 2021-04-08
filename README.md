@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|SEVAplasmids|DrBasketball|
-|-|stefanospinel15|
-Thu Apr  8 06:02:35 UTC 2021
+|stefanospinel15|SinaMoDiZa|
+Thu Apr  8 12:02:59 UTC 2021
