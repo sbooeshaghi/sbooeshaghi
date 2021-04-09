@@ -4,7 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|iam78488476|-|
-|atheisticcause|-|
-|nschlut|-|
-Fri Apr  9 12:02:49 UTC 2021
+Fri Apr  9 18:04:54 UTC 2021
