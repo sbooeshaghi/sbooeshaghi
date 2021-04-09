@@ -4,8 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|HamidKian10|TaShelby|
-|Mojgan_Asadi|atheisticcause|
-|simocristea|nschlut|
-|-|artofbiology|
-Fri Apr  9 06:02:49 UTC 2021
+|iam78488476|-|
+|atheisticcause|-|
+|nschlut|-|
+Fri Apr  9 12:02:49 UTC 2021
