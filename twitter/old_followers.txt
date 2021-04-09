@@ -2198,7 +2198,6 @@ chowthedog
 flowuenne
 sam_lukowski
 r3dst4r_ms
-r3dst4r_ms
 MExpositoAlonso
 heyaudy
 JaseGehring
@@ -2398,6 +2397,7 @@ nimra236
 anurendra
 erictdawson
 flopezos
+simocristea
 simocristea
 __yoson__
 dkuo
