@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Fri Apr  9 18:04:54 UTC 2021
+|EBiederstedt|DelaramPB|
+|-|stefanospinel15|
+Sat Apr 10 00:07:18 UTC 2021
