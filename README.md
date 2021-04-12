@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|KarenBr62387055|
-Mon Apr 12 06:02:51 UTC 2021
+|stefanospinel15|nasisiniz|
+Mon Apr 12 12:02:54 UTC 2021
