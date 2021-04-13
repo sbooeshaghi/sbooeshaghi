@@ -357,6 +357,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2597,7 +2598,6 @@ JaydeepBhat
 bioturing
 TzuChiaoLu
 andreww_lu
-BhattacharyaLab
 BhattacharyaLab
 LabSchultze
 jsschrepping
