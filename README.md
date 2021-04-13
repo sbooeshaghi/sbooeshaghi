@@ -4,7 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|-|
-|mohanned_oraba|-|
-|illWill477|-|
-Tue Apr 13 00:08:05 UTC 2021
+|KompleteA|mohanned_oraba|
+|-|illWill477|
+|-|BhattacharyaLab|
+Tue Apr 13 06:03:17 UTC 2021
