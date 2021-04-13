@@ -301,7 +301,6 @@ CaltechN
 Mariadaria18
 ZhijianLi3
 MrMoAtif1
-JKaylight
 gtmnagalla
 u_smell_it
 felix_rozenberg
@@ -357,7 +356,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -426,7 +424,6 @@ nadmullin
 CaSaMiLaN8
 NTallapragada
 PotatoOfReason
-mohanned_oraba
 HenriquesLab
 sisichen
 BalducciBorges
@@ -801,6 +798,7 @@ Andri_112099
 Mukarram_Afzal1
 paperrkite
 As3adov
+As3adov
 HockenberryAdam
 Paulmakhoul
 Davidoffd
@@ -1125,7 +1123,7 @@ bIainiac
 javiercinho13
 eodwordl
 dalerkarim
-SahasMarri
+MarriSahas
 funboyleigh
 Yurtsever_T
 mallinath
