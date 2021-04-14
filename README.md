@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AdibChristian|mohanned_oraba|
-|As3adov|-|
-|lmanent|-|
-Wed Apr 14 00:05:57 UTC 2021
+|-|AdibChristian|
+|-|youyou_company|
+Wed Apr 14 06:02:45 UTC 2021
