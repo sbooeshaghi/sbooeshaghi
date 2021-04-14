@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|AdibChristian|
-|-|youyou_company|
-Wed Apr 14 06:02:45 UTC 2021
+|youyou_company|stefanospinel15|
+Wed Apr 14 12:03:03 UTC 2021
