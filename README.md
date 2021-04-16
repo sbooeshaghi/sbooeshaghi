@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|emanuelvgo|thisischristina|
-|-|stefanospinel15|
-Thu Apr 15 18:10:53 UTC 2021
+|-|alth0u|
+Fri Apr 16 00:05:58 UTC 2021
