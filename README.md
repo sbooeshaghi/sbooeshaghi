@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|dnatieclub|test7hahahaha|
-Fri Apr 16 18:10:38 UTC 2021
+|cao_synapse|MakerTobey|
+|-|CellJeffe|
+|-|cao_bio|
+Sat Apr 17 00:06:18 UTC 2021
