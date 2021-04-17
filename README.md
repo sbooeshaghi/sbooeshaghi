@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|cao_synapse|MakerTobey|
-|-|CellJeffe|
-|-|cao_bio|
-Sat Apr 17 00:06:18 UTC 2021
+|-|stefanospinel15|
+Sat Apr 17 06:02:42 UTC 2021
