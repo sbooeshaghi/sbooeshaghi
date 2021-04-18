@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|mohsen_yzd|bioptero|
-|YingXu71793336|-|
-Sat Apr 17 18:08:29 UTC 2021
+|sanna_madan|mohsen_yzd|
+|bioptero|-|
+|kapoor_kshipra|-|
+Sun Apr 18 00:06:42 UTC 2021
