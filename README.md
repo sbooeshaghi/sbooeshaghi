@@ -4,4 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sun Apr 18 12:02:56 UTC 2021
+|_lhomme_|mzhao8|
+|-|Areopagiet|
+|-|matias_kaplan|
+Sun Apr 18 18:08:26 UTC 2021
