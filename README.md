@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|KKajderowicz|kathrinkaj|
-|mohanned_oraba|-|
-Mon Apr 19 06:02:50 UTC 2021
+|-|mohanned_oraba|
+Mon Apr 19 12:03:05 UTC 2021
