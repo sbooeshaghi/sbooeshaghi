@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|daniyal_jafree|sanna_madan|
-Mon Apr 19 00:06:38 UTC 2021
+|KKajderowicz|kathrinkaj|
+|mohanned_oraba|-|
+Mon Apr 19 06:02:50 UTC 2021
