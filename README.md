@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|mohanned_oraba|
-Mon Apr 19 12:03:05 UTC 2021
+|CherkiTahar|eco_bboi|
+|MadeleineJFoote|_madeleinejane|
+Mon Apr 19 18:09:27 UTC 2021
