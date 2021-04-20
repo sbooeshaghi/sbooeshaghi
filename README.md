@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|kathrinkaj|AqibZKhan|
-|saugat_p|KKajderowicz|
-|-|insilicomicro|
-Tue Apr 20 00:06:58 UTC 2021
+|vahidnezhadlab|sedkapone|
+Tue Apr 20 06:03:04 UTC 2021
