@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|vahidnezhadlab|sedkapone|
-Tue Apr 20 06:03:04 UTC 2021
+|stefanospinel15|-|
+|PalaTauApa|-|
+Tue Apr 20 12:02:52 UTC 2021
