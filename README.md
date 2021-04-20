@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|-|
-|PalaTauApa|-|
-Tue Apr 20 12:02:52 UTC 2021
+|jj_marlow|-|
+Tue Apr 20 18:10:25 UTC 2021
