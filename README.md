@@ -4,5 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|jj_marlow|-|
-Tue Apr 20 18:10:25 UTC 2021
+|mohanned_oraba|stefanospinel15|
+|SalehFayezM|corinouelvis|
+|Alncgreen|kofiamoah435|
+|-|OlgaE18141948|
+Wed Apr 21 00:06:49 UTC 2021
