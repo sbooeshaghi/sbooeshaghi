@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|kofiamoah435|mohanned_oraba|
-|OlgaE18141948|-|
-Wed Apr 21 06:03:21 UTC 2021
+|-|alex_peltzer|
+|-|SalehFayezM|
+Wed Apr 21 12:03:02 UTC 2021
