@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|lisabjurwald|kalender_atak|
-|-|stefanospinel15|
-Thu Apr 22 00:07:26 UTC 2021
+Thu Apr 22 06:02:52 UTC 2021
