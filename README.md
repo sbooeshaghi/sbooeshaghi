@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|RS15112498|
-Fri Apr 23 06:02:41 UTC 2021
+|Arish_Dar|stefanospinel15|
+|-|im_turing|
+Fri Apr 23 12:03:02 UTC 2021
