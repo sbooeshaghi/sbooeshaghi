@@ -4,6 +4,10 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Arish_Dar|stefanospinel15|
-|-|im_turing|
-Fri Apr 23 12:03:02 UTC 2021
+|niusha_paks|niushapaks|
+|stefanospinel15|-|
+|mohanned_oraba|-|
+|shapira_yonatan|-|
+|nafoto_z|-|
+|swamyvinny|-|
+Fri Apr 23 18:11:40 UTC 2021
