@@ -4,10 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|niusha_paks|niushapaks|
-|stefanospinel15|-|
-|mohanned_oraba|-|
-|shapira_yonatan|-|
-|nafoto_z|-|
-|swamyvinny|-|
-Fri Apr 23 18:11:40 UTC 2021
+|TimothyStiles|-|
+Sat Apr 24 00:07:06 UTC 2021
