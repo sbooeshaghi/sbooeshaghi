@@ -421,7 +421,6 @@ eric_lubeck
 NhiHin
 Samirrz1
 Maria_Dalby
-covidsafety4mu
 theIntuitionist
 alfozan
 SplashAttac
@@ -557,6 +556,7 @@ ElowitzLab
 YUHANHAO2
 achaud20
 nima_genome
+shapira_yonatan
 annie__erickson
 j3nnysheng
 CuriousMaia
@@ -1703,7 +1703,6 @@ JeremyBryson11
 kln23
 mehrshmali
 S7itch3m
-lisabjurwald
 relkmi
 casparianstrip
 SonicBubbleBoom
