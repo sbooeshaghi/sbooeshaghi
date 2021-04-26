@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|covidsafety4mu|shapira_yonatan|
-|lisabjurwald|-|
-Sun Apr 25 18:11:42 UTC 2021
+|KarenBr62387055|stefanospinel15|
+|shapira_yonatan|-|
+Mon Apr 26 00:07:31 UTC 2021
