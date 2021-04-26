@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|sudo_BreeB|KarenBr62387055|
-|-|MubarekMuzemilM|
-|-|sudo_Bree|
-Mon Apr 26 06:02:47 UTC 2021
+|stefanospinel15|shapira_yonatan|
+|AlOdeleH|AOdelH|
+Mon Apr 26 12:02:56 UTC 2021
