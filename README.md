@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|LabSchultze|-|
-Tue Apr 27 12:03:00 UTC 2021
+|-|maqsood_zaib|
+|-|bioptero|
+Tue Apr 27 18:11:45 UTC 2021
