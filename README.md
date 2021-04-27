@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|bioptero|stefanospinel15|
-|-|LabSchultze|
-Tue Apr 27 06:02:50 UTC 2021
+|LabSchultze|-|
+Tue Apr 27 12:03:00 UTC 2021
