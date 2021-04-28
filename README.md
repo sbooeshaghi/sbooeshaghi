@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|fsimeski|arupgsh|
-|-|EmvaKatie|
-Wed Apr 28 12:02:57 UTC 2021
+|Maziari|-|
+Wed Apr 28 18:11:34 UTC 2021
