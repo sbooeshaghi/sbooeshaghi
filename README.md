@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|maqsood_zaib|
-|-|bioptero|
-Tue Apr 27 18:11:45 UTC 2021
+|stefanospinel15|lteytelman|
+|-|shapira_yonatan|
+Wed Apr 28 00:06:39 UTC 2021
