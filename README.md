@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|KarenBr62387055|
-|dipespandey08|azadehassanpoor|
-Fri Apr 30 00:26:53 UTC 2021
+|azadehassanpoor|-|
+|0X9A41C1|-|
+Fri Apr 30 06:10:30 UTC 2021
