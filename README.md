@@ -4,8 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|justZeri|
-|Aoohan|camirettura|
-|Shas__18|Water_Fire__18|
-|-|ZaynIsBaeQS|
-Sat May  1 00:28:17 UTC 2021
+|KarenBr62387055|-|
+|camirettura|-|
+Sat May  1 06:10:22 UTC 2021
