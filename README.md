@@ -4,7 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Lama_Rafat|VondersteinK|
-|-|stefanospinel15|
-|-|lulurafat|
-Fri Apr 30 18:17:42 UTC 2021
+|stefanospinel15|justZeri|
+|Aoohan|camirettura|
+|Shas__18|Water_Fire__18|
+|-|ZaynIsBaeQS|
+Sat May  1 00:28:17 UTC 2021
