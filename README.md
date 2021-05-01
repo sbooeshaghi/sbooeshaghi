@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|KarenBr62387055|-|
-|camirettura|-|
-Sat May  1 06:10:22 UTC 2021
+Sat May  1 12:11:40 UTC 2021
