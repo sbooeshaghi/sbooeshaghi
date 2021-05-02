@@ -4,8 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|MehengaP|KseniiaSarieva|
-|apir0n|stefanospinel15|
-|-|dipespandey08|
-|-|LiberatedJha|
-Sun May  2 00:31:27 UTC 2021
+|stefanospinel15|-|
+Sun May  2 06:10:23 UTC 2021
