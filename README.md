@@ -4,5 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|-|
-Sun May  2 06:10:23 UTC 2021
+|-|LCaccianini|
+|-|stefanospinel15|
+|-|0X9A41C1|
+|-|Aoohan|
+|-|WNanoscience|
+Sun May  2 12:11:57 UTC 2021
