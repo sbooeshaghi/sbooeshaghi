@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Mon May  3 00:28:57 UTC 2021
+|-|k_thos|
+|-|WizeBunny|
+Mon May  3 06:11:14 UTC 2021
