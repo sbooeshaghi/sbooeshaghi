@@ -4,4 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Tue May  4 06:08:18 UTC 2021
+|bioptero|stefanospinel15|
+|illWill477|biopterum|
+|-|leoMuli|
+Tue May  4 12:09:10 UTC 2021
