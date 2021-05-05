@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|Uzoayo|
-Wed May  5 00:17:43 UTC 2021
+Wed May  5 06:07:55 UTC 2021
