@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|paperrkite|H3K4me1|
-|Hbakiyom|anarktos|
-|Uzoayo|illWill477|
-Tue May  4 18:10:50 UTC 2021
+|-|Uzoayo|
+Wed May  5 00:17:43 UTC 2021
