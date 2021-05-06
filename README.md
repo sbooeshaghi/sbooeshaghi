@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Kandimalla_Prat|AngryLebExpat|
-|AdibChristian|-|
-|I_love_im_dim|-|
-Thu May  6 00:17:23 UTC 2021
+|irisapoy|sudoBree|
+|sudo_Bree|-|
+Thu May  6 06:07:48 UTC 2021
