@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|irisapoy|sudoBree|
-|sudo_Bree|-|
-Thu May  6 06:07:48 UTC 2021
+|cmlakhan|vousbambina|
+Thu May  6 12:08:53 UTC 2021
