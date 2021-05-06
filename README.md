@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|shapira_yonatan|maspionnnnnn|
-|adeliaamasita|-|
-Wed May  5 18:14:15 UTC 2021
+|Kandimalla_Prat|AngryLebExpat|
+|AdibChristian|-|
+|I_love_im_dim|-|
+Thu May  6 00:17:23 UTC 2021
