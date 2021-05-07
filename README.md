@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|vousbambina|stefanospinel15|
-Thu May  6 18:14:42 UTC 2021
+|dylan_w_mills|cmlakhan|
+|apir0n|-|
+Fri May  7 00:18:07 UTC 2021
