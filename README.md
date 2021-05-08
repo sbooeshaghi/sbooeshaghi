@@ -4,5 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|-|
-Sat May  8 12:08:58 UTC 2021
+|anarktos|stefanospinel15|
+|Water_Fire__18|mitokondryaa|
+|-|Shas__18|
+|-|__ashkan_|
+Sat May  8 18:12:37 UTC 2021
