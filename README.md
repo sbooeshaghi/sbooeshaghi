@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|epirobotum|
-|biopterum|-|
-Sun May  9 00:20:44 UTC 2021
+|dipespandey08|-|
+Sun May  9 06:07:30 UTC 2021
