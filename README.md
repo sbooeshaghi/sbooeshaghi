@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|dipespandey08|
-Sun May  9 18:12:48 UTC 2021
+|DrBasketball|SilvaGJonathan|
+|Gaurav_plucky|stefanospinel15|
+|-|gshrma_|
+Mon May 10 00:19:04 UTC 2021
