@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|DrBasketball|SilvaGJonathan|
-|Gaurav_plucky|stefanospinel15|
-|-|gshrma_|
-Mon May 10 00:19:04 UTC 2021
+|stefanospinel15|sudo_Bree|
+|sudoBree|-|
+Mon May 10 06:07:49 UTC 2021
