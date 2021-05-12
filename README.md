@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|dwmtmfckr|dsdfmdfsdf|
-Tue May 11 18:18:35 UTC 2021
+|-|HustleClassic1|
+Wed May 12 00:19:59 UTC 2021
