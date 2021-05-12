@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|HustleClassic1|cmlakhan|
-|nasisiniz|-|
-|stefanospinel15|-|
-Wed May 12 06:09:35 UTC 2021
+|-|stefanospinel15|
+Wed May 12 12:11:53 UTC 2021
