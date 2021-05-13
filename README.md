@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|okapi_blue|MoTarekM|
-|-|stefanospinel15|
-Thu May 13 00:29:48 UTC 2021
+|stefanospinel15|JonMarshallz|
+Thu May 13 06:10:45 UTC 2021
