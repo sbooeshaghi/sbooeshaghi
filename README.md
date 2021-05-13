@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|sudoBree|
-|sudo_Bree|-|
-Wed May 12 18:22:06 UTC 2021
+|okapi_blue|MoTarekM|
+|-|stefanospinel15|
+Thu May 13 00:29:48 UTC 2021
