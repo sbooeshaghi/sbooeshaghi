@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|JonMarshallz|stefanospinel15|
-Thu May 13 12:12:19 UTC 2021
+|-|WizeBunny|
+|-|bgvincentlab|
+Thu May 13 18:22:41 UTC 2021
