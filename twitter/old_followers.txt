@@ -1,3 +1,4 @@
+GeneOnlineNews
 MoTarekM
 nor_shaheera
 IHaoWang1
@@ -374,7 +375,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1197,7 +1197,6 @@ EsfahaniMoein
 AfghanRuleofLaw
 hoyosjs
 MLWadester
-WizeBunny
 WizeBunny
 JonMarshallz
 HgwtPaladin
@@ -2197,7 +2196,6 @@ zajourney
 __nilai__
 TonyWChenPhD
 brooke_versaw
-bgvincentlab
 bgvincentlab
 b_harris_12
 ferrenabio
