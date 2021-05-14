@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|GeneOnlineNews|
-|WizeBunny|-|
-|bgvincentlab|-|
-Fri May 14 00:30:22 UTC 2021
+|yung_cham0|-|
+Fri May 14 06:10:25 UTC 2021
