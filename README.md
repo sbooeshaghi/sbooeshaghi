@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Walid_mt1|stefanospinel15|
-|-|yung_cham0|
-Fri May 14 12:12:04 UTC 2021
+|RichaRast|Rich_Rast|
+|leoboksor|Links123407|
+Fri May 14 18:24:08 UTC 2021
