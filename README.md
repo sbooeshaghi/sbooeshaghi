@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|Bhavya39131843|
-|-|stefanospinel15|
-Sat May 15 06:10:11 UTC 2021
+|-|Hannah_SuperRes|
+|-|TonyWChenPhD|
+|-|wariobrega|
+Sat May 15 12:11:43 UTC 2021
