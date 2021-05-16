@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|TonyWChenPhD|Walid_mt1|
-|wariobrega|-|
-Sat May 15 18:21:18 UTC 2021
+|stefanospinel15|-|
+|Walid_mt1|-|
+Sun May 16 00:31:34 UTC 2021
