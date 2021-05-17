@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|okapi_blue|
-|keeepitsqueaky|brownriicesyrup|
-Mon May 17 00:28:25 UTC 2021
+|-|FelixGoldberg1|
+|-|f_safaei|
+|-|stefanospinel15|
+Mon May 17 06:10:34 UTC 2021
