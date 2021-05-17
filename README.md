@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|FelixGoldberg1|
-|-|f_safaei|
-|-|stefanospinel15|
-Mon May 17 06:10:34 UTC 2021
+|epirobotum|-|
+Mon May 17 12:12:34 UTC 2021
