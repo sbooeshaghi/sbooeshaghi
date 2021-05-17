@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|epirobotum|-|
-Mon May 17 12:12:34 UTC 2021
+|stefanospinel15|venwithmen|
+|LeefVan|-|
+|illWill477|-|
+Mon May 17 18:23:40 UTC 2021
