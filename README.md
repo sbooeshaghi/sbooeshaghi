@@ -4,8 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|salihaey|nasisiniz|
-|shahbazkhan185|stefanospinel15|
-|-|Walid_mt1|
-|-|khan__chacha|
-Sun May 16 18:23:10 UTC 2021
+|stefanospinel15|okapi_blue|
+|keeepitsqueaky|brownriicesyrup|
+Mon May 17 00:28:25 UTC 2021
