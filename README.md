@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|hqmzone|-|
-|yul_pjm|-|
-Tue May 18 06:10:15 UTC 2021
+|-|stefanospinel15|
+|-|epirobotum|
+Tue May 18 12:12:35 UTC 2021
