@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|antique_jalan|hqmzone|
-|MooreJillE|illWill477|
-Tue May 18 00:31:25 UTC 2021
+|hqmzone|-|
+|yul_pjm|-|
+Tue May 18 06:10:15 UTC 2021

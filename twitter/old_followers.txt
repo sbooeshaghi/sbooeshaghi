@@ -1198,7 +1198,6 @@ change_online
 Gauravyaduvnshi
 magneshit
 hqmzone
-hqmzone
 TheBrenRG
 EsfahaniMoein
 AfghanRuleofLaw
@@ -1834,7 +1833,6 @@ drdavidroad
 science_gi
 sanusi_moruf
 spence_jeffrey_
-yul_pjm
 tomsgoms
 AshwinSudarshan
 rlmcelreath
