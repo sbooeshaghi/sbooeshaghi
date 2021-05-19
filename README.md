@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|NaragonTom|
-Wed May 19 00:29:02 UTC 2021
+Wed May 19 06:10:33 UTC 2021
