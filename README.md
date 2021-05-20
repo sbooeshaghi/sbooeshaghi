@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|HamzaAl33390605|
-|-|Gauravyaduvnshi|
-Thu May 20 12:12:46 UTC 2021
+|Gauravyaduvnshi|__nilai__|
+Thu May 20 18:26:31 UTC 2021
