@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|stefanospinel15|
-|-|ReggiardoRoman|
-Thu May 20 00:28:22 UTC 2021
+|ReggiardoRoman|-|
+|stubear8|-|
+|krasbras|-|
+Thu May 20 06:10:40 UTC 2021
