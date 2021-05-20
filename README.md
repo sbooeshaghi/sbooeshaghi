@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Abu_Abdulmohsen|WenzelLab|
-Wed May 19 18:24:45 UTC 2021
+|-|stefanospinel15|
+|-|ReggiardoRoman|
+Thu May 20 00:28:22 UTC 2021
