@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|stefanospinel15|
-|-|antique_jalan|
-Fri May 21 18:28:16 UTC 2021
+|sciencing_tri|epirobotum|
+|-|zajourney|
+Sat May 22 00:29:46 UTC 2021
