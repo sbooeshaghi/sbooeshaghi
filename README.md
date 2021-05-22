@@ -4,7 +4,18 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|AnointedGb|
-|-|MStarostecka|
-|-|tiagolcarv|
-Sat May 22 12:11:45 UTC 2021
+|-|RaviTharakan|
+|-|ethan_levien|
+|-|biglarinasim|
+|-|carlos_dlc_f|
+|-|rumeysa_ozz|
+|-|christyschnitz|
+|-|Aurore__Gay|
+|-|TracyRy18955342|
+|-|maunishbarvalia|
+|-|mervekahraman71|
+|-|LasradoNinaad|
+|-|jpdaanoy|
+|-|luisachocarro|
+|-|cnoutsos|
+Sat May 22 18:25:59 UTC 2021
