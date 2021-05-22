@@ -4,7 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|7imNg|
-|epirobotum|-|
-|zajourney|-|
-Sat May 22 06:10:40 UTC 2021
+|-|AnointedGb|
+|-|MStarostecka|
+|-|tiagolcarv|
+Sat May 22 12:11:45 UTC 2021
