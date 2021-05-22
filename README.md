@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|sciencing_tri|epirobotum|
-|-|zajourney|
-Sat May 22 00:29:46 UTC 2021
+|stefanospinel15|7imNg|
+|epirobotum|-|
+|zajourney|-|
+Sat May 22 06:10:40 UTC 2021
