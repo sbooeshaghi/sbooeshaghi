@@ -4,11 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|ZaynIsBaeQS|ABrayanCampos|
-|-|ianfolkert|
-|-|DrEllenLeMosy|
-|-|wmdeneve|
-|-|zuhalsafyurek|
-|-|JiuuKyle|
-|-|stefanospinel15|
-Sun May 23 06:11:24 UTC 2021
+|eczenrs|jayanth1983|
+|-|rfr1978|
+|-|levin_bertrandt|
+|-|MustaphaSibai|
+|-|freed_nikki|
+Sun May 23 12:12:03 UTC 2021
