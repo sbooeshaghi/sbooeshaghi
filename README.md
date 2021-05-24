@@ -4,12 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|pramiomio|YWHSIAO9419|
-|-|SlovinShaked|
-|-|maryloveplants|
-|-|Vijaya_Batthula|
-|-|thomas_sandmann|
-|-|jiejia7|
-|-|chenkenbio|
-|-|lubianat|
-Sun May 23 18:24:03 UTC 2021
+|-|pramiomio|
+Mon May 24 00:31:10 UTC 2021
