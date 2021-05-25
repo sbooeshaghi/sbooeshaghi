@@ -4,6 +4,15 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|uptiapBkwSgBzZD|
-|-|stefanospinel15|
-Mon May 24 18:31:03 UTC 2021
+|stefanospinel15|weird_worms|
+|-|stephenfloor|
+|-|quangpmnguyen|
+|-|JamesIts|
+|-|ekocakavuk|
+|-|AlbertRadloff|
+|-|tina_kesha|
+|-|JackATierney|
+|-|sardineboy_DING|
+|-|richabdill|
+|-|strngzAsBaxters|
+Tue May 25 00:31:45 UTC 2021
