@@ -4,13 +4,11 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|AdamSorbie|
-|-|CarlosMPortela|
-|-|QNNDuke|
-|-|DongyinGuan|
-|-|deWitLab|
-|-|lachlanjmc|
-|-|exp11|
-|-|Jas_deepSingh|
-|-|its_me_agnish|
-Tue May 25 12:13:16 UTC 2021
+|its_me_agnish|kaylainbio|
+|illWill477|edmundotogo|
+|-|Vicky_Luy|
+|-|SilviaRguez|
+|-|INRAE_Migale|
+|-|CedricMidoux|
+|-|stefanospinel15|
+Tue May 25 18:36:22 UTC 2021
