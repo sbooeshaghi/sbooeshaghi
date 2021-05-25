@@ -4,15 +4,13 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|slinnarsson|
-|-|KurakuLabMSM|
-|-|SunMengyi|
-|-|XiChenUoM|
-|-|rodrigueslamoj|
-|-|BeGenomics|
-|-|ousmanecis|
-|-|patogermanlopez|
-|-|kylehelzer|
-|-|mitramith|
-|-|stefanospinel15|
-Tue May 25 06:21:19 UTC 2021
+|stefanospinel15|AdamSorbie|
+|-|CarlosMPortela|
+|-|QNNDuke|
+|-|DongyinGuan|
+|-|deWitLab|
+|-|lachlanjmc|
+|-|exp11|
+|-|Jas_deepSingh|
+|-|its_me_agnish|
+Tue May 25 12:13:16 UTC 2021
