@@ -1,3 +1,13 @@
+slinnarsson
+KurakuLabMSM
+SunMengyi
+XiChenUoM
+rodrigueslamoj
+BeGenomics
+ousmanecis
+patogermanlopez
+kylehelzer
+mitramith
 weird_worms
 stephenfloor
 quangpmnguyen
@@ -454,6 +464,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
