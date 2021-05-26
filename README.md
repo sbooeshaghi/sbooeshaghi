@@ -4,14 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AbdL__G|noelrl4991|
-|TitoJoeThomas|matt_mcguffie|
-|-|ara_latifkar|
-|-|npisacan|
-|-|hrsagaraw|
-|-|IXIA621|
-|-|dfjenkins3|
-|-|DavidXIANG2|
-|-|BYan46362780|
-|-|illWill477|
-Wed May 26 00:37:50 UTC 2021
+|-|qyd720|
+|-|maxgmarin|
+Wed May 26 06:29:29 UTC 2021
