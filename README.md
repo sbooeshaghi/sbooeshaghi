@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|qyd720|
-|-|maxgmarin|
-Wed May 26 06:29:29 UTC 2021
+|ousmanecis|nextgenseek|
+|-|JunhaoChen1113|
+Wed May 26 12:16:43 UTC 2021
