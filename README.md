@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|SimonBornschein|
-|-|aayushraman|
-Wed May 26 18:48:12 UTC 2021
+|stefanospinel15|RaquelGF00|
+|bad_enough_|martacp96|
+Thu May 27 00:40:03 UTC 2021
