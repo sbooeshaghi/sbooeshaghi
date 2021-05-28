@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|vasantika|
-|-|TitoJoeThomas|
-Thu May 27 18:52:45 UTC 2021
+Fri May 28 00:45:37 UTC 2021
