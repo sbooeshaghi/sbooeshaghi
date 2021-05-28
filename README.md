@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|chesnol96|
-Fri May 28 12:33:49 UTC 2021
+|HamzaAl33390605|stefanospinel15|
+|-|ZaynIsBaeQS|
+Fri May 28 19:02:47 UTC 2021
