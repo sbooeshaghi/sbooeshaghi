@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Hustlerstory|stefanospinel15|
-|StudioG88|-|
-Sat May 29 12:31:17 UTC 2021
+|ASATT1902|SanskaariSehgal|
+|-|Amankhawajaa|
+|-|ASATT19731902|
+Sat May 29 19:10:46 UTC 2021
