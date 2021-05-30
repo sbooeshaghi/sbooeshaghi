@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|ASATT1902|SanskaariSehgal|
-|-|Amankhawajaa|
-|-|ASATT19731902|
-Sat May 29 19:10:46 UTC 2021
+|stefanospinel15|Hbakiyom|
+|-|apir0n|
+Sun May 30 01:00:24 UTC 2021
