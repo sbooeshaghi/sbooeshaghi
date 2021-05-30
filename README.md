@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|amitb3650|stefanospinel15|
-|apir0n|Riskengineer1|
-Sun May 30 07:05:38 UTC 2021
+|stefanospinel15|armin_dadras|
+|dyl4nm4rsh4ll|-|
+Sun May 30 12:33:32 UTC 2021
