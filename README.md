@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|fdonelli|dyl4nm4rsh4ll|
-Sun May 30 19:07:38 UTC 2021
+|m_bodensteiner|-|
+Mon May 31 01:08:27 UTC 2021
