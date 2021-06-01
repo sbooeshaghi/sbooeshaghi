@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|alienghic|-|
-|Hbakiyom|-|
-Tue Jun  1 07:37:17 UTC 2021
+Tue Jun  1 12:47:35 UTC 2021
