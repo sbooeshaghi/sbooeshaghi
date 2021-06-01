@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|borrajilla17|
-|lirlauren|-|
-Tue Jun  1 01:24:44 UTC 2021
+|alienghic|-|
+|Hbakiyom|-|
+Tue Jun  1 07:37:17 UTC 2021
