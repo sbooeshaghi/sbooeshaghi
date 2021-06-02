@@ -4,8 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|PlanaDeborah|jared_slosberg|
-|LordNomann|xinruizhng|
-|-|nmbz2000|
-|-|Maziari|
-Wed Jun  2 01:32:52 UTC 2021
+|-|MedinaReinhold|
+|-|EstefVazque|
+|-|Cole_Keenum|
+|-|lirlauren|
+Wed Jun  2 07:41:20 UTC 2021
