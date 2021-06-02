@@ -4,8 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|MedinaReinhold|
-|-|EstefVazque|
-|-|Cole_Keenum|
-|-|lirlauren|
-Wed Jun  2 07:41:20 UTC 2021
+Wed Jun  2 12:47:54 UTC 2021
