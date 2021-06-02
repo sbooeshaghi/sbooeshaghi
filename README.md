@@ -4,9 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Maziari|zetieum|
-|-|ideas_dynamic|
-|-|Hustlerstory|
-|-|stefanospinel15|
-|-|alienghic|
-Tue Jun  1 20:18:01 UTC 2021
+|PlanaDeborah|jared_slosberg|
+|LordNomann|xinruizhng|
+|-|nmbz2000|
+|-|Maziari|
+Wed Jun  2 01:32:52 UTC 2021
