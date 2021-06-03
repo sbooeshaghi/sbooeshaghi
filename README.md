@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|-|
-Thu Jun  3 12:34:00 UTC 2021
+|ideas_dynamic|lal_avantika|
+|Mukarram_Afzal1|Mukarram_Afz|
+Thu Jun  3 19:40:18 UTC 2021
