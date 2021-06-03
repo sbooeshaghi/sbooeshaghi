@@ -4,9 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|dyl4nm4rsh4ll|Ali_sattariii|
-|jiemingchu|Lukais_Iohan|
-|-|baizalla|
-|-|SoleimaniShirin|
-|-|epirobotum|
-Thu Jun  3 07:18:02 UTC 2021
+|stefanospinel15|-|
+Thu Jun  3 12:34:00 UTC 2021
