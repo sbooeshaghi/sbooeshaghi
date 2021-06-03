@@ -4,7 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|stefanospinel15|
-|-|bad_enough_|
-|-|Hbakiyom|
-Thu Jun  3 01:14:12 UTC 2021
+|dyl4nm4rsh4ll|Ali_sattariii|
+|jiemingchu|Lukais_Iohan|
+|-|baizalla|
+|-|SoleimaniShirin|
+|-|epirobotum|
+Thu Jun  3 07:18:02 UTC 2021
