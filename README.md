@@ -4,11 +4,21 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|phANDYpack|jonnymates|
-|stefanospinel15|AmiraMa25428958|
-|-|Ahmedzolo|
-|-|Fabbyboe|
-|-|ViDang411|
-|-|VY_stem|
-|-|vdiezo|
-Fri Jun  4 12:50:19 UTC 2021
+|gavin_w_wilson|Danzie314|
+|0x29|But_what_ends|
+|-|axelalmet|
+|-|vkartha88|
+|-|kathir37171765|
+|-|GWMcelfresh|
+|-|tfmPhD|
+|-|DamiMasMenos|
+|-|jvkersch|
+|-|elosua_bayes|
+|-|alexwstockinger|
+|-|flo_compbio|
+|-|prdpgtm|
+|-|alldayscientess|
+|-|carmonation|
+|-|himanshu_052|
+|-|AbelSeg70718023|
+Fri Jun  4 19:27:57 UTC 2021
