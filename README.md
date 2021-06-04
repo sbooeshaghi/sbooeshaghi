@@ -4,8 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|kod3000|CarvalhoFilipeL|
-|-|martala79|
-|-|MMAPULLA|
-|-|DwanPrice|
-Fri Jun  4 01:11:00 UTC 2021
+|epirobotum|AJMurph5|
+|-|WPX47811134|
+|-|GyPrak|
+|-|issisaby|
+|-|stefanospinel15|
+Fri Jun  4 07:39:22 UTC 2021
