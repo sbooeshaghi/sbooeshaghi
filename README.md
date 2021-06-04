@@ -4,9 +4,11 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|epirobotum|AJMurph5|
-|-|WPX47811134|
-|-|GyPrak|
-|-|issisaby|
-|-|stefanospinel15|
-Fri Jun  4 07:39:22 UTC 2021
+|phANDYpack|jonnymates|
+|stefanospinel15|AmiraMa25428958|
+|-|Ahmedzolo|
+|-|Fabbyboe|
+|-|ViDang411|
+|-|VY_stem|
+|-|vdiezo|
+Fri Jun  4 12:50:19 UTC 2021
