@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|thatleechi17|SanKitTo888|
-|-|Pautuitt|
-Sat Jun  5 12:33:05 UTC 2021
+|stefanospinel15|Osamamagdy221|
+|-|seyed_ghazvini|
+|-|MCamila_almeida|
+Sat Jun  5 18:50:23 UTC 2021
