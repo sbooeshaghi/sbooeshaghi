@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|ShannonEsher|
-|-|realbrucepan|
-Sat Jun  5 06:42:48 UTC 2021
+|thatleechi17|SanKitTo888|
+|-|Pautuitt|
+Sat Jun  5 12:33:05 UTC 2021
