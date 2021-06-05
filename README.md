@@ -4,11 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|bioinformer|
-|-|ZuzaKristina|
-|-|XiangZhang18|
-|-|russell_kunes|
-|-|NickdeVrij|
-|-|bpfairfax|
-|-|stefanospinel15|
-Sat Jun  5 00:50:15 UTC 2021
+|-|ShannonEsher|
+|-|realbrucepan|
+Sat Jun  5 06:42:48 UTC 2021
