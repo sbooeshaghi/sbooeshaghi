@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|-|
-Sun Jun  6 06:38:32 UTC 2021
+|Hbakiyom|paulanietog|
+|spence_jeffrey_|Prashant_5ingh|
+|-|stefanospinel15|
+Sun Jun  6 12:34:15 UTC 2021
