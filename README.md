@@ -4,9 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|MichalaKoch|Bahareh22966911|
-|Maziari|frontzekkarl|
-|-|TomKnightSynBio|
-|-|Fatima98616605|
-|-|stefanospinel15|
-Sun Jun  6 00:42:21 UTC 2021
+|stefanospinel15|-|
+Sun Jun  6 06:38:32 UTC 2021
