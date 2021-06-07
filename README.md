@@ -4,5 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|stefanospinel15|
-Mon Jun  7 12:39:20 UTC 2021
+|stefanospinel15|JesseDGibson|
+|im_turing|FrankLeeGangLi|
+|-|AdriSuarezGonz|
+|-|nonstandardcode|
+|-|Im_LoneRanger|
+Mon Jun  7 19:37:43 UTC 2021

@@ -1,3 +1,5 @@
+JesseDGibson
+FrankLeeGangLi
 _rbuencon
 wuchau
 paulanietog
@@ -396,6 +398,7 @@ tonybyebye
 rdhorak
 kashyapchhatbar
 AdriSuarezGonz
+AdriSuarezGonz
 ksgarg
 DrKathyRichmond
 ekernf01
@@ -564,7 +567,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -595,6 +597,7 @@ hero_of_lore
 Rich_Rast
 jsmithhopkins
 munzmarci
+nonstandardcode
 nonstandardcode
 nathan_omans
 dan_martimarti
@@ -1273,7 +1276,7 @@ okapi_blue
 pramiomio
 2020gobeyond
 rajandchavda
-im_turing
+Im_LoneRanger
 RLIBERTE
 _yianni_
 msaud96
