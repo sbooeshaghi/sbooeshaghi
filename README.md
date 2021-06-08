@@ -4,8 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|lifengtian|
-|nikita_jerschow|benbfly|
-|-|mikamatvat|
-|-|nikita_builds|
-Tue Jun  8 06:22:26 UTC 2021
+|KG_Bree|Comrade_KGBree|
+Tue Jun  8 12:11:27 UTC 2021
