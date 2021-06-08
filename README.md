@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|KG_Bree|Comrade_KGBree|
-Tue Jun  8 12:11:27 UTC 2021
+|-|ongenetics|
+|-|Vincent_Hahaut|
+Tue Jun  8 18:33:30 UTC 2021
