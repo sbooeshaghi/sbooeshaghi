@@ -4,9 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AdriSuarezGonz|_jennylai_|
-|nonstandardcode|isabelscst|
-|-|LizzieChung2|
-|-|richarizardd95|
-|-|stefanospinel15|
-Tue Jun  8 00:44:12 UTC 2021
+|stefanospinel15|lifengtian|
+|nikita_jerschow|benbfly|
+|-|mikamatvat|
+|-|nikita_builds|
+Tue Jun  8 06:22:26 UTC 2021
