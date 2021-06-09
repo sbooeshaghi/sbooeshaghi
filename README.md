@@ -4,6 +4,15 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|ongenetics|
-|-|Vincent_Hahaut|
-Tue Jun  8 18:33:30 UTC 2021
+|-|clarimise|
+|-|Alisinab|
+|-|joshmnicholson|
+|-|EganPeltan|
+|-|itok10918|
+|-|Chatbooth_app|
+|-|DominickLayfie1|
+|-|beauanges|
+|-|ArronPSullivan|
+|-|Mal2782|
+|-|ideas_dynamic|
+Wed Jun  9 00:27:29 UTC 2021
