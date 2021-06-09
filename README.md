@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|farhad_shiri|
-|-|m_a_schenk|
-|-|ClarkFritsch|
-Wed Jun  9 06:18:51 UTC 2021
+|-|stefanospinel15|
+Wed Jun  9 12:11:12 UTC 2021
