@@ -4,5 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|VaibhavMittal96|ShyamalMehtalia|
-Thu Jun 10 00:25:52 UTC 2021
+|GSharadaa|BiaUnit|
+|-|BhoiteRutuja|
+|-|stefanospinel15|
+|-|lucknowniwasi|
+Thu Jun 10 06:14:20 UTC 2021
