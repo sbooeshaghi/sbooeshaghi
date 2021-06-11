@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Fri Jun 11 06:08:49 UTC 2021
+|-|DocSashas|
+|-|GSharadaa|
+Fri Jun 11 12:10:15 UTC 2021
