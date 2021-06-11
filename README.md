@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|TitoJoeThomas|demonpore|
-|jaqua04|GSharadaa|
-Thu Jun 10 18:25:32 UTC 2021
+|GSharadaa|toninells|
+|-|peter10957102|
+Fri Jun 11 00:24:29 UTC 2021
