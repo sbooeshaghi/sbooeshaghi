@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|GSharadaa|toninells|
-|-|peter10957102|
-Fri Jun 11 00:24:29 UTC 2021
+Fri Jun 11 06:08:49 UTC 2021
