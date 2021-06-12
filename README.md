@@ -4,9 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|caldarellip1|The_InnovationJ|
-|-|argschwind|
-|-|GSharadaa|
-|-|_cedric_|
-|-|zajourney|
-Sat Jun 12 06:08:20 UTC 2021
+|argschwind|skimomiks|
+|stefanospinel15|-|
+|GSharadaa|-|
+|_cedric_|-|
+|zajourney|-|
+Sat Jun 12 12:09:37 UTC 2021
