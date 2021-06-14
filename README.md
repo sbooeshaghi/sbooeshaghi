@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|patogermanlopez|AdibChristian|
-|stefanospinel15|GSharadaa|
-|AngryLebExpat|fdonelli|
-Mon Jun 14 06:08:45 UTC 2021
+|-|stefanospinel15|
+Mon Jun 14 12:10:22 UTC 2021
