@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|stefanospinel15|
-Sun Jun 13 18:07:33 UTC 2021
+|GSharadaa|Jerrychanx|
+|JERRIN0712|-|
+Mon Jun 14 00:22:59 UTC 2021
