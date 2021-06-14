@@ -145,7 +145,6 @@ SunMengyi
 XiChenUoM
 rodrigueslamoj
 BeGenomics
-patogermanlopez
 kylehelzer
 mitramith
 weird_worms
@@ -600,7 +599,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -860,7 +858,7 @@ naserkhaderdk
 jose__sky
 4484
 errontitus
-AngryLebExpat
+AdibChristian
 mohil112
 TheJoedeVivre
 matteopapaluca
@@ -1447,6 +1445,7 @@ qvchater
 DiazDiestro
 brian_bo
 nlouise179
+GSharadaa
 m_stellios
 arnidotmy
 photo_mp
@@ -1683,6 +1682,7 @@ julsamani
 AhmadAbuhaimed
 av_thakkar
 FlameAngel8
+fdonelli
 farid_ita
 Sketchcraft
 BassamJamal4
