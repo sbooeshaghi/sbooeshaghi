@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|spence_jeffrey_|
-Tue Jun 15 06:10:25 UTC 2021
+|-|grokkedIt|
+Tue Jun 15 12:10:39 UTC 2021
