@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|Dr_LeoYu|
-|-|GSharadaa|
-Tue Jun 15 18:11:30 UTC 2021
+|GSharadaa|-|
+Wed Jun 16 00:24:40 UTC 2021
