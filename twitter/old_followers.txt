@@ -602,7 +602,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -790,7 +789,6 @@ ElowitzLab
 YUHANHAO2
 achaud20
 nima_genome
-shapira_yonatan
 annie__erickson
 j3nnysheng
 CuriousMaia
@@ -813,7 +811,7 @@ ccallihoo
 LMT_Spoon
 talisol
 ReggiardoRoman
-suzy_beeler
+ProfBeeler
 Ivermectinworks
 mukundmadhav
 michlipi
