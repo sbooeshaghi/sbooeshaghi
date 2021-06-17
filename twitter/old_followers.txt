@@ -1,6 +1,5 @@
 Dr_LeoYu
 grokkedIt
-mmgae1623340354
 twittcoms
 jim_elevator
 skimomiks
@@ -332,7 +331,6 @@ jamesrhawley
 DatabaeInLA
 lexrovner
 Deep_Ruh
-moorejh
 dccc_phd
 niklasjlang
 andreamrau
@@ -789,6 +787,7 @@ ElowitzLab
 YUHANHAO2
 achaud20
 nima_genome
+shapira_yonatan
 annie__erickson
 j3nnysheng
 CuriousMaia

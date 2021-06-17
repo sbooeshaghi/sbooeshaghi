@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|leesonHere|_neills|
-Thu Jun 17 12:10:40 UTC 2021
+|mmgae1623340354|shapira_yonatan|
+|moorejh|-|
+Thu Jun 17 18:10:22 UTC 2021
