@@ -4,6 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|parkergrosjean|
-|-|Tahir_ul_qamar|
-Fri Jun 18 12:10:31 UTC 2021
+|parkergrosjean|_A_____D_|
+|Tahir_ul_qamar|-|
+|stefanospinel15|-|
+|A__Deshmukh|-|
+Fri Jun 18 18:08:44 UTC 2021
