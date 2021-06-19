@@ -4,7 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|jpdaanoy|streetball16|
-|-|stefanospinel15|
-|-|shapira_yonatan|
-Sat Jun 19 00:24:08 UTC 2021
+Sat Jun 19 06:08:54 UTC 2021
