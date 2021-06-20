@@ -600,6 +600,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -787,7 +788,6 @@ ElowitzLab
 YUHANHAO2
 achaud20
 nima_genome
-shapira_yonatan
 annie__erickson
 j3nnysheng
 CuriousMaia
@@ -2798,6 +2798,7 @@ sefsinsen
 hoffman_steven
 martinjzhang
 alexmascension
+alexmascension
 jambocurious
 AMA2020
 JaydeepBhat
@@ -2884,7 +2885,7 @@ VarunKothamachu
 gautamcgoel
 hjpimentel
 MikeMarinoLive
-PengHeCambridge
+PengHeCam
 LOLCats4U
 KipnissNathan
 _omargHonim
