@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Guro36818633|apir0n|
-Mon Jun 21 06:08:52 UTC 2021
+|Navidjolausefi|EclecticRecruit|
+|shapira_yonatan|Pankaj_27March|
+Mon Jun 21 12:10:53 UTC 2021
