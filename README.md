@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|alexmascension|-|
-Sun Jun 20 18:07:27 UTC 2021
+|stefanospinel15|shapira_yonatan|
+|gregggonsalves|Guro36818633|
+|mr_enoma|davidenoma_|
+Mon Jun 21 00:24:52 UTC 2021

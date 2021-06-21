@@ -600,7 +600,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -788,6 +787,7 @@ ElowitzLab
 YUHANHAO2
 achaud20
 nima_genome
+shapira_yonatan
 annie__erickson
 j3nnysheng
 CuriousMaia
@@ -798,13 +798,13 @@ mythlegendmusic
 McdunnJ
 AltBrutus
 Guro36818633
+Guro36818633
 pzaia
 hung_hung9
 bernatalie
 joaomlribeiro
 Nancy59501057
 OswaldSobrino
-gregggonsalves
 ComputingWeasel
 ccallihoo
 LMT_Spoon
@@ -2422,7 +2422,7 @@ tangming2005
 TuXinming
 kdwup
 JonasWindhager
-mr_enoma
+davidenoma_
 synbiocs
 Peppe_T91
 AdamCribbs
