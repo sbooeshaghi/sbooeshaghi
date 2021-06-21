@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|shapira_yonatan|
-|gregggonsalves|Guro36818633|
-|mr_enoma|davidenoma_|
-Mon Jun 21 00:24:52 UTC 2021
+|Guro36818633|apir0n|
+Mon Jun 21 06:08:52 UTC 2021
