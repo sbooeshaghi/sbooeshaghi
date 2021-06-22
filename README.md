@@ -4,9 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|SilvaGJonathan|BScicomm|
-|eczenrs|Jondotsilva|
-|-|shapira_yonatan|
-|-|wariobrega|
-|-|alexmascension|
-Tue Jun 22 00:22:53 UTC 2021
+|shapira_yonatan|VancityAlmas|
+|wariobrega|dpolefrone|
+|alexmascension|hipsterelectron|
+|-|stefanospinel15|
+Tue Jun 22 06:09:00 UTC 2021
