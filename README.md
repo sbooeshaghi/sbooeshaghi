@@ -4,6 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|apir0n|-|
-|illWill477|-|
-Mon Jun 21 18:07:58 UTC 2021
+|SilvaGJonathan|BScicomm|
+|eczenrs|Jondotsilva|
+|-|shapira_yonatan|
+|-|wariobrega|
+|-|alexmascension|
+Tue Jun 22 00:22:53 UTC 2021

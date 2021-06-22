@@ -1,3 +1,4 @@
+BScicomm
 EclecticRecruit
 Pankaj_27March
 streetball16
@@ -261,7 +262,7 @@ AnkitSmall
 DelaramPB
 TaShelby
 SinaMoDiZa
-SilvaGJonathan
+Jondotsilva
 azifac
 SayandeepaR
 Feriosa3
@@ -788,6 +789,7 @@ ElowitzLab
 YUHANHAO2
 achaud20
 nima_genome
+shapira_yonatan
 annie__erickson
 j3nnysheng
 CuriousMaia
@@ -889,7 +891,6 @@ Francespace96
 Elvispr98745962
 BlasiCerdaBrnt
 pamtrading
-eczenrs
 Negarrak
 ranjithyu
 dipespandey08
@@ -2597,6 +2598,7 @@ alerasool
 djamel_nehar
 YadegariLab
 wariobrega
+wariobrega
 padza21
 WNanoscience
 SeanlNguyen
@@ -2795,6 +2797,7 @@ lanitorresmapa
 sefsinsen
 hoffman_steven
 martinjzhang
+alexmascension
 alexmascension
 jambocurious
 AMA2020
