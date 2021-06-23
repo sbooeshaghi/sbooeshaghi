@@ -4,7 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Sumaira_Zaman_|wpdrx|
-|-|weinberz|
-|-|stefanospinel15|
-Wed Jun 23 06:08:22 UTC 2021
+|wpdrx|-|
+|weinberz|-|
+|shapira_yonatan|-|
+Wed Jun 23 12:08:43 UTC 2021
