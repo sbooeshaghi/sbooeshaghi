@@ -4,9 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|matias_kaplan|himamu0926|
-|-|tayabsoomro|
-|-|shapira_yonatan|
-|-|eczenrs|
-|-|Sumaira_Zaman_|
-Wed Jun 23 00:23:20 UTC 2021
+|Sumaira_Zaman_|wpdrx|
+|-|weinberz|
+|-|stefanospinel15|
+Wed Jun 23 06:08:22 UTC 2021
