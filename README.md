@@ -4,5 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|GeneOnlineNews|esfand15|
-Tue Jun 22 18:07:27 UTC 2021
+|matias_kaplan|himamu0926|
+|-|tayabsoomro|
+|-|shapira_yonatan|
+|-|eczenrs|
+|-|Sumaira_Zaman_|
+Wed Jun 23 00:23:20 UTC 2021
