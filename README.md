@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|wpdrx|-|
-|weinberz|-|
-|shapira_yonatan|-|
-Wed Jun 23 12:08:43 UTC 2021
+|jim_elevator|shapira_yonatan|
+|GetaRheum|-|
+Wed Jun 23 18:07:48 UTC 2021

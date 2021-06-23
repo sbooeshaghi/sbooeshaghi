@@ -10,7 +10,6 @@ streetball16
 Dr_LeoYu
 grokkedIt
 twittcoms
-jim_elevator
 skimomiks
 The_InnovationJ
 DocSashas
@@ -292,7 +291,6 @@ KarelBrinda
 ValentinaMurtaj
 oozeofwisdom
 pedromquiros
-GetaRheum
 SarojChakrabo19
 panconchoclo
 abhigyanray
@@ -795,6 +793,7 @@ ElowitzLab
 YUHANHAO2
 achaud20
 nima_genome
+shapira_yonatan
 annie__erickson
 j3nnysheng
 CuriousMaia
