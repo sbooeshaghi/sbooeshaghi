@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|shyaman_madhawa|
-|-|iandriver9|
-|-|shapira_yonatan|
-Thu Jun 24 06:09:12 UTC 2021
+|shapira_yonatan|Anzala_09|
+|al_mullakam|-|
+Thu Jun 24 12:11:15 UTC 2021
