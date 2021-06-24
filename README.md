@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|jim_elevator|shapira_yonatan|
-|GetaRheum|-|
-Wed Jun 23 18:07:48 UTC 2021
+|stefanospinel15|ishxchakraborty|
+|shapira_yonatan|druvus|
+|-|illWill477|
+Thu Jun 24 00:18:06 UTC 2021
