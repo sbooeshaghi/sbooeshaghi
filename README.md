@@ -4,7 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|ishxchakraborty|
-|shapira_yonatan|druvus|
-|-|illWill477|
-Thu Jun 24 00:18:06 UTC 2021
+|-|shyaman_madhawa|
+|-|iandriver9|
+|-|shapira_yonatan|
+Thu Jun 24 06:09:12 UTC 2021
