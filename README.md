@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|Dave_E_Carlson|
-|-|ProfSmyth|
-Fri Jun 25 06:09:12 UTC 2021
+|-|anhtpham3|
+Fri Jun 25 12:10:32 UTC 2021
