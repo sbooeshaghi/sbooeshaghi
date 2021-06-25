@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|NJohnJoseph|shapira_yonatan|
-|-|nattydaddy98|
-Thu Jun 24 18:09:03 UTC 2021
+|-|_prashantbhat|
+|-|stefanospinel15|
+Fri Jun 25 00:26:12 UTC 2021
