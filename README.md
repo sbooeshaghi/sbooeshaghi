@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|DavidXIANG2|DavidXIANG2021|
-|-|matias_kaplan|
-Sat Jun 26 06:08:49 UTC 2021
+|potkazar|stefanospinel15|
+|dyl4nm4rsh4ll|-|
+Sat Jun 26 12:10:04 UTC 2021
