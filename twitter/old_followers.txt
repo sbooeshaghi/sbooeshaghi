@@ -110,7 +110,6 @@ lal_avantika
 Ali_sattariii
 Lukais_Iohan
 baizalla
-SoleimaniShirin
 MedinaReinhold
 EstefVazque
 Cole_Keenum
@@ -614,7 +613,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
