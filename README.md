@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|tranmartink|
-|Fer_Mora01|lfer_morales|
-Mon Jun 28 06:09:20 UTC 2021
+|bioinformer|QureshiAhtiram|
+|-|apir0n|
+Mon Jun 28 12:11:12 UTC 2021
