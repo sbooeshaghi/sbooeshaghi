@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|gE3WZ31WYVdLmxV|-|
-|sebbas_gomez|-|
-Mon Jun 28 00:26:46 UTC 2021
+|stefanospinel15|tranmartink|
+|Fer_Mora01|lfer_morales|
+Mon Jun 28 06:09:20 UTC 2021
