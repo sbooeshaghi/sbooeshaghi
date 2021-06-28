@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|lIllIIlIIllIlI|gE3WZ31WYVdLmxV|
-|-|sebbas_gomez|
-Sun Jun 27 18:08:04 UTC 2021
+|gE3WZ31WYVdLmxV|-|
+|sebbas_gomez|-|
+Mon Jun 28 00:26:46 UTC 2021
