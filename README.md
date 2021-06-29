@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|itsbusedgn|itsme_buse|
-|Peroxide10|_iMuhZ|
-|Muhannad_kha|dyl4nm4rsh4ll|
-Tue Jun 29 12:11:05 UTC 2021
+|dyl4nm4rsh4ll|stefanospinel15|
+Tue Jun 29 18:08:32 UTC 2021
