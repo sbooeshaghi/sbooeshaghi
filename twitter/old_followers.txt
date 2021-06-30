@@ -616,7 +616,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2073,7 +2072,7 @@ gokcen
 austincoffman
 SaberHQ
 alissacg
-dario_palmOSU
+dario_palm_PhD
 DelaneyKSull
 adamastokes
 DHelekal
