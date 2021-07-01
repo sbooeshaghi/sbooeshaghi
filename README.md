@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Chrismholt|-|
-Thu Jul  1 12:11:39 UTC 2021
+|-|slmnmls|
+Thu Jul  1 18:09:03 UTC 2021
