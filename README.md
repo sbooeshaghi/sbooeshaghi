@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|dario_palm_PhD|
-|dario_palmOSU|-|
-Wed Jun 30 18:08:48 UTC 2021
+|TitoJoeThomas|-|
+Thu Jul  1 00:26:18 UTC 2021
