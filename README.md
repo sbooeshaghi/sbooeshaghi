@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|ellenagnesa|argalivan|
-|-|metagenomez|
-Fri Jul  2 12:11:08 UTC 2021
+|argalivan|-|
+|metagenomez|-|
+Fri Jul  2 18:07:53 UTC 2021
