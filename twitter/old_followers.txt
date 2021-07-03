@@ -1,3 +1,4 @@
+AppleMath2
 slmnmls
 AlecsandraSarz7
 QureshiAhtiram
@@ -615,7 +616,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
