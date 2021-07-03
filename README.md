@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|argalivan|-|
-|metagenomez|-|
-Fri Jul  2 18:07:53 UTC 2021
+|jiejia7|stefanospinel15|
+Sat Jul  3 00:23:06 UTC 2021
