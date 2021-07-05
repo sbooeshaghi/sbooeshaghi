@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|anhtpham3|MollaeiSina|
-|-|TitoJoeThomas|
-Mon Jul  5 06:09:07 UTC 2021
+Mon Jul  5 12:11:11 UTC 2021
