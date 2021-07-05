@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|lucapinello|
-|GD22377992|-|
-Mon Jul  5 00:22:15 UTC 2021
+|anhtpham3|MollaeiSina|
+|-|TitoJoeThomas|
+Mon Jul  5 06:09:07 UTC 2021
