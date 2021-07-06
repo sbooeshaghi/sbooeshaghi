@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|GaveEmmanuelle|KaizerSozey|
-|-|shawnkthomas|
-|-|EdKantz|
-Tue Jul  6 00:25:00 UTC 2021
+|stefanospinel15|avnish_ks|
+Tue Jul  6 06:09:18 UTC 2021
