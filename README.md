@@ -4,8 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|sanatmishra7|
-|-|DeepHealthBio|
-|-|bitfrosting|
-|-|stefanospinel15|
-Mon Jul  5 18:08:29 UTC 2021
+|GaveEmmanuelle|KaizerSozey|
+|-|shawnkthomas|
+|-|EdKantz|
+Tue Jul  6 00:25:00 UTC 2021
