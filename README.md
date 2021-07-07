@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|IngileifBryndis|-|
-Tue Jul  6 18:08:29 UTC 2021
+|-|IngileifBryndis|
+Wed Jul  7 00:24:48 UTC 2021
