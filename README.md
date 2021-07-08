@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|TechnologyGuy|
-|Krischism966969|eczenrs|
-|shehacksthesoul|-|
-Thu Jul  8 12:11:14 UTC 2021
+|frontzekkarl|stefanospinel15|
+|darkcloud_01|-|
+Thu Jul  8 18:08:34 UTC 2021
