@@ -4,4 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Fri Jul  9 06:08:57 UTC 2021
+|kevinwuhoo|-|
+Fri Jul  9 12:10:42 UTC 2021
