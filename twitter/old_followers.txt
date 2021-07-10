@@ -1,3 +1,4 @@
+Droplet_guy
 2primeOH
 TechnologyGuy
 holmrenser
@@ -626,7 +627,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1626,7 +1626,6 @@ NasaraWaniko
 carmelo_haddad
 Ali110Afshar
 bunueldante
-guy_heard
 brownriicesyrup
 Abdulmalik0x
 yung_cham0
