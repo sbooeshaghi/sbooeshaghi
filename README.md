@@ -4,5 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|_kiitani|
-Thu Jul 15 00:22:49 UTC 2021
+|stefanospinel15|DJProc|
+|-|vishoza|
+|-|ghafari_meran|
+|-|DA62879654|
+Thu Jul 15 06:09:04 UTC 2021
