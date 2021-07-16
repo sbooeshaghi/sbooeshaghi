@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|khan__chacha|shahbazkhan185|
-Fri Jul 16 06:09:09 UTC 2021
+Fri Jul 16 12:11:14 UTC 2021
