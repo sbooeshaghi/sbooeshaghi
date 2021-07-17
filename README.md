@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|apir0n|
-Sat Jul 17 06:08:43 UTC 2021
+|shapira_yonatan|-|
+|ifollowcutepp|-|
+|apir0n|-|
+Sat Jul 17 12:10:40 UTC 2021
