@@ -207,7 +207,6 @@ thomas_sandmann
 chenkenbio
 lubianat
 jayanth1983
-rfr1978
 levin_bertrandt
 MustaphaSibai
 freed_nikki
@@ -258,7 +257,7 @@ WenzelLab
 NaragonTom
 FelixGoldberg1
 f_safaei
-nasisiniz
+edaznee
 Hannah_SuperRes
 Bhavya39131843
 _mariod
@@ -820,6 +819,7 @@ ElowitzLab
 YUHANHAO2
 achaud20
 nima_genome
+shapira_yonatan
 annie__erickson
 j3nnysheng
 CuriousMaia
@@ -2367,7 +2367,7 @@ qichen_yuan
 collinsosbon
 MarvinNayan
 eli_mereu
-shahbazkhan185
+khan__chacha
 zolotarg
 dattam
 dylanrausch
