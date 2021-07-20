@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|Commander_Soap|
-|-|stefanospinel15|
-|-|shapira_yonatan|
-Mon Jul 19 18:09:08 UTC 2021
+|leilabguzman|leilaguzman95|
+|eczenrs|-|
+Tue Jul 20 00:24:32 UTC 2021
