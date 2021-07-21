@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|ArijonaMarshal|
-Wed Jul 21 12:10:56 UTC 2021
+Wed Jul 21 18:08:42 UTC 2021
