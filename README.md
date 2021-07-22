@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Wed Jul 21 18:08:42 UTC 2021
+|-|shapira_yonatan|
+|-|dyl4nm4rsh4ll|
+Thu Jul 22 00:24:52 UTC 2021
