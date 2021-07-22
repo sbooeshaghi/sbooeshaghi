@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|magneshit|-|
-|dyl4nm4rsh4ll|-|
-Thu Jul 22 06:09:20 UTC 2021
+|stefanospinel15|-|
+|b_harris_12|-|
+Thu Jul 22 12:11:02 UTC 2021
