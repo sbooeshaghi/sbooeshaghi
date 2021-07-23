@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AliKishk_|-|
-Fri Jul 23 00:25:30 UTC 2021
+|stefanospinel15|-|
+Fri Jul 23 06:09:20 UTC 2021
