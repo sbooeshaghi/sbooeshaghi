@@ -4,4 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sat Jul 24 12:10:43 UTC 2021
+|roshan_m_rao|Yad_Saurabh|
+|-|proteinrosh|
+|-|stefanospinel15|
+Sat Jul 24 18:08:30 UTC 2021
