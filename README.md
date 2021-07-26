@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|khomgm|
-|-|ramundo_silvia|
-Mon Jul 26 12:10:59 UTC 2021
+Mon Jul 26 18:08:48 UTC 2021
