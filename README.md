@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|shapira_yonatan|gavin93065157|
-Wed Jul 28 12:11:20 UTC 2021
+|-|AliKishk_|
+|-|dyl4nm4rsh4ll|
+Wed Jul 28 18:08:53 UTC 2021
