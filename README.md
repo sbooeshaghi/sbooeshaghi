@@ -4,8 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|JubaZiani|
-|-|gmsRoss|
-|-|stefanospinel15|
-|-|melancronico|
-Thu Jul 29 00:23:34 UTC 2021
+|stefanospinel15|-|
+|Ekleel92|-|
+|Rahulsargar1|-|
+|melancronico|-|
+Thu Jul 29 06:09:19 UTC 2021
