@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|gavin93065157|gavin_jingyu|
-|VY_stem|-|
-Thu Jul 29 12:11:29 UTC 2021
+|TracyRy18955342|stefanospinel15|
+|dyl4nm4rsh4ll|Ekleel92|
+Thu Jul 29 18:08:36 UTC 2021
