@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Manojkrgupta2|-|
-Sun Aug  1 12:10:35 UTC 2021
+Sun Aug  1 18:08:12 UTC 2021
