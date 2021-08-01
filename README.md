@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|justZeri|-|
-|KKajderowicz|-|
-|ellenagnesa|-|
-Sun Aug  1 06:08:58 UTC 2021
+|Manojkrgupta2|-|
+Sun Aug  1 12:10:35 UTC 2021
