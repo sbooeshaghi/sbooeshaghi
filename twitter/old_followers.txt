@@ -823,7 +823,6 @@ RapidTests
 jordan_mcrae_
 ElowitzLab
 YUHANHAO2
-achaud20
 nima_genome
 shapira_yonatan
 annie__erickson
@@ -1074,6 +1073,7 @@ Paulmakhoul
 Davidoffd
 tshrocks
 nishrreddy
+Manojkrgupta2
 mudi4real
 kencf0618
 willjsteele
