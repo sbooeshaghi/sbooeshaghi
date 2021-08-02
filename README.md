@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AliKishk_|-|
-Mon Aug  2 12:11:58 UTC 2021
+Mon Aug  2 18:08:30 UTC 2021
