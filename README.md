@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|GeneEditingDan|
-|DNiceToMe|-|
-Tue Aug  3 12:11:36 UTC 2021
+|TracyRy18955342|TracyRyan01|
+|Asem_A_A|-|
+Tue Aug  3 18:08:42 UTC 2021
