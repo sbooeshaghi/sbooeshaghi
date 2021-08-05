@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Wed Aug  4 18:08:55 UTC 2021
+|maya_ayoubi|mkdir_maya|
+|RamosHumberto93|-|
+Thu Aug  5 00:26:40 UTC 2021
