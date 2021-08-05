@@ -1,7 +1,6 @@
 PriyankaBioinfo
 JubaZiani
 gmsRoss
-gavin_jingyu
 anindadutta86
 khomgm
 ramundo_silvia
@@ -638,6 +637,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -823,6 +823,7 @@ jordan_mcrae_
 ElowitzLab
 YUHANHAO2
 nima_genome
+shapira_yonatan
 annie__erickson
 j3nnysheng
 CuriousMaia
