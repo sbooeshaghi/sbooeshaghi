@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|LindsayJS|
-Sat Aug  7 00:23:30 UTC 2021
+|-|karetss|
+|-|vikaspeddu|
+Sat Aug  7 06:08:59 UTC 2021
