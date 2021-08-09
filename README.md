@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|FAISALYMBS|AZIZMBSKSA|
-Sun Aug  8 18:08:12 UTC 2021
+|stefanospinel15|plozploz|
+Mon Aug  9 00:26:40 UTC 2021
