@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|yuukihosok|
-|-|eczenrs|
-Tue Aug 10 06:09:20 UTC 2021
+|-|jpdaanoy|
+|-|stefanospinel15|
+Tue Aug 10 12:11:33 UTC 2021
