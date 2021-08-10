@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|stefanospinel15|
-Mon Aug  9 18:07:54 UTC 2021
+|stefanospinel15|dipespandey08|
+|eczenrs|-|
+Tue Aug 10 00:26:30 UTC 2021
