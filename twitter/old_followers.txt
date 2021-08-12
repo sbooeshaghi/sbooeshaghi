@@ -1,4 +1,3 @@
-djhafdef
 scRNAtools
 yuukihosok
 neur_oom
@@ -646,7 +645,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1998,7 +1996,6 @@ soyunamarmota11
 bhrenton
 WAM_iam
 faythtan
-faythtan
 tbrittoborges
 KristinBriney
 TerryAdirimMD
@@ -2197,7 +2194,6 @@ johan__gson
 ThisIsSaraJager
 AmirRattner
 ur_friend_papu
-asdfasdfghd
 asdfasdfghd
 Artem_Kosmin
 rpucheq
@@ -2877,7 +2873,7 @@ jballaji
 sudotong
 bioTianqiZhang
 Uzoayo
-UdotongE
+EmanFT_
 DavisCompGen
 snickanelin
 sarthak_s
