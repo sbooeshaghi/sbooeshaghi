@@ -4,9 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|djhafdef|EmanFT_|
-|stefanospinel15|-|
-|faythtan|-|
-|asdfasdfghd|-|
-|UdotongE|-|
-Thu Aug 12 06:09:29 UTC 2021
+|-|stefanospinel15|
+Thu Aug 12 12:11:41 UTC 2021
