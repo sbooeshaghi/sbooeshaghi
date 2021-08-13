@@ -2,7 +2,6 @@ scRNAtools
 yuukihosok
 neur_oom
 plozploz
-karetss
 vikaspeddu
 LindsayJS
 oli_wilkins
@@ -645,7 +644,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -799,6 +797,7 @@ brodie_brodes
 PHDMonstR
 galicae
 chofski
+BiomageLtd
 BiomageLtd
 PanizCharkhchi
 InnesBrendanT

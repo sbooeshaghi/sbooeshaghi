@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Thu Aug 12 18:09:01 UTC 2021
+|karetss|BiomageLtd|
+|stefanospinel15|-|
+Fri Aug 13 00:25:43 UTC 2021
