@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|BiomageLtd|FirstRegime|
-Fri Aug 13 06:09:30 UTC 2021
+|AlbC4lo|AlbAnsermoz|
+Fri Aug 13 12:11:10 UTC 2021
