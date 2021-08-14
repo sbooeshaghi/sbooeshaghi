@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Olagunjurahman|-|
-Sat Aug 14 06:09:00 UTC 2021
+|TRJ_KH|billyhwangNJ|
+Sat Aug 14 12:10:45 UTC 2021
