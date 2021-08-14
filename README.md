@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AlbAnsermoz|stefanospinel15|
-|-|AlbaThunberg|
-Fri Aug 13 18:08:43 UTC 2021
+|mxbernhard|-|
+|stefanospinel15|-|
+Sat Aug 14 00:23:43 UTC 2021
