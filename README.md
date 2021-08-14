@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|mxbernhard|-|
-|stefanospinel15|-|
-Sat Aug 14 00:23:43 UTC 2021
+|Olagunjurahman|-|
+Sat Aug 14 06:09:00 UTC 2021
