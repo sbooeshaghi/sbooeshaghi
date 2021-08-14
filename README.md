@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|TRJ_KH|billyhwangNJ|
-Sat Aug 14 12:10:45 UTC 2021
+|Asem_A_A|no_markno|
+|-|mxbernhard|
+|-|asem_alaa_|
+Sat Aug 14 18:08:19 UTC 2021
