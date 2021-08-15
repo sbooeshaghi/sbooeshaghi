@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sun Aug 15 00:25:40 UTC 2021
+|-|galicae|
+|-|Olagunjurahman|
+Sun Aug 15 06:09:11 UTC 2021
