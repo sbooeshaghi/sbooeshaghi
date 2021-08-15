@@ -4,7 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Asem_A_A|no_markno|
-|-|mxbernhard|
-|-|asem_alaa_|
-Sat Aug 14 18:08:19 UTC 2021
+Sun Aug 15 00:25:40 UTC 2021
