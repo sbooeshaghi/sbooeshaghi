@@ -659,7 +659,6 @@ kkovary
 EdythParker
 rodrigobarnes
 jbreboix
-scientist_soham
 Fatem3hSa
 abhilash_111
 feyzarguc
