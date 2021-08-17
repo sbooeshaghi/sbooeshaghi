@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|-|
-Tue Aug 17 00:25:36 UTC 2021
+|zTiredScientist|subash_ghimire1|
+|-|Zeniticist|
+Tue Aug 17 06:09:18 UTC 2021
