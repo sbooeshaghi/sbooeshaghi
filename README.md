@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|SkankworksAgile|stefanospinel15|
-|kprabhakar27|Walid_mt1|
-Thu Aug 19 12:11:57 UTC 2021
+|stefanospinel15|-|
+Thu Aug 19 18:08:54 UTC 2021
