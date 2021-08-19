@@ -545,7 +545,6 @@ JimKaminski
 AnalyticalBioS1
 BrowserOmni
 rabarretom
-DonnellyDNA
 VincenzoCitr0
 NickyNeuro
 achacond
@@ -1963,7 +1962,6 @@ Jerrychanx
 ascancan_rj
 beaksclaire
 crackback2022
-Walid_mt1
 yurisasson
 DRaddy7
 GaveEmmanuelle

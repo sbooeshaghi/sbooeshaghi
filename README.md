@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Wed Aug 18 18:08:51 UTC 2021
+|DonnellyDNA|-|
+|Walid_mt1|-|
+Thu Aug 19 00:21:59 UTC 2021
