@@ -4,7 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Fabbyboe|ashkanliberty|
-|hrsagaraw|-|
-|__ashkan_|-|
-Tue Aug 24 06:09:16 UTC 2021
+Tue Aug 24 12:11:45 UTC 2021
