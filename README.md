@@ -4,7 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|shapira_yonatan|EthanAhler|
-|-|Cece16444641|
-|-|Fabbyboe|
-Wed Aug 25 12:11:44 UTC 2021
+Wed Aug 25 18:08:38 UTC 2021
