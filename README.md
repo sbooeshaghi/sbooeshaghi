@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|-|
-Sun Aug 29 12:10:57 UTC 2021
+|-|AdamSorbie|
+|-|caltechalumni|
+Sun Aug 29 18:08:25 UTC 2021
