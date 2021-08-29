@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|kabbe_m|stefanospinel15|
-|-|mukundkabbe|
-Sat Aug 28 18:08:17 UTC 2021
+|-|hrsagaraw|
+Sun Aug 29 00:26:52 UTC 2021
