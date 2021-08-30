@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AdamSorbie|ImaniFarnaz|
-|caltechalumni|stefanospinel15|
-|SalehFayezM|-|
-Mon Aug 30 00:26:30 UTC 2021
+|ricardo_fosado|-|
+|stefanospinel15|-|
+Mon Aug 30 06:09:23 UTC 2021
