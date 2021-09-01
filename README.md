@@ -4,7 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|TitoJoeThomas|stefanospinel15|
-|amegren|-|
-|closeapproximat|-|
-Wed Sep  1 12:11:36 UTC 2021
+|caterinacolon11|shapira_yonatan|
+|-|amegren|
+|-|caterina_1111|
+Wed Sep  1 18:09:02 UTC 2021
