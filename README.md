@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|adamlmaclean|stefanospinel15|
-|linzhang88|-|
-Fri Sep  3 12:11:58 UTC 2021
+|stefanospinel15|-|
+Fri Sep  3 18:08:48 UTC 2021
