@@ -4,9 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|cyph3r_asr|gioinformatics|
-|-|sxren|
-|-|pcnmartin|
-|-|mincle|
-|-|includesyou|
-Mon Sep  6 12:11:48 UTC 2021
+|-|neelroop|
+|-|adi2088|
+|-|stefanospinel15|
+Mon Sep  6 18:08:44 UTC 2021
