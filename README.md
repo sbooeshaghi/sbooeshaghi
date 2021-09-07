@@ -4,8 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|AyatMohammed15|
-|-|AnuragNagpal24|
-|-|AlbPascale|
-|-|juyoutai|
-Tue Sep  7 00:24:49 UTC 2021
+|closeapproximat|-|
+|juyoutai|-|
+Tue Sep  7 06:09:26 UTC 2021
