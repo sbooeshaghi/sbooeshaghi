@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|SlideGlideNRide|BrielinB|
-|jeanmarienakad|DarshakWrites|
-|-|Karen_StewKirk|
-Tue Sep  7 18:08:36 UTC 2021
+|-|stefanospinel15|
+Wed Sep  8 00:25:07 UTC 2021
