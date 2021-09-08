@@ -1615,7 +1615,6 @@ satyaborg
 Chrestomanci9
 vrtology
 bahudari
-fericaca
 kimbebop
 ShereenSuleiman
 joanneberghout
@@ -2900,7 +2899,6 @@ DavisCompGen
 snickanelin
 sarthak_s
 isaiahudotong
-Don_Etidio
 MiaDoesAstro
 AcademyHacklab
 Nilza_Marie
