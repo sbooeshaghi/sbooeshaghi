@@ -4,11 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|asdfasdfghd|202Gaara|
-|Comrade_KGBree|sTARAalicia|
-|cmcginnisUCSF|Melissa_Truong|
-|-|RobinCubed|
-|-|stefanospinel15|
-|-|_KGBree_|
-|-|cmcginnis92|
-Thu Sep  9 06:09:34 UTC 2021
+|-|0x174|
+Thu Sep  9 12:11:52 UTC 2021
