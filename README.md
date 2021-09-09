@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|fericaca|-|
-|Don_Etidio|-|
-Wed Sep  8 18:10:23 UTC 2021
+|stefanospinel15|-|
+Thu Sep  9 00:27:43 UTC 2021
