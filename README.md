@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|m_motavasseli|
-|MicaMuscat|Fernandez_NickR|
-|lmanent|-|
-Fri Sep 10 00:29:20 UTC 2021
+|-|epic_genetix|
+Fri Sep 10 06:09:30 UTC 2021
