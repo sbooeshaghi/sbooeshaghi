@@ -4,8 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|0x174|justmike50|
-|-|KunalKr13551771|
-|-|baffoloco|
-|-|JayMoore_res|
-Thu Sep  9 18:08:56 UTC 2021
+|stefanospinel15|m_motavasseli|
+|MicaMuscat|Fernandez_NickR|
+|lmanent|-|
+Fri Sep 10 00:29:20 UTC 2021
