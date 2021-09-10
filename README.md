@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|epic_genetix|
-Fri Sep 10 06:09:30 UTC 2021
+|epic_genetix|YizhouHu_Eugene|
+|-|whoozane|
+|-|manojsajeevnair|
+Fri Sep 10 12:11:49 UTC 2021
