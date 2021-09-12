@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|AshlynA34005974|
-|-|Runzish|
-Sun Sep 12 00:28:06 UTC 2021
+|-|amitmechaging|
+Sun Sep 12 06:08:56 UTC 2021
