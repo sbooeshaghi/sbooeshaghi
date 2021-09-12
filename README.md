@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|amitmechaging|
-Sun Sep 12 06:08:56 UTC 2021
+|-|MingboCheng|
+|-|stefanospinel15|
+Sun Sep 12 12:11:14 UTC 2021
