@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|ulisrael1|
-Tue Sep 14 00:27:46 UTC 2021
+|ulisrael1|Alice19409138|
+|-|sham_wowlock|
+Tue Sep 14 06:09:26 UTC 2021
