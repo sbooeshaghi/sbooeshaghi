@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|sham_wowlock|stefanospinel15|
-Tue Sep 14 12:12:00 UTC 2021
+Tue Sep 14 18:08:49 UTC 2021
