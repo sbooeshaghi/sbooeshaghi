@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|pradiptaray|
-Wed Sep 15 00:26:23 UTC 2021
+|dipespandey08|dyl4nm4rsh4ll|
+Wed Sep 15 06:09:26 UTC 2021
