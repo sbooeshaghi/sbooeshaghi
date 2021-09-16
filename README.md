@@ -4,5 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|sham_wowlock|
-Wed Sep 15 18:08:54 UTC 2021
+|AshlynA34005974|Ashlyn_Anderso|
+|MickeyC162|stefanospinel15|
+|sham_wowlock|AliKishk_|
+|-|Plasmacellguy|
+Thu Sep 16 00:28:00 UTC 2021
