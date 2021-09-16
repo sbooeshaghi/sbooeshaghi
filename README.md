@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|-|
-|AliKishk_|-|
-|Plasmacellguy|-|
-Thu Sep 16 06:09:28 UTC 2021
+|dyl4nm4rsh4ll|-|
+Thu Sep 16 12:11:57 UTC 2021
