@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|lmanent|
-|shapira_yonatan|-|
-Fri Sep 17 00:29:51 UTC 2021
+|-|stefanospinel15|
+Fri Sep 17 06:09:26 UTC 2021
