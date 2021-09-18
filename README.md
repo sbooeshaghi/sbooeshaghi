@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|kokyriakidis|stefanospinel15|
-|-|dipespandey08|
-Sat Sep 18 12:11:11 UTC 2021
+Sat Sep 18 18:08:25 UTC 2021
