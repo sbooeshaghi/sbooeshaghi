@@ -4,7 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|stefanospinel15|
-|-|zz_udf|
-|-|PrimaDintaRS|
-Fri Sep 17 18:08:44 UTC 2021
+|richarizardd95|richardjchen|
+|zz_udf|-|
+|PrimaDintaRS|-|
+Sat Sep 18 00:24:32 UTC 2021
