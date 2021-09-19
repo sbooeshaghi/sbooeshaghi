@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sun Sep 19 12:11:11 UTC 2021
+|DaoudiM74231023|DaoudiMed64|
+|shaudimh|-|
+Sun Sep 19 18:08:26 UTC 2021
