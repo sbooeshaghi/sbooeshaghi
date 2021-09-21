@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|-|mertkarakaya|
-Tue Sep 21 06:09:52 UTC 2021
+Tue Sep 21 12:12:02 UTC 2021
