@@ -4,8 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|hannahlucyx3|bjizabella|
-|mitchgoldhaber|researchcard|
-|-|breezybadgerr|
-|-|tweepy.TweepError=|
-Wed Sep 22 12:27:39 UTC 2021
+|Maziyar_Ke|mjbeyeler|
+|chad_zubka|leloykun|
+|PierreSchoolar|esagredo|
+Wed Sep 22 18:24:36 UTC 2021
