@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Strappazz0n|brlauuu|
-|chad_zubka|Maziyar_Ke|
-Thu Sep 23 12:28:36 UTC 2021
+|fouad_gt|stefanospinel15|
+|patrick_green|itsmetweeetin|
+Thu Sep 23 18:24:47 UTC 2021

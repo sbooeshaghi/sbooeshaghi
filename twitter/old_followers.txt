@@ -697,6 +697,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1218,7 +1219,7 @@ KDestagnol
 pushpendra_7
 Josephs67324214
 Ali__AkbAr
-fouad_gt
+itsmetweeetin
 FabresseG
 azziandr
 osied17
@@ -2997,5 +2998,4 @@ Matt_Goldman_
 sandraa_01
 leftyszn
 callikush
-patrick_green
 tweepy.TweepError=
