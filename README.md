@@ -4,10 +4,10 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|martala79|
-|fortuna_alexa|Hz_is_frequency|
-|Matt_Goldman_|dsfava|
-|sandraa_01|_anlihalil_|
-|leftyszn|AnnaYeaton|
-|callikush|samsinai|
-Fri Sep 24 00:43:02 UTC 2021
+|martala79|stefanospinel15|
+|Hz_is_frequency|fortuna_alexa|
+|dsfava|Matt_Goldman_|
+|_anlihalil_|sandraa_01|
+|AnnaYeaton|leftyszn|
+|samsinai|callikush|
+Fri Sep 24 06:25:20 UTC 2021
