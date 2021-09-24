@@ -198,6 +198,7 @@ GyPrak
 issisaby
 CarvalhoFilipeL
 martala79
+martala79
 MMAPULLA
 DwanPrice
 lal_avantika
@@ -396,6 +397,7 @@ SadeghiJavad1
 BHilbush
 alanmej55130600
 vic_rev
+Hz_is_frequency
 Hz_is_frequency
 PNgsabrina
 manikanda_raja
@@ -697,7 +699,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1196,6 +1197,7 @@ chrnmln
 avimehenwal
 obaid_alkatheri
 NomentumC
+dsfava
 dsfava
 njmacarthur
 tweetthatiagree
@@ -1796,6 +1798,7 @@ the_oaks_z
 GrantHamp
 limbekar_naina
 _anlihalil_
+_anlihalil_
 Cell2_Cell
 andreas_spang
 DustandShadow1
@@ -2195,6 +2198,7 @@ jithuanirudhan
 AlanBOCallaghan
 somescrawling
 AnnaYeaton
+AnnaYeaton
 ProfBootyPhD
 sreeramkannan
 ASATT19731902
@@ -2393,6 +2397,7 @@ RoxanaDaneshjou
 joanapetrescu
 sangsin_lee
 _benyang_
+samsinai
 samsinai
 BaBalogog
 KollmarMartin
@@ -2993,9 +2998,4 @@ jamiezeld
 shelby_babowicz
 J_Harm0n
 Bryutiful
-fortuna_alexa
-Matt_Goldman_
-sandraa_01
-leftyszn
-callikush
 tweepy.TweepError=
