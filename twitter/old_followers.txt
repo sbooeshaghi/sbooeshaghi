@@ -798,6 +798,7 @@ BeuschChristian
 GlennHowatt
 cliff_wvu
 chrltmrshl
+chrltmrshl
 andreweallen
 eliotsherman
 AustinMHartman
@@ -1597,6 +1598,7 @@ b_k_sukumar
 scottripley
 Pablo__Mejia
 mrtnhd
+mrtnhd
 melissaetehad
 SeanCottrell2
 nolbertovp
@@ -2195,6 +2197,7 @@ jithuanirudhan
 AlanBOCallaghan
 somescrawling
 AnnaYeaton
+ProfBootyPhD
 ProfBootyPhD
 sreeramkannan
 ASATT19731902
@@ -2995,7 +2998,4 @@ J_Harm0n
 Bryutiful
 fortuna_alexa
 Matt_Goldman_
-sandraa_01
-leftyszn
-callikush
 tweepy.TweepError=
