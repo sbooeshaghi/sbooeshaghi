@@ -598,7 +598,6 @@ JimKaminski
 AnalyticalBioS1
 BrowserOmni
 rabarretom
-rabarretom
 VincenzoCitr0
 achacond
 mkdir_maya
@@ -698,6 +697,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -997,7 +997,6 @@ carturonaldo
 aye_man97
 carowinslow
 terezaborges4
-noerdiani2017
 noerdiani2017
 GinalynParcio
 lfer_morales
@@ -1598,7 +1597,6 @@ b_k_sukumar
 scottripley
 Pablo__Mejia
 mrtnhd
-mrtnhd
 melissaetehad
 SeanCottrell2
 nolbertovp
@@ -1998,7 +1996,6 @@ Headline24Hindi
 avrahambinni
 kln23
 mehrshmali
-mehrshmali
 S7itch3m
 lisabjurwald
 relkmi
@@ -2155,6 +2152,7 @@ Leili_Rohani
 huubgelderblom
 ZaminIqbal
 HeerCollin
+dyl4nm4rsh4ll
 phdapps
 Bioin4magician
 polvere7
@@ -2998,4 +2996,6 @@ Bryutiful
 fortuna_alexa
 Matt_Goldman_
 sandraa_01
+leftyszn
+callikush
 tweepy.TweepError=

@@ -4,8 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|tweetthatiagree|rabarretom|
-|melissaetehad|noerdiani2017|
-|S7itch3m|mrtnhd|
-|dyl4nm4rsh4ll|mehrshmali|
-Sat Sep 25 06:24:50 UTC 2021
+|rabarretom|stefanospinel15|
+|noerdiani2017|dyl4nm4rsh4ll|
+|mrtnhd|leftyszn|
+|mehrshmali|callikush|
+Sat Sep 25 12:26:48 UTC 2021
