@@ -4,7 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|rabarretom|stefanospinel15|
-|savinay1986|heramb95|
-|Herambraj1|callikush|
-Sun Sep 26 06:24:40 UTC 2021
+|stefanospinel15|rabarretom|
+|sandraa_01|njmacarthur|
+|leftyszn|sreeramkannan|
+|callikush|slavemorality|
+Sun Sep 26 12:27:09 UTC 2021
