@@ -598,6 +598,7 @@ JimKaminski
 AnalyticalBioS1
 BrowserOmni
 rabarretom
+rabarretom
 VincenzoCitr0
 achacond
 mkdir_maya
@@ -697,7 +698,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -797,7 +797,6 @@ theosysbio
 BeuschChristian
 GlennHowatt
 cliff_wvu
-chrltmrshl
 chrltmrshl
 andreweallen
 eliotsherman
@@ -1399,6 +1398,7 @@ RLIBERTE
 _yianni_
 msaud96
 savinay1986
+savinay1986
 _madeleinejane
 dtabb73
 YUYUCHENG1
@@ -1597,7 +1597,6 @@ palabrista
 b_k_sukumar
 scottripley
 Pablo__Mejia
-mrtnhd
 mrtnhd
 melissaetehad
 SeanCottrell2
@@ -2197,7 +2196,6 @@ jithuanirudhan
 AlanBOCallaghan
 somescrawling
 AnnaYeaton
-ProfBootyPhD
 ProfBootyPhD
 sreeramkannan
 ASATT19731902
@@ -2998,4 +2996,6 @@ J_Harm0n
 Bryutiful
 fortuna_alexa
 Matt_Goldman_
+sandraa_01
+leftyszn
 tweepy.TweepError=
