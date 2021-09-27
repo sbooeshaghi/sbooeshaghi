@@ -50,7 +50,6 @@ fawwazanvilen
 StattGamer
 EthanAhler
 Cece16444641
-moorejh
 StoneEL2
 guo_jack
 subash_ghimire1
@@ -197,7 +196,6 @@ WPX47811134
 GyPrak
 issisaby
 CarvalhoFilipeL
-martala79
 martala79
 MMAPULLA
 DwanPrice
@@ -696,6 +694,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -998,7 +997,6 @@ terezaborges4
 noerdiani2017
 GinalynParcio
 lfer_morales
-lfer_morales
 swarnaq
 yamatogokorous
 Alfajdjar
@@ -1197,7 +1195,6 @@ obaid_alkatheri
 NomentumC
 dsfava
 njmacarthur
-tweetthatiagree
 tweetthatiagree
 ali_nehme00
 0X9A41C1
@@ -1597,7 +1594,6 @@ b_k_sukumar
 scottripley
 Pablo__Mejia
 mrtnhd
-melissaetehad
 melissaetehad
 SeanCottrell2
 nolbertovp
@@ -2398,7 +2394,6 @@ samsinai
 BaBalogog
 KollmarMartin
 fsharifi4
-fsharifi4
 intspg
 DarioRShaw
 BailWeatherbee
@@ -2798,7 +2793,6 @@ zbohannan
 TrichomeDoctor
 isidrolauscher
 genomequant
-genomequant
 TruwL
 KlausMetzelerMD
 yhhshby
@@ -2998,4 +2992,10 @@ J_Harm0n
 Bryutiful
 fortuna_alexa
 Matt_Goldman_
+sandraa_01
+leftyszn
+callikush
+patrick_green
+Strappazz0n
+chad_zubka
 tweepy.TweepError=

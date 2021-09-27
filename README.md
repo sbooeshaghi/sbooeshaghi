@@ -4,9 +4,11 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|baizalla|martala79|
-|VincenzoCitr0|lfer_morales|
-|savinay1986|melissaetehad|
-|sandraa_01|fsharifi4|
-|leftyszn|genomequant|
-Mon Sep 27 12:28:10 UTC 2021
+|moorejh|stefanospinel15|
+|martala79|sandraa_01|
+|lfer_morales|leftyszn|
+|tweetthatiagree|callikush|
+|melissaetehad|patrick_green|
+|fsharifi4|Strappazz0n|
+|genomequant|chad_zubka|
+Mon Sep 27 18:24:50 UTC 2021
