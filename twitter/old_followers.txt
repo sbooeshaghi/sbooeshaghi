@@ -318,7 +318,6 @@ Aurore__Gay
 maunishbarvalia
 mervekahraman71
 LasradoNinaad
-jpdaanoy
 luisachocarro
 cnoutsos
 AnointedGb
@@ -599,6 +598,7 @@ AnalyticalBioS1
 BrowserOmni
 rabarretom
 VincenzoCitr0
+VincenzoCitr0
 achacond
 mkdir_maya
 KellanMoorse
@@ -697,7 +697,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1199,6 +1198,7 @@ NomentumC
 dsfava
 njmacarthur
 tweetthatiagree
+tweetthatiagree
 ali_nehme00
 0X9A41C1
 AlbaThunberg
@@ -1397,6 +1397,7 @@ Im_LoneRanger
 RLIBERTE
 _yianni_
 msaud96
+savinay1986
 savinay1986
 _madeleinejane
 dtabb73
@@ -2997,5 +2998,4 @@ fortuna_alexa
 Matt_Goldman_
 sandraa_01
 leftyszn
-callikush
 tweepy.TweepError=
