@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|PierreSchoolar|dnrawl|
-Tue Sep 28 12:27:58 UTC 2021
+Tue Sep 28 18:24:39 UTC 2021
