@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|ACastellanosS98|alejandrocs_98|
-|stefanospinel15|PierreSchoolar|
-|its_me_agnish|hannahlucyx3|
-Tue Sep 28 00:43:20 UTC 2021
+|hannahlucyx3|stefanospinel15|
+Tue Sep 28 06:25:19 UTC 2021
