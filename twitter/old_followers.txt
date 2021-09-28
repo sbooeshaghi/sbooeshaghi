@@ -1,3 +1,4 @@
+dnrawl
 brlauuu
 mjbeyeler
 leloykun
@@ -2997,5 +2998,4 @@ callikush
 patrick_green
 Strappazz0n
 chad_zubka
-PierreSchoolar
 tweepy.TweepError=
