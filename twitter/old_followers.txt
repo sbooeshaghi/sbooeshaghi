@@ -295,7 +295,7 @@ KateCooperOMA
 MariaTerradas
 soul_stormer_
 wpdrx
-ACastellanosS98
+alejandrocs_98
 ravi_gadwal
 flowerempressa
 _lecote_
@@ -694,7 +694,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1987,7 +1986,6 @@ amurphy00
 abhi_ratnakumar
 alexmacherman
 aanandahluwalia
-its_me_agnish
 Ramit83368706
 Headline24Hindi
 avrahambinni
@@ -2998,4 +2996,6 @@ callikush
 patrick_green
 Strappazz0n
 chad_zubka
+PierreSchoolar
+hannahlucyx3
 tweepy.TweepError=

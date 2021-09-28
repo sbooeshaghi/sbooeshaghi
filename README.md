@@ -4,11 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|moorejh|stefanospinel15|
-|martala79|sandraa_01|
-|lfer_morales|leftyszn|
-|tweetthatiagree|callikush|
-|melissaetehad|patrick_green|
-|fsharifi4|Strappazz0n|
-|genomequant|chad_zubka|
-Mon Sep 27 18:24:50 UTC 2021
+|ACastellanosS98|alejandrocs_98|
+|stefanospinel15|PierreSchoolar|
+|its_me_agnish|hannahlucyx3|
+Tue Sep 28 00:43:20 UTC 2021
