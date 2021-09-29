@@ -695,7 +695,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -804,7 +803,6 @@ Paw_Weronika_
 hitamgelashitam
 df_foxco
 AliKishk_
-nbelhusseini
 alectricity
 alexeome
 roby_bhatt
@@ -1988,6 +1986,7 @@ amurphy00
 abhi_ratnakumar
 alexmacherman
 aanandahluwalia
+its_me_agnish
 Ramit83368706
 Headline24Hindi
 avrahambinni
@@ -2998,4 +2997,5 @@ callikush
 patrick_green
 Strappazz0n
 chad_zubka
+PierreSchoolar
 tweepy.TweepError=
