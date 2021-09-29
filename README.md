@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|its_me_agnish|
-|nbelhusseini|PierreSchoolar|
-Wed Sep 29 00:42:19 UTC 2021
+|chad_zubka|hackingdata|
+|PierreSchoolar|VincenzoCitr0|
+Wed Sep 29 06:25:22 UTC 2021
