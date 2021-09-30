@@ -357,6 +357,7 @@ CellJeffe
 test7hahahaha
 thisischristina
 MostafaTorbati
+AnkitSmall
 DelaramPB
 TaShelby
 SinaMoDiZa
@@ -2997,5 +2998,4 @@ callikush
 patrick_green
 Strappazz0n
 chad_zubka
-PierreSchoolar
 tweepy.TweepError=
