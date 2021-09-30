@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|JS1351|
-|chad_zubka|SonicBubbleBoom|
-Thu Sep 30 06:25:19 UTC 2021
+|JS1351|chad_zubka|
+|SonicBubbleBoom|PierreSchoolar|
+Thu Sep 30 12:28:30 UTC 2021
