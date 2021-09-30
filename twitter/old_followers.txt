@@ -695,7 +695,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1799,6 +1798,7 @@ DustandShadow1
 v_rajasingham
 Links123407
 JS1351
+JS1351
 RogerMelin2
 jifsmom
 JohnSeektruth
@@ -1997,6 +1997,7 @@ S7itch3m
 lisabjurwald
 relkmi
 casparianstrip
+SonicBubbleBoom
 SonicBubbleBoom
 mathelehrerhere
 libermir
@@ -2997,5 +2998,4 @@ leftyszn
 callikush
 patrick_green
 Strappazz0n
-chad_zubka
 tweepy.TweepError=
