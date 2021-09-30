@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|JS1351|chad_zubka|
-|SonicBubbleBoom|PierreSchoolar|
-Thu Sep 30 12:28:30 UTC 2021
+|LaylaBe4|hannahlucyx3|
+Thu Sep 30 18:24:42 UTC 2021
