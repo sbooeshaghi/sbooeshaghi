@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|LaylaBe4|hannahlucyx3|
-Thu Sep 30 18:24:42 UTC 2021
+|azadehassanpoor|stefanospinel15|
+|PierreSchoolar|azadehsp88|
+|hannahlucyx3|LaylaBe4|
+Fri Oct  1 00:46:30 UTC 2021

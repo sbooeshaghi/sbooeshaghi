@@ -695,6 +695,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -914,7 +915,7 @@ MingLU16
 Sanjay_C_Nagi
 fisherastro
 vfmcneill
-azadehassanpoor
+azadehsp88
 SGA831
 LindorffLarsen
 TonysPants
@@ -1769,6 +1770,7 @@ Elkhatibmmm66
 owdahAlshamrani
 Carrowandtrojan
 sanch_law
+LaylaBe4
 sgord512
 salehhelas86
 lethal_drizzle
@@ -2996,6 +2998,4 @@ callikush
 patrick_green
 Strappazz0n
 chad_zubka
-PierreSchoolar
-hannahlucyx3
 tweepy.TweepError=
