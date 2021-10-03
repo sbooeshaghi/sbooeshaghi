@@ -1,3 +1,4 @@
+MuddledIdealist
 dnrawl
 brlauuu
 mjbeyeler
@@ -317,6 +318,7 @@ Aurore__Gay
 maunishbarvalia
 mervekahraman71
 LasradoNinaad
+jpdaanoy
 luisachocarro
 cnoutsos
 AnointedGb
@@ -695,6 +697,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1394,6 +1397,7 @@ RLIBERTE
 _yianni_
 msaud96
 savinay1986
+_madeleinejane
 _madeleinejane
 dtabb73
 YUYUCHENG1
@@ -2994,8 +2998,4 @@ Matt_Goldman_
 sandraa_01
 leftyszn
 callikush
-patrick_green
-Strappazz0n
-chad_zubka
-PierreSchoolar
 tweepy.TweepError=
