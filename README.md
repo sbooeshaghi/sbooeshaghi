@@ -4,8 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|patrick_green|MuddledIdealist|
-|Strappazz0n|jpdaanoy|
-|chad_zubka|stefanospinel15|
-|PierreSchoolar|_madeleinejane|
-Sun Oct  3 06:24:55 UTC 2021
+|_madeleinejane|patrick_green|
+Sun Oct  3 12:27:09 UTC 2021
