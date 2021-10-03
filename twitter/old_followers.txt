@@ -697,7 +697,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1197,7 +1196,7 @@ obaid_alkatheri
 NomentumC
 dsfava
 njmacarthur
-tweetthatiagree
+sweethomealbb
 ali_nehme00
 0X9A41C1
 AlbaThunberg
@@ -2998,4 +2997,5 @@ sandraa_01
 leftyszn
 callikush
 patrick_green
+Strappazz0n
 tweepy.TweepError=
