@@ -1338,7 +1338,6 @@ SHINEYAGGARWAL
 euphoria2009
 saeedshahpk
 darrenroos
-LiberatedJha
 ahmadthrr
 YoavEitani
 md_orozco
@@ -1667,7 +1666,6 @@ sebbas_gomez
 asbabahaemir
 bennyfizzle
 haikierkegaard
-hannatawk1998
 Dajjal2237
 NorberFerreyros
 verbine
@@ -2998,4 +2996,6 @@ sandraa_01
 leftyszn
 callikush
 patrick_green
+Strappazz0n
+chad_zubka
 tweepy.TweepError=
