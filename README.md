@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|callikush|CarvalhoFilipeL|
-|patrick_green|innofarah|
-Mon Oct  4 18:25:07 UTC 2021
+|CarvalhoFilipeL|callikush|
+Tue Oct  5 00:44:43 UTC 2021

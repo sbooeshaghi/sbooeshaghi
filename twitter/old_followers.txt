@@ -198,7 +198,6 @@ WPX47811134
 GyPrak
 issisaby
 CarvalhoFilipeL
-CarvalhoFilipeL
 martala79
 MMAPULLA
 DwanPrice
@@ -2998,4 +2997,5 @@ fortuna_alexa
 Matt_Goldman_
 sandraa_01
 leftyszn
+callikush
 tweepy.TweepError=
