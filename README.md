@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|LiberatedJha|Strappazz0n|
-|hannatawk1998|chad_zubka|
-Tue Oct  5 12:27:53 UTC 2021
+|chad_zubka|stefanospinel15|
+Tue Oct  5 18:24:39 UTC 2021
