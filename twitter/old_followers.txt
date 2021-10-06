@@ -120,7 +120,6 @@ streetball16
 Dr_LeoYu
 grokkedIt
 twittcoms
-skimomiks
 The_InnovationJ
 DocSashas
 toninells
@@ -2998,4 +2997,5 @@ leftyszn
 callikush
 patrick_green
 Strappazz0n
+chad_zubka
 tweepy.TweepError=
