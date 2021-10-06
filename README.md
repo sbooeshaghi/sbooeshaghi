@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Bahareh22966911|BaharehDerafshi|
-Wed Oct  6 06:25:21 UTC 2021
+|stefanospinel15|martala79|
+|Strappazz0n|PNgsabrina|
+|chad_zubka|noerdiani2017|
+Wed Oct  6 12:28:05 UTC 2021

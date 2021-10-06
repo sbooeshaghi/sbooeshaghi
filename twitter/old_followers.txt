@@ -198,6 +198,7 @@ GyPrak
 issisaby
 CarvalhoFilipeL
 martala79
+martala79
 MMAPULLA
 DwanPrice
 lal_avantika
@@ -396,6 +397,7 @@ BHilbush
 alanmej55130600
 vic_rev
 Hz_is_frequency
+PNgsabrina
 PNgsabrina
 manikanda_raja
 hackingdata
@@ -696,7 +698,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -996,6 +997,7 @@ carturonaldo
 aye_man97
 carowinslow
 terezaborges4
+noerdiani2017
 noerdiani2017
 GinalynParcio
 lfer_morales
@@ -2996,6 +2998,4 @@ sandraa_01
 leftyszn
 callikush
 patrick_green
-Strappazz0n
-chad_zubka
 tweepy.TweepError=
