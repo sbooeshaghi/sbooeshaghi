@@ -191,13 +191,11 @@ AmiraMa25428958
 Ahmedzolo
 Fabbyboe
 ViDang411
-vdiezo
 AJMurph5
 WPX47811134
 GyPrak
 issisaby
 CarvalhoFilipeL
-martala79
 martala79
 MMAPULLA
 DwanPrice
@@ -397,7 +395,6 @@ BHilbush
 alanmej55130600
 vic_rev
 Hz_is_frequency
-PNgsabrina
 PNgsabrina
 manikanda_raja
 hackingdata
@@ -698,6 +695,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -997,7 +995,6 @@ carturonaldo
 aye_man97
 carowinslow
 terezaborges4
-noerdiani2017
 noerdiani2017
 GinalynParcio
 lfer_morales
@@ -1801,6 +1798,7 @@ DustandShadow1
 v_rajasingham
 Links123407
 JS1351
+JS1351
 RogerMelin2
 jifsmom
 JohnSeektruth
@@ -2200,6 +2198,7 @@ ASATT19731902
 juan_sanar
 cakirb_
 JonasKretz
+JonasKretz
 minakhoshi
 Azimi31263323
 neurojoy
@@ -2398,6 +2397,7 @@ KollmarMartin
 fsharifi4
 intspg
 DarioRShaw
+BailWeatherbee
 BailWeatherbee
 emsweene57
 SeismOlliegist
@@ -2798,6 +2798,7 @@ genomequant
 TruwL
 KlausMetzelerMD
 yhhshby
+yhhshby
 jchardaway_md
 Stephanie_Yahn
 SimonBesson
@@ -2997,5 +2998,4 @@ Matt_Goldman_
 sandraa_01
 leftyszn
 callikush
-patrick_green
 tweepy.TweepError=

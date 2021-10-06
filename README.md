@@ -4,7 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|martala79|
-|Strappazz0n|PNgsabrina|
-|chad_zubka|noerdiani2017|
-Wed Oct  6 12:28:05 UTC 2021
+|vdiezo|stefanospinel15|
+|martala79|JS1351|
+|PNgsabrina|JonasKretz|
+|noerdiani2017|BailWeatherbee|
+|patrick_green|yhhshby|
+Wed Oct  6 18:24:43 UTC 2021
