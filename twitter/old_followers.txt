@@ -68,7 +68,6 @@ oli_wilkins
 ricco_que
 ramllor
 PriyankaBioinfo
-JubaZiani
 gmsRoss
 khomgm
 ramundo_silvia
@@ -397,7 +396,6 @@ vic_rev
 Hz_is_frequency
 PNgsabrina
 manikanda_raja
-hackingdata
 hackingdata
 tzenszen
 Karamcakes
@@ -753,7 +751,7 @@ Samirrz1
 Maria_Dalby
 theIntuitionist
 alfozan
-SplashAttac
+psashittal
 KevinMFlatley
 mukundkabbe
 nrdstorm
@@ -881,7 +879,6 @@ jordan_mcrae_
 ElowitzLab
 YUHANHAO2
 nima_genome
-shapira_yonatan
 annie__erickson
 j3nnysheng
 CuriousMaia
@@ -2998,4 +2995,6 @@ callikush
 patrick_green
 Strappazz0n
 chad_zubka
-tweepy.TweepError=
+PierreSchoolar
+hannahlucyx3
+mitchgoldhaber

@@ -4,8 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|JS1351|hackingdata|
-|JonasKretz|patrick_green|
-|BailWeatherbee|Strappazz0n|
-|yhhshby|chad_zubka|
-Thu Oct  7 00:44:07 UTC 2021
+|JubaZiani|psashittal|
+|hackingdata|PierreSchoolar|
+|SplashAttac|hannahlucyx3|
+|shapira_yonatan|mitchgoldhaber|
+|tweepy.TweepError=|-|
+Thu Oct  7 06:09:46 UTC 2021
