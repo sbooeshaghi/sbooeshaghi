@@ -398,7 +398,6 @@ Hz_is_frequency
 PNgsabrina
 manikanda_raja
 hackingdata
-hackingdata
 tzenszen
 Karamcakes
 evo_devo_diva
@@ -696,7 +695,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -881,6 +879,7 @@ jordan_mcrae_
 ElowitzLab
 YUHANHAO2
 nima_genome
+shapira_yonatan
 annie__erickson
 j3nnysheng
 CuriousMaia
@@ -1321,7 +1320,6 @@ maspionnnnnn
 IamNelsonK
 navnouhi
 TimHillierBrook
-Shukunfang
 Saram_Ali_
 sheynk
 irasido30
@@ -2998,4 +2996,5 @@ patrick_green
 Strappazz0n
 chad_zubka
 PierreSchoolar
-tweepy.TweepError=
+hannahlucyx3
+mitchgoldhaber

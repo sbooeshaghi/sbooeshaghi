@@ -4,8 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|violalunaria|Juslordcriking1|
-|hannahlucyx3|hackingdata|
-|mitchgoldhaber|purpleroseyy|
-|-|tweepy.TweepError=|
-Thu Oct  7 12:28:56 UTC 2021
+|hackingdata|shapira_yonatan|
+|stefanospinel15|hannahlucyx3|
+|Shukunfang|mitchgoldhaber|
+|tweepy.TweepError=|-|
+Thu Oct  7 18:09:11 UTC 2021
