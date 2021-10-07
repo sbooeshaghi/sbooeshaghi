@@ -398,6 +398,7 @@ Hz_is_frequency
 PNgsabrina
 manikanda_raja
 hackingdata
+hackingdata
 tzenszen
 Karamcakes
 evo_devo_diva
@@ -1798,7 +1799,6 @@ DustandShadow1
 v_rajasingham
 Links123407
 JS1351
-JS1351
 RogerMelin2
 jifsmom
 JohnSeektruth
@@ -2198,7 +2198,6 @@ ASATT19731902
 juan_sanar
 cakirb_
 JonasKretz
-JonasKretz
 minakhoshi
 Azimi31263323
 neurojoy
@@ -2397,7 +2396,6 @@ KollmarMartin
 fsharifi4
 intspg
 DarioRShaw
-BailWeatherbee
 BailWeatherbee
 emsweene57
 SeismOlliegist
@@ -2798,7 +2796,6 @@ genomequant
 TruwL
 KlausMetzelerMD
 yhhshby
-yhhshby
 jchardaway_md
 Stephanie_Yahn
 SimonBesson
@@ -2998,4 +2995,7 @@ Matt_Goldman_
 sandraa_01
 leftyszn
 callikush
+patrick_green
+Strappazz0n
+chad_zubka
 tweepy.TweepError=
