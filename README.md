@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|mitchgoldhaber|NicholasFang10|
-|-|tweepy.TweepError=|
-Fri Oct  8 00:45:01 UTC 2021
+|chrnmln|cherishdlyfe|
+Fri Oct  8 06:25:16 UTC 2021
