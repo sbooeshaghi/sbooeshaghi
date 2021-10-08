@@ -554,7 +554,6 @@ esfand15
 c_tiene
 RusanZeid
 AliSohi6
-dan_stent
 FarhanD7
 bbsirtale
 AnaBetty2304
@@ -695,7 +694,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2998,4 +2996,4 @@ Strappazz0n
 chad_zubka
 PierreSchoolar
 hannahlucyx3
-tweepy.TweepError=
+mitchgoldhaber

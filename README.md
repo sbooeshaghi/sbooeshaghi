@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Juslordcriking1|stefanospinel15|
-Fri Oct  8 12:27:50 UTC 2021
+|dan_stent|mitchgoldhaber|
+|stefanospinel15|-|
+|tweepy.TweepError=|-|
+Fri Oct  8 18:09:21 UTC 2021
