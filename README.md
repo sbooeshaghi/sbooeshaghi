@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|chrnmln|cherishdlyfe|
-Fri Oct  8 06:25:16 UTC 2021
+|Juslordcriking1|stefanospinel15|
+Fri Oct  8 12:27:50 UTC 2021
