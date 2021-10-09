@@ -4,8 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|rafsanjaniLab|RafsanjaniLab|
-|pillowpulse|hannahlucyx3|
-|RogerMelin2|mitchgoldhaber|
-|tweepy.TweepError=|-|
-Sat Oct  9 06:09:11 UTC 2021
+|stefanospinel15|ianyao1998|
+|Mukarram_Afz|Mikkiplayer|
+Sat Oct  9 12:11:18 UTC 2021
