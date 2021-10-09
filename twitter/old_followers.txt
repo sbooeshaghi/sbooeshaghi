@@ -717,7 +717,7 @@ Qiuzhuang
 adorapanshu
 tin_rb
 jntkym
-rafsanjaniLab
+RafsanjaniLab
 littlebaleine
 ZvxyWu
 hero_of_lore
@@ -1598,7 +1598,6 @@ nolbertovp
 _iMuhZ
 ikigunners
 pillowpulse
-pillowpulse
 abdrahmane_d
 AhmedDa45201431
 SuvizV
@@ -1797,7 +1796,6 @@ DustandShadow1
 v_rajasingham
 Links123407
 JS1351
-RogerMelin2
 RogerMelin2
 jifsmom
 JohnSeektruth
@@ -2998,4 +2996,5 @@ patrick_green
 Strappazz0n
 chad_zubka
 PierreSchoolar
-tweepy.TweepError=
+hannahlucyx3
+mitchgoldhaber
