@@ -4,7 +4,8 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|dan_stent|mitchgoldhaber|
-|stefanospinel15|-|
-|tweepy.TweepError=|-|
-Fri Oct  8 18:09:21 UTC 2021
+|hannahlucyx3|stefanospinel15|
+|mitchgoldhaber|pillowpulse|
+|-|RogerMelin2|
+|-|tweepy.TweepError=|
+Sat Oct  9 00:42:20 UTC 2021
