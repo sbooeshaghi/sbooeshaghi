@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|hmeco|stefanospinel15|
-Sun Oct 10 18:08:38 UTC 2021
+|stefanospinel15|shapira_yonatan|
+Mon Oct 11 00:28:46 UTC 2021
