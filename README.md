@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|hexxus1234|-|
-Mon Oct 11 12:12:23 UTC 2021
+Mon Oct 11 18:08:54 UTC 2021
