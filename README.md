@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|potkazar|
-Tue Oct 12 12:12:32 UTC 2021
+|sandakano|will_townes|
+|BillyTomski|-|
+Tue Oct 12 18:09:15 UTC 2021
