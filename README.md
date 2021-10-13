@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|sandakano|will_townes|
-|BillyTomski|-|
-Tue Oct 12 18:09:15 UTC 2021
+|minigamedev|varunrshanker|
+Wed Oct 13 00:28:17 UTC 2021
