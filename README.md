@@ -4,4 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Wed Oct 13 06:09:54 UTC 2021
+|PierreSchoolar|Juslordcriking1|
+|hannahlucyx3|stefanospinel15|
+|mitchgoldhaber|dtabb73|
+|-|nolbertovp|
+|-|tweepy.TweepError=|
+Wed Oct 13 12:28:04 UTC 2021

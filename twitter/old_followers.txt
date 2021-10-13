@@ -3,6 +3,7 @@ jeffreypullin
 SabetSahand
 ianyao1998
 NicholasFang10
+Juslordcriking1
 MuddledIdealist
 dnrawl
 brlauuu
@@ -698,6 +699,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1396,6 +1398,7 @@ msaud96
 savinay1986
 _madeleinejane
 dtabb73
+dtabb73
 YUYUCHENG1
 TSutansah
 to_osh9
@@ -1594,6 +1597,7 @@ Pablo__Mejia
 mrtnhd
 melissaetehad
 SeanCottrell2
+nolbertovp
 nolbertovp
 _iMuhZ
 ikigunners
@@ -2994,6 +2998,4 @@ callikush
 patrick_green
 Strappazz0n
 chad_zubka
-PierreSchoolar
-hannahlucyx3
-mitchgoldhaber
+tweepy.TweepError=
