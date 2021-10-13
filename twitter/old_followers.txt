@@ -699,7 +699,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1045,6 +1044,7 @@ QuantMus
 harryhaemin
 AbuSofyan0378
 heyflowerbitch
+hmeco
 Aazzz50702970
 MikhailRaevskiy
 abdellahD5
@@ -1398,7 +1398,6 @@ msaud96
 savinay1986
 _madeleinejane
 dtabb73
-dtabb73
 YUYUCHENG1
 TSutansah
 to_osh9
@@ -1597,7 +1596,6 @@ Pablo__Mejia
 mrtnhd
 melissaetehad
 SeanCottrell2
-nolbertovp
 nolbertovp
 _iMuhZ
 ikigunners
@@ -2998,4 +2996,6 @@ callikush
 patrick_green
 Strappazz0n
 chad_zubka
+PierreSchoolar
+hannahlucyx3
 tweepy.TweepError=
