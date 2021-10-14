@@ -1,3 +1,4 @@
+Isoteapot
 DragonflyMH
 varunrshanker
 jeffreypullin
@@ -445,7 +446,6 @@ TMBrochier
 fuck_med_school
 omid_bazgir
 Matthew_N_B
-adamlmaclean
 caltechalumni
 abhilashapuroh2
 avgupta_me
@@ -700,6 +700,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -716,7 +717,6 @@ Fatem3hSa
 abhilash_111
 feyzarguc
 fulong_yu
-modafalla
 kaylia_duncan
 Qiuzhuang
 adorapanshu
@@ -2851,7 +2851,6 @@ Arvind_k_Iyer
 harshameghadri
 iam_akhilverma
 dimB
-jdblischak
 _julien_roux
 RyantheShark
 ngsgab
@@ -2998,4 +2997,5 @@ patrick_green
 Strappazz0n
 chad_zubka
 PierreSchoolar
+hannahlucyx3
 tweepy.TweepError=
