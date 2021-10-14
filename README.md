@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|PierreSchoolar|DragonflyMH|
-|hannahlucyx3|Stephanie_Yahn|
-Thu Oct 14 06:25:14 UTC 2021
+|Stephanie_Yahn|PierreSchoolar|
+Thu Oct 14 12:27:50 UTC 2021
