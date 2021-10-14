@@ -1,3 +1,4 @@
+DragonflyMH
 varunrshanker
 jeffreypullin
 SabetSahand
@@ -2797,6 +2798,7 @@ KlausMetzelerMD
 yhhshby
 jchardaway_md
 Stephanie_Yahn
+Stephanie_Yahn
 SimonBesson
 AndreasMoor
 InesDoesScience
@@ -2996,6 +2998,4 @@ callikush
 patrick_green
 Strappazz0n
 chad_zubka
-PierreSchoolar
-hannahlucyx3
 tweepy.TweepError=
