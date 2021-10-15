@@ -4,6 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|mitchgoldhaber|
-|tweepy.TweepError=|-|
-Fri Oct 15 12:12:27 UTC 2021
+|chad_zubka|Marica_Leone_|
+|PierreSchoolar|petenewsome|
+|hannahlucyx3|AmiraMa25428958|
+|mitchgoldhaber|stefanospinel15|
+|-|tweepy.TweepError=|
+Fri Oct 15 18:24:51 UTC 2021

@@ -1,3 +1,5 @@
+Marica_Leone_
+petenewsome
 HAL4K
 Isoteapot
 DragonflyMH
@@ -195,6 +197,7 @@ alldayscientess
 himanshu_052
 AbelSeg70718023
 jonnymates
+AmiraMa25428958
 AmiraMa25428958
 Ahmedzolo
 Fabbyboe
@@ -701,6 +704,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2994,7 +2998,4 @@ leftyszn
 callikush
 patrick_green
 Strappazz0n
-chad_zubka
-PierreSchoolar
-hannahlucyx3
-mitchgoldhaber
+tweepy.TweepError=
