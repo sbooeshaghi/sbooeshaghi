@@ -701,7 +701,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2998,4 +2997,4 @@ Strappazz0n
 chad_zubka
 PierreSchoolar
 hannahlucyx3
-tweepy.TweepError=
+mitchgoldhaber
