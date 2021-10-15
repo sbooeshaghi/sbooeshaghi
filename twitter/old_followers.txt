@@ -1,3 +1,4 @@
+HAL4K
 Isoteapot
 DragonflyMH
 varunrshanker
@@ -700,7 +701,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2191,7 +2191,6 @@ daniel_c0deb0t
 jithuanirudhan
 AlanBOCallaghan
 somescrawling
-AnnaYeaton
 ProfBootyPhD
 sreeramkannan
 ASATT19731902
@@ -2998,4 +2997,4 @@ Strappazz0n
 chad_zubka
 PierreSchoolar
 hannahlucyx3
-tweepy.TweepError=
+mitchgoldhaber

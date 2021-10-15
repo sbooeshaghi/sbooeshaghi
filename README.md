@@ -4,7 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|adamlmaclean|Isoteapot|
-|modafalla|stefanospinel15|
-|jdblischak|hannahlucyx3|
-Thu Oct 14 18:24:58 UTC 2021
+|stefanospinel15|HAL4K|
+|AnnaYeaton|mitchgoldhaber|
+|tweepy.TweepError=|-|
+Fri Oct 15 00:28:42 UTC 2021
