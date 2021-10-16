@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AmiraMa25428958|SandraS63851350|
-Sat Oct 16 00:45:45 UTC 2021
+Sat Oct 16 06:25:12 UTC 2021
