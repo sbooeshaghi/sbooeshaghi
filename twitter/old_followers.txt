@@ -1,3 +1,5 @@
+PRepiscak
+Robertruthlight
 SandraS63851350
 Marica_Leone_
 HAL4K
@@ -703,6 +705,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1877,7 +1880,6 @@ eleutheromaniaD
 amitshomrat
 dlarios94
 laforgue
-caldarellip1
 KDelchev1
 servchrist_
 DerandMvudi
@@ -2996,6 +2998,4 @@ callikush
 patrick_green
 Strappazz0n
 chad_zubka
-PierreSchoolar
-hannahlucyx3
 tweepy.TweepError=
