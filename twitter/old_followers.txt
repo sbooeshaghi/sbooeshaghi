@@ -1892,7 +1892,6 @@ jealcachuchin23
 Rational_Econ
 nadaburger
 ind_structures
-Tumblin_Tom
 RubenMoraster
 HannahZlotnick
 CAugustElliott
@@ -2998,4 +2997,5 @@ callikush
 patrick_green
 Strappazz0n
 chad_zubka
+PierreSchoolar
 tweepy.TweepError=
