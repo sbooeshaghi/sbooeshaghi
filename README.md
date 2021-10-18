@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|PierreSchoolar|stefanospinel15|
-Mon Oct 18 12:28:24 UTC 2021
+|stefanospinel15|jmuiuc|
+|mollynyan12|PierreSchoolar|
+Mon Oct 18 18:25:11 UTC 2021
