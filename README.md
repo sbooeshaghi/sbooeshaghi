@@ -4,7 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|The_Anh_Ta|
-|dogancan|abe_bio|
-|abardesign|callikush|
-Tue Oct 19 06:25:32 UTC 2021
+|mukundmadhav|Lucas18835766|
+|leftyszn|BenMBumpus|
+|callikush|stefanospinel15|
+Tue Oct 19 12:28:35 UTC 2021
