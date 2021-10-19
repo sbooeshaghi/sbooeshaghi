@@ -1,3 +1,7 @@
+weiqiu55
+drawlearnrepeat
+PascalSturmfels
+sam_power_825
 jmuiuc
 PRepiscak
 Robertruthlight
@@ -706,6 +710,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2993,9 +2998,4 @@ fortuna_alexa
 Matt_Goldman_
 sandraa_01
 leftyszn
-callikush
-patrick_green
-Strappazz0n
-chad_zubka
-PierreSchoolar
 tweepy.TweepError=
