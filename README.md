@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|mukundmadhav|Lucas18835766|
-|leftyszn|BenMBumpus|
-|callikush|stefanospinel15|
-Tue Oct 19 12:28:35 UTC 2021
+|sevirem|sj_marzi|
+|Schwerepunkt|AnnaYeaton|
+Tue Oct 19 18:24:55 UTC 2021
