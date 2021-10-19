@@ -1,3 +1,5 @@
+The_Anh_Ta
+abe_bio
 weiqiu55
 drawlearnrepeat
 PascalSturmfels
@@ -710,7 +712,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2312,13 +2313,11 @@ XiyuPeng
 xiaojia_bear
 ThayMoRo
 Vijay_Samineni
-dogancan
 florveigas
 lcampanati
 almog5690
 VillaScience
 infesilva
-abardesign
 TaylorMorriseau
 _Dan_Doyle
 BiancaEdozie
@@ -2998,4 +2997,5 @@ fortuna_alexa
 Matt_Goldman_
 sandraa_01
 leftyszn
+callikush
 tweepy.TweepError=

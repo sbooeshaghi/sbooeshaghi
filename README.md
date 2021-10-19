@@ -4,9 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|callikush|weiqiu55|
-|patrick_green|drawlearnrepeat|
-|Strappazz0n|PascalSturmfels|
-|chad_zubka|sam_power_825|
-|PierreSchoolar|stefanospinel15|
-Tue Oct 19 00:44:54 UTC 2021
+|stefanospinel15|The_Anh_Ta|
+|dogancan|abe_bio|
+|abardesign|callikush|
+Tue Oct 19 06:25:32 UTC 2021
