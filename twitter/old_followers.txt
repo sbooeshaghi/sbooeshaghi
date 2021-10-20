@@ -338,7 +338,6 @@ Aurore__Gay
 maunishbarvalia
 mervekahraman71
 LasradoNinaad
-jpdaanoy
 luisachocarro
 cnoutsos
 AnointedGb
@@ -715,6 +714,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2398,7 +2398,6 @@ _benyang_
 samsinai
 BaBalogog
 KollmarMartin
-KollmarMartin
 fsharifi4
 intspg
 DarioRShaw
@@ -2998,4 +2997,5 @@ fortuna_alexa
 Matt_Goldman_
 sandraa_01
 leftyszn
+callikush
 tweepy.TweepError=
