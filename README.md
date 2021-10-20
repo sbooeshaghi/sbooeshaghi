@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|jpdaanoy|stefanospinel15|
-|KollmarMartin|callikush|
-Wed Oct 20 06:25:44 UTC 2021
+|stefanospinel15|patrick_green|
+Wed Oct 20 12:28:31 UTC 2021
