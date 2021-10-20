@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|sevirem|sj_marzi|
-|Schwerepunkt|AnnaYeaton|
-Tue Oct 19 18:24:55 UTC 2021
+|stefanospinel15|KollmarMartin|
+|davisidarta|leftyszn|
+Wed Oct 20 00:44:58 UTC 2021

@@ -715,7 +715,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1617,7 +1616,6 @@ abdrahmane_d
 AhmedDa45201431
 SuvizV
 Eolith_Jas
-davisidarta
 TheAnthony2D
 lulurafat
 brcb20
@@ -2400,6 +2398,7 @@ _benyang_
 samsinai
 BaBalogog
 KollmarMartin
+KollmarMartin
 fsharifi4
 intspg
 DarioRShaw
@@ -2998,4 +2997,5 @@ Bryutiful
 fortuna_alexa
 Matt_Goldman_
 sandraa_01
+leftyszn
 tweepy.TweepError=
