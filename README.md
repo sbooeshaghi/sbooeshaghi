@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|patrick_green|
-Wed Oct 20 12:28:31 UTC 2021
+|TitoJoeThomas|Neelv1998|
+|callikush|nadine_xoxo|
+|patrick_green|rigopantoja|
+Wed Oct 20 18:24:30 UTC 2021

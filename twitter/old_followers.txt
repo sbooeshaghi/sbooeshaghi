@@ -398,6 +398,7 @@ quick_ben
 MusaPMarrah
 dpolychr2
 Neelv1998
+Neelv1998
 leonard02746305
 dwollny85
 Jared_Mamrot
@@ -798,7 +799,6 @@ saman_arfaie
 jaredtsimpson
 _AbhayChaudhary
 RohithMohan
-TitoJoeThomas
 hippopedoid
 soph_liu
 mjethalia6
@@ -1398,6 +1398,7 @@ HadilKoumayha
 OriSenbazuru
 calicolocali
 nadine_xoxo
+nadine_xoxo
 KabirGoel
 okapi_blue
 pramiomio
@@ -1796,6 +1797,7 @@ rEUnion_PartyUK
 ohhhhdannyboy96
 gazzesavasi
 PaudsF
+rigopantoja
 rigopantoja
 arnavm1
 the_oaks_z
@@ -2996,6 +2998,4 @@ fortuna_alexa
 Matt_Goldman_
 sandraa_01
 leftyszn
-callikush
-patrick_green
 tweepy.TweepError=
