@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Fri Oct 22 12:28:42 UTC 2021
+|jayanth1983|jayanthaiims|
+|stefanospinel15|patrick_green|
+Fri Oct 22 18:25:03 UTC 2021

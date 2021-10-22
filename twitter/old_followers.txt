@@ -298,7 +298,7 @@ Vijaya_Batthula
 thomas_sandmann
 chenkenbio
 lubianat
-jayanth1983
+jayanthaiims
 levin_bertrandt
 MustaphaSibai
 freed_nikki
@@ -715,7 +715,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2998,4 +2997,5 @@ Matt_Goldman_
 sandraa_01
 leftyszn
 callikush
+patrick_green
 tweepy.TweepError=
