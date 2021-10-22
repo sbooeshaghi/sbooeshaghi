@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|jpdaanoy|
-Thu Oct 21 18:25:12 UTC 2021
+|Fifi_Borgia|stefanospinel15|
+|patrick_green|TitoJoeThomas|
+Fri Oct 22 00:48:02 UTC 2021

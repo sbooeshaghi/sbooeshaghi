@@ -715,6 +715,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -799,6 +800,7 @@ saman_arfaie
 jaredtsimpson
 _AbhayChaudhary
 RohithMohan
+TitoJoeThomas
 hippopedoid
 soph_liu
 mjethalia6
@@ -1848,7 +1850,6 @@ Babilonian2
 mhmtkocoglu10
 Alnaqbi23
 cryptosfo
-Fifi_Borgia
 CAK473
 fearless3344
 Suleiman_abd
@@ -2997,5 +2998,4 @@ Matt_Goldman_
 sandraa_01
 leftyszn
 callikush
-patrick_green
 tweepy.TweepError=
