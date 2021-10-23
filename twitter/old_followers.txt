@@ -715,6 +715,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2997,5 +2998,4 @@ Matt_Goldman_
 sandraa_01
 leftyszn
 callikush
-patrick_green
 tweepy.TweepError=
