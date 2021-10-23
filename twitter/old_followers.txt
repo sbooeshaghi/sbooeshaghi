@@ -715,7 +715,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1410,7 +1409,7 @@ RLIBERTE
 _yianni_
 msaud96
 savinay1986
-_madeleinejane
+madjane_
 dtabb73
 YUYUCHENG1
 TSutansah
@@ -2998,4 +2997,5 @@ Matt_Goldman_
 sandraa_01
 leftyszn
 callikush
+patrick_green
 tweepy.TweepError=

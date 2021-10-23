@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|efsaneydio|karayilan777|
-Sat Oct 23 12:27:13 UTC 2021
+|stefanospinel15|madjane_|
+|_madeleinejane|patrick_green|
+Sat Oct 23 18:24:23 UTC 2021
