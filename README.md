@@ -4,9 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|d_k_tanwar|ypotier|
-|sandraa_01|JSYC94|
-|leftyszn|dannypreston|
-|callikush|stefanospinel15|
-|patrick_green|Theodysse|
-Sun Oct 24 00:44:41 UTC 2021
+|stefanospinel15|sandraa_01|
+|Theodysse|leftyszn|
+Sun Oct 24 06:25:04 UTC 2021
