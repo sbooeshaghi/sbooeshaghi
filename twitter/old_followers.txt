@@ -1,3 +1,6 @@
+ypotier
+JSYC94
+dannypreston
 sj_marzi
 Lucas18835766
 BenMBumpus
@@ -715,6 +718,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -793,6 +797,7 @@ christian_cozma
 tsotnech
 FabioGomezCano1
 ditsonthego
+Theodysse
 Theodysse
 haghshenas_e
 saman_arfaie
@@ -2354,7 +2359,6 @@ Moxzy4Jesus
 Denglab_Tulane
 rechgab
 Joshua_M_Weiss
-d_k_tanwar
 olgabot
 praneet006
 hannyta_134
@@ -2994,8 +2998,4 @@ J_Harm0n
 Bryutiful
 fortuna_alexa
 Matt_Goldman_
-sandraa_01
-leftyszn
-callikush
-patrick_green
 tweepy.TweepError=
