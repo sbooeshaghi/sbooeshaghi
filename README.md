@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|sandraa_01|
-|Theodysse|leftyszn|
-Sun Oct 24 06:25:04 UTC 2021
+|TitoJoeThomas|callikush|
+Sun Oct 24 12:27:36 UTC 2021
