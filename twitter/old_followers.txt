@@ -473,7 +473,6 @@ JuanBarredo
 AseelAwdeh
 virologistjoe
 alirezaomidi_
-reillycoopersci
 christineyyeh
 InstituteRoyan
 victoriartobin
@@ -967,7 +966,7 @@ AlexLewis001
 opencovid19
 zheyu_HH
 potkazar
-jose__sky
+logan_beker28
 4484
 errontitus
 AdibChristian
@@ -2998,4 +2997,5 @@ fortuna_alexa
 Matt_Goldman_
 sandraa_01
 leftyszn
+callikush
 tweepy.TweepError=

@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|_KGBree_|lucasnpatel|
-|callikush|furkanmtorun|
-Sun Oct 24 18:24:40 UTC 2021
+|reillycoopersci|logan_beker28|
+|jose__sky|callikush|
+Mon Oct 25 00:45:30 UTC 2021
