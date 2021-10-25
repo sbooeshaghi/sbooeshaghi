@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|reillycoopersci|logan_beker28|
-|jose__sky|callikush|
-Mon Oct 25 00:45:30 UTC 2021
+|leftyszn|TongZhou2017|
+|callikush|stefanospinel15|
+Mon Oct 25 06:26:01 UTC 2021
