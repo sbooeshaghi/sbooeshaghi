@@ -1,3 +1,4 @@
+BJD32724199
 TongZhou2017
 lucasnpatel
 furkanmtorun
@@ -1196,6 +1197,7 @@ pipeguillenMD
 AroraKeith
 C0vid1965
 babamalika17
+FritzHeisenb3rg
 FritzHeisenb3rg
 dxbmaven
 JavierFeFe1
@@ -2996,6 +2998,4 @@ shelby_babowicz
 J_Harm0n
 Bryutiful
 fortuna_alexa
-Matt_Goldman_
-sandraa_01
 tweepy.TweepError=

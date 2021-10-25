@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|leftyszn|TongZhou2017|
-|callikush|stefanospinel15|
-Mon Oct 25 06:26:01 UTC 2021
+|Matt_Goldman_|BJD32724199|
+|sandraa_01|FritzHeisenb3rg|
+Mon Oct 25 12:28:28 UTC 2021
