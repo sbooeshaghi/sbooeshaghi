@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Matt_Goldman_|BJD32724199|
-|sandraa_01|FritzHeisenb3rg|
-Mon Oct 25 12:28:28 UTC 2021
+|stefanospinel15|ricardoI_|
+|FritzHeisenb3rg|babamatteo|
+|fortuna_alexa|becauseBiology|
+Mon Oct 25 18:25:04 UTC 2021
