@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|ricardoI_|
-|FritzHeisenb3rg|babamatteo|
-|fortuna_alexa|becauseBiology|
-Mon Oct 25 18:25:04 UTC 2021
+|Bryutiful|jimmysaw|
+Tue Oct 26 00:42:48 UTC 2021
