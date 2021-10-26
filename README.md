@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Bryutiful|jimmysaw|
-Tue Oct 26 00:42:48 UTC 2021
+|J_Harm0n|stefanospinel15|
+Tue Oct 26 06:25:57 UTC 2021
