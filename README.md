@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|J_Harm0n|TitoJoeThomas|
-Wed Oct 27 00:43:12 UTC 2021
+Wed Oct 27 06:25:43 UTC 2021
