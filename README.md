@@ -4,4 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Wed Oct 27 12:28:37 UTC 2021
+|TitoJoeThomas|stefanospinel15|
+|aghamiri95|smohammada74|
+|2theThymus|inflamedego|
+Wed Oct 27 18:25:14 UTC 2021
