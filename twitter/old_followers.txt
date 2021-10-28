@@ -102,6 +102,7 @@ oli_wilkins
 ricco_que
 ramllor
 PriyankaBioinfo
+JubaZiani
 gmsRoss
 khomgm
 ramundo_silvia
@@ -809,6 +810,7 @@ saman_arfaie
 jaredtsimpson
 _AbhayChaudhary
 RohithMohan
+TitoJoeThomas
 hippopedoid
 soph_liu
 mjethalia6
@@ -2834,7 +2836,7 @@ kaaldinger
 4130chromo
 NicoBroguiere
 lkmklsmn
-KaufmanMLK
+ML_Kaufman
 ioansarr
 stocks_raj
 robamezquita
@@ -2996,6 +2998,4 @@ andrew_porath
 dominickdefazio
 ReginaKnudsen
 jamiezeld
-shelby_babowicz
-J_Harm0n
 tweepy.TweepError=
