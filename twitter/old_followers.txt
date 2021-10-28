@@ -569,7 +569,6 @@ ekernf01
 webyrd
 APredeus
 MartinTreppner
-YingStat
 z_chiang
 mohsen_yzd
 gibsonnews
@@ -2835,7 +2834,7 @@ kaaldinger
 4130chromo
 NicoBroguiere
 lkmklsmn
-OzmotheCat
+KaufmanMLK
 ioansarr
 stocks_raj
 robamezquita
@@ -2998,4 +2997,5 @@ dominickdefazio
 ReginaKnudsen
 jamiezeld
 shelby_babowicz
+J_Harm0n
 tweepy.TweepError=
