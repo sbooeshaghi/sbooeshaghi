@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|KaufmanMLK|JubaZiani|
-|shelby_babowicz|TitoJoeThomas|
-|J_Harm0n|ML_Kaufman|
-Thu Oct 28 06:25:51 UTC 2021
+|stefanospinel15|LiberatedJha|
+Thu Oct 28 12:28:22 UTC 2021
