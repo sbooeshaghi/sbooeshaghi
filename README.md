@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|LiberatedJha|ScienceScottT|
-Thu Oct 28 18:25:09 UTC 2021
+Fri Oct 29 00:41:54 UTC 2021
