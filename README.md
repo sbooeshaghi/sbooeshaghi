@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Mikkiplayer|stefanospinel15|
-|jamiezeld|Mukarram_Affzal|
-Fri Oct 29 06:26:04 UTC 2021
+|stefanospinel15|jamiezeld|
+Fri Oct 29 12:28:06 UTC 2021
