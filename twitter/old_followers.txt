@@ -726,6 +726,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1148,7 +1149,7 @@ ejaz_k
 nsisodiya
 petras_rf
 Andri_112099
-Mikkiplayer
+Mukarram_Affzal
 mitokondryaa
 As3adov
 HockenberryAdam
@@ -2997,5 +2998,4 @@ EmbededInMyHead
 andrew_porath
 dominickdefazio
 ReginaKnudsen
-jamiezeld
 tweepy.TweepError=
