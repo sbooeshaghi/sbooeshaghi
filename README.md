@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|jamiezeld|
-Fri Oct 29 12:28:06 UTC 2021
+|polarparity|AlexeyCatone|
+|ReginaKnudsen|stefanospinel15|
+|jamiezeld|canyonapp|
+Fri Oct 29 18:25:19 UTC 2021

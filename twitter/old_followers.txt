@@ -1,3 +1,4 @@
+AlexeyCatone
 ScienceScottT
 jimmysaw
 ricardoI_
@@ -726,6 +727,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1799,7 +1801,7 @@ bellelore
 toxicradar0
 JOHNGO67
 existeundelta
-polarparity
+canyonapp
 AdwaAlsaleh
 Eng_Tarazi
 halil_ozcan8
@@ -2996,6 +2998,4 @@ jeffreyhwa
 EmbededInMyHead
 andrew_porath
 dominickdefazio
-ReginaKnudsen
-jamiezeld
 tweepy.TweepError=
