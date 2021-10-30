@@ -1,3 +1,4 @@
+qgeissmann
 AlexeyCatone
 ScienceScottT
 jimmysaw
@@ -2997,5 +2998,4 @@ Sarah_holtt
 jeffreyhwa
 EmbededInMyHead
 andrew_porath
-dominickdefazio
 tweepy.TweepError=
