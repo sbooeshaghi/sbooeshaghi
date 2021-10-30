@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|dominickdefazio|qgeissmann|
-Sat Oct 30 00:42:46 UTC 2021
+Sat Oct 30 06:25:10 UTC 2021
