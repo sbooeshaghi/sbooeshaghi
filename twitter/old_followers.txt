@@ -798,6 +798,7 @@ sisichen
 BalducciBorges
 Shirley48727067
 rbstojnic
+rbstojnic
 annekylosaurus
 ihcturner
 smh_harry
@@ -996,6 +997,7 @@ sitani83
 emaballarin
 archievore
 adampinky85
+FrancesoRomanin
 FrancesoRomanin
 Tat_Loo
 alKoks
@@ -1414,7 +1416,6 @@ OriSenbazuru
 calicolocali
 nadine_xoxo
 KabirGoel
-okapi_blue
 pramiomio
 2020gobeyond
 rajandchavda
@@ -2997,5 +2998,4 @@ joesigman
 Sarah_holtt
 jeffreyhwa
 EmbededInMyHead
-andrew_porath
 tweepy.TweepError=

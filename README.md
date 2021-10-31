@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sun Oct 31 12:27:14 UTC 2021
+|okapi_blue|rbstojnic|
+|andrew_porath|FrancesoRomanin|
+Sun Oct 31 18:24:55 UTC 2021
