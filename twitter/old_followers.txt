@@ -527,7 +527,6 @@ KDolasia
 benoitbruneau
 weinberz
 mjabal
-Maziyar_Ke
 LabNowakowski
 SMoghadami
 marcoyannic
@@ -729,6 +728,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -797,7 +797,6 @@ HenriquesLab
 sisichen
 BalducciBorges
 Shirley48727067
-rbstojnic
 rbstojnic
 annekylosaurus
 ihcturner
@@ -997,7 +996,6 @@ sitani83
 emaballarin
 archievore
 adampinky85
-FrancesoRomanin
 FrancesoRomanin
 Tat_Loo
 alKoks
@@ -1867,7 +1865,6 @@ cryptosfo
 CAK473
 fearless3344
 Suleiman_abd
-ZNoamz
 feriel_oueslati
 SeanJamFactTree
 markjgrosvenor
@@ -2998,4 +2995,7 @@ joesigman
 Sarah_holtt
 jeffreyhwa
 EmbededInMyHead
+andrew_porath
+dominickdefazio
+ReginaKnudsen
 tweepy.TweepError=
