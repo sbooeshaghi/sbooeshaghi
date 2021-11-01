@@ -4,8 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Maziyar_Ke|stefanospinel15|
-|rbstojnic|andrew_porath|
-|FrancesoRomanin|dominickdefazio|
-|ZNoamz|ReginaKnudsen|
-Mon Nov  1 00:45:14 UTC 2021
+|stefanospinel15|annekylosaurus|
+|ReginaKnudsen|Tat_Loo|
+Mon Nov  1 06:25:57 UTC 2021

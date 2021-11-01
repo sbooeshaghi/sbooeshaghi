@@ -728,7 +728,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -798,6 +797,7 @@ sisichen
 BalducciBorges
 Shirley48727067
 rbstojnic
+annekylosaurus
 annekylosaurus
 ihcturner
 smh_harry
@@ -997,6 +997,7 @@ emaballarin
 archievore
 adampinky85
 FrancesoRomanin
+Tat_Loo
 Tat_Loo
 alKoks
 ge_parada
@@ -2997,5 +2998,4 @@ jeffreyhwa
 EmbededInMyHead
 andrew_porath
 dominickdefazio
-ReginaKnudsen
 tweepy.TweepError=
