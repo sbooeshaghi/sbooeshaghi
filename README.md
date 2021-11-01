@@ -4,7 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|annekylosaurus|_combinatorist|
-|Tat_Loo|shabaaash|
-|khan__chacha|ReginaKnudsen|
-Mon Nov  1 12:28:41 UTC 2021
+Mon Nov  1 18:26:08 UTC 2021
