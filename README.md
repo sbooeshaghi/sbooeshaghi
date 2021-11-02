@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|ShereenSuleiman|sathvik_ak|
-Tue Nov  2 12:28:36 UTC 2021
+|stefanospinel15|okapi_blue|
+Tue Nov  2 18:25:11 UTC 2021
