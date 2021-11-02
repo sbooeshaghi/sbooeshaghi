@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|VChandra_|ReginaKnudsen|
-Tue Nov  2 06:25:47 UTC 2021
+|ShereenSuleiman|sathvik_ak|
+Tue Nov  2 12:28:36 UTC 2021
