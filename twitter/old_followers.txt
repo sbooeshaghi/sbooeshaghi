@@ -1,3 +1,4 @@
+SeeqBio
 _combinatorist
 JustEngelmann
 qgeissmann
@@ -239,7 +240,6 @@ martala79
 MMAPULLA
 DwanPrice
 lal_avantika
-Ali_sattariii
 Lukais_Iohan
 MedinaReinhold
 EstefVazque
@@ -729,6 +729,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2997,5 +2998,4 @@ jeffreyhwa
 EmbededInMyHead
 andrew_porath
 dominickdefazio
-ReginaKnudsen
 tweepy.TweepError=

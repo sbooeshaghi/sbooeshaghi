@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Mon Nov  1 18:26:08 UTC 2021
+|Ali_sattariii|SeeqBio|
+|ReginaKnudsen|stefanospinel15|
+Tue Nov  2 00:44:10 UTC 2021
