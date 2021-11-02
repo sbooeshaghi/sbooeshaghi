@@ -406,7 +406,6 @@ SayandeepaR
 Feriosa3
 Hustlerstory
 jameswainaina56
-VChandra_
 we_harm
 c_sheare
 dwu02139
@@ -2998,4 +2997,5 @@ jeffreyhwa
 EmbededInMyHead
 andrew_porath
 dominickdefazio
+ReginaKnudsen
 tweepy.TweepError=
