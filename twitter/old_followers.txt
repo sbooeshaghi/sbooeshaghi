@@ -729,6 +729,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -813,7 +814,6 @@ saman_arfaie
 jaredtsimpson
 _AbhayChaudhary
 RohithMohan
-TitoJoeThomas
 hippopedoid
 soph_liu
 mjethalia6
@@ -1414,6 +1414,7 @@ OriSenbazuru
 calicolocali
 nadine_xoxo
 KabirGoel
+okapi_blue
 pramiomio
 2020gobeyond
 rajandchavda
@@ -1864,6 +1865,7 @@ cryptosfo
 CAK473
 fearless3344
 Suleiman_abd
+ZNoamz
 feriel_oueslati
 SeanJamFactTree
 markjgrosvenor
@@ -2996,6 +2998,4 @@ jeffreyhwa
 EmbededInMyHead
 andrew_porath
 dominickdefazio
-ReginaKnudsen
-jamiezeld
 tweepy.TweepError=
