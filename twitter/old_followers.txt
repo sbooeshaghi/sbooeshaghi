@@ -1798,7 +1798,6 @@ LaylaBe4
 sgord512
 salehhelas86
 lethal_drizzle
-lethal_drizzle
 bellelore
 toxicradar0
 JOHNGO67
@@ -1998,7 +1997,6 @@ suhasbaliga
 sigriddiana
 N0nam3_2001
 Ruth_astrobrain
-Ruth_astrobrain
 Jaro2903
 Dor570
 salahaddinayou
@@ -2065,7 +2063,7 @@ tbrittoborges
 KristinBriney
 TerryAdirimMD
 josephcmays
-caterina_1111
+catcolon11
 mehio_rami
 coreygduke
 laila_sathe
@@ -2998,4 +2996,6 @@ TheeChrisCrit
 joesigman
 Sarah_holtt
 jeffreyhwa
+EmbededInMyHead
+andrew_porath
 tweepy.TweepError=
