@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|dominickdefazio|
-Thu Nov  4 12:28:30 UTC 2021
+|canyonapp|stefanospinel15|
+|dominickdefazio|pseudohcb|
+Thu Nov  4 18:25:24 UTC 2021

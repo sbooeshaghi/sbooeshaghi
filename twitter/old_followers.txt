@@ -730,6 +730,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1801,7 +1802,7 @@ bellelore
 toxicradar0
 JOHNGO67
 existeundelta
-canyonapp
+pseudohcb
 AdwaAlsaleh
 Eng_Tarazi
 halil_ozcan8
@@ -2997,5 +2998,4 @@ Sarah_holtt
 jeffreyhwa
 EmbededInMyHead
 andrew_porath
-dominickdefazio
 tweepy.TweepError=
