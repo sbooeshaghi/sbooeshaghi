@@ -1,3 +1,4 @@
+Fiona51037220
 sathvik_ak
 SeeqBio
 _combinatorist
@@ -1797,6 +1798,7 @@ LaylaBe4
 sgord512
 salehhelas86
 lethal_drizzle
+lethal_drizzle
 bellelore
 toxicradar0
 JOHNGO67
@@ -1995,6 +1997,7 @@ arastatalis1
 suhasbaliga
 sigriddiana
 N0nam3_2001
+Ruth_astrobrain
 Ruth_astrobrain
 Jaro2903
 Dor570
@@ -2995,7 +2998,4 @@ TheeChrisCrit
 joesigman
 Sarah_holtt
 jeffreyhwa
-EmbededInMyHead
-andrew_porath
-dominickdefazio
 tweepy.TweepError=
