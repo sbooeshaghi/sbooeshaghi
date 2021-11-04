@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|lethal_drizzle|catcolon11|
-|Ruth_astrobrain|EmbededInMyHead|
-|caterina_1111|andrew_porath|
-Thu Nov  4 06:25:50 UTC 2021
+|stefanospinel15|dominickdefazio|
+Thu Nov  4 12:28:30 UTC 2021
