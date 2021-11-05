@@ -730,7 +730,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -815,6 +814,7 @@ saman_arfaie
 jaredtsimpson
 _AbhayChaudhary
 RohithMohan
+TitoJoeThomas
 hippopedoid
 soph_liu
 mjethalia6
@@ -1893,7 +1893,6 @@ THUotila
 LeuMous
 IPuercospin
 Desmondsmith
-apir0n
 eleutheromaniaD
 amitshomrat
 dlarios94
@@ -2998,4 +2997,5 @@ Sarah_holtt
 jeffreyhwa
 EmbededInMyHead
 andrew_porath
+dominickdefazio
 tweepy.TweepError=
