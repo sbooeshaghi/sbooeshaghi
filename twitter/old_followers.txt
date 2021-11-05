@@ -730,6 +730,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2997,5 +2998,4 @@ Sarah_holtt
 jeffreyhwa
 EmbededInMyHead
 andrew_porath
-dominickdefazio
 tweepy.TweepError=
