@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|2primeOH|NADFDGD|
-|jamiezeld|stefanospinel15|
-Sat Nov  6 06:25:21 UTC 2021
+|stefanospinel15|jamiezeld|
+Sat Nov  6 12:27:35 UTC 2021
