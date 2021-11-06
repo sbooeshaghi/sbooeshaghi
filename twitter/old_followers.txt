@@ -419,7 +419,6 @@ dpolychr2
 Neelv1998
 leonard02746305
 dwollny85
-Jared_Mamrot
 Juliet_Immunity
 SupraReddi
 jasonhackney
@@ -730,7 +729,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2998,4 +2996,6 @@ jeffreyhwa
 EmbededInMyHead
 andrew_porath
 dominickdefazio
+ReginaKnudsen
+jamiezeld
 tweepy.TweepError=

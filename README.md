@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|okapi_blue|stefanospinel15|
-Fri Nov  5 18:25:06 UTC 2021
+|Jared_Mamrot|ReginaKnudsen|
+|stefanospinel15|jamiezeld|
+Sat Nov  6 00:42:30 UTC 2021
