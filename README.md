@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Jared_Mamrot|ReginaKnudsen|
-|stefanospinel15|jamiezeld|
-Sat Nov  6 00:42:30 UTC 2021
+|2primeOH|NADFDGD|
+|jamiezeld|stefanospinel15|
+Sat Nov  6 06:25:21 UTC 2021

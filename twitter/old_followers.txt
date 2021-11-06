@@ -126,7 +126,7 @@ _kiitani
 MarkPampuch
 Discoveroo_
 Droplet_guy
-2primeOH
+NADFDGD
 holmrenser
 Susia_ss
 avnish_ks
@@ -729,6 +729,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2997,5 +2998,4 @@ EmbededInMyHead
 andrew_porath
 dominickdefazio
 ReginaKnudsen
-jamiezeld
 tweepy.TweepError=
