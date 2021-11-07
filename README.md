@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sat Nov  6 18:24:40 UTC 2021
+|Runzish|runzsh|
+|jamiezeld|stefanospinel15|
+Sun Nov  7 00:44:40 UTC 2021

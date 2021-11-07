@@ -57,7 +57,7 @@ Alice19409138
 MingboCheng
 amitmechaging
 Ashlyn_Anderso
-Runzish
+runzsh
 YizhouHu_Eugene
 whoozane
 manojsajeevnair
@@ -729,6 +729,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2997,5 +2998,4 @@ EmbededInMyHead
 andrew_porath
 dominickdefazio
 ReginaKnudsen
-jamiezeld
 tweepy.TweepError=
