@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|JOHNGO67|
-Mon Nov  8 00:44:17 UTC 2021
+|Mukarram_Affzal|stefanospinel15|
+|JOHNGO67|shelby_babowicz|
+Mon Nov  8 06:26:11 UTC 2021

@@ -729,6 +729,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1150,7 +1151,6 @@ ejaz_k
 nsisodiya
 petras_rf
 Andri_112099
-Mukarram_Affzal
 mitokondryaa
 As3adov
 HockenberryAdam
@@ -1797,7 +1797,6 @@ salehhelas86
 lethal_drizzle
 bellelore
 toxicradar0
-JOHNGO67
 JOHNGO67
 existeundelta
 pseudohcb
@@ -2998,4 +2997,5 @@ andrew_porath
 dominickdefazio
 ReginaKnudsen
 jamiezeld
+shelby_babowicz
 tweepy.TweepError=
