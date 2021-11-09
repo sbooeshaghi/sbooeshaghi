@@ -4,18 +4,17 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|db_Math|vagabonds_log|
-|tweepy.TweepError=|J_Harm0n|
-|-|Bryutiful|
-|-|fortuna_alexa|
-|-|Matt_Goldman_|
-|-|sandraa_01|
-|-|leftyszn|
-|-|callikush|
-|-|patrick_green|
-|-|Strappazz0n|
-|-|chad_zubka|
-|-|PierreSchoolar|
-|-|hannahlucyx3|
-|-|mitchgoldhaber|
-Mon Nov  8 18:24:19 UTC 2021
+|clarimise|tweepy.TweepError=|
+|stefanospinel15|-|
+|fortuna_alexa|-|
+|Matt_Goldman_|-|
+|sandraa_01|-|
+|leftyszn|-|
+|callikush|-|
+|patrick_green|-|
+|Strappazz0n|-|
+|chad_zubka|-|
+|PierreSchoolar|-|
+|hannahlucyx3|-|
+|mitchgoldhaber|-|
+Tue Nov  9 00:43:24 UTC 2021
