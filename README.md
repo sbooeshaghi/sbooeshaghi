@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Bryutiful|stefanospinel15|
-Tue Nov  9 12:28:29 UTC 2021
+|stefanospinel15|okapi_blue|
+Tue Nov  9 18:25:25 UTC 2021
