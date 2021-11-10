@@ -1,3 +1,5 @@
+_Maliki_M
+pierre_marijon
 SimonCHEVOLLEA2
 Fiona51037220
 sathvik_ak
@@ -2616,7 +2618,7 @@ ZCondiotte
 dmiok575
 Peyman_Ayoubi
 Alimahmoudi29
-matba736
+MatBVictor
 s_jahangiri
 AbdulMahama1
 VirusesKozak
@@ -2996,6 +2998,4 @@ EmbededInMyHead
 andrew_porath
 dominickdefazio
 ReginaKnudsen
-jamiezeld
-shelby_babowicz
 tweepy.TweepError=
