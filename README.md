@@ -4,4 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Thu Nov 11 06:25:52 UTC 2021
+|jamiezeld|clarimise|
+Thu Nov 11 12:28:38 UTC 2021

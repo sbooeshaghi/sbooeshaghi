@@ -176,6 +176,7 @@ keyboardpipette
 farhad_shiri
 m_a_schenk
 ClarkFritsch
+clarimise
 Alisinab
 joshmnicholson
 EganPeltan
@@ -2997,5 +2998,4 @@ EmbededInMyHead
 andrew_porath
 dominickdefazio
 ReginaKnudsen
-jamiezeld
 tweepy.TweepError=
