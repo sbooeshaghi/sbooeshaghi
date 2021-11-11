@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|matba736|_Maliki_M|
-|jamiezeld|pierre_marijon|
-|shelby_babowicz|MatBVictor|
-Wed Nov 10 18:23:51 UTC 2021
+|stefanospinel15|jamiezeld|
+Thu Nov 11 00:43:56 UTC 2021
