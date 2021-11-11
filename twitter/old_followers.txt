@@ -1892,6 +1892,7 @@ THUotila
 LeuMous
 IPuercospin
 Desmondsmith
+apir0n
 eleutheromaniaD
 amitshomrat
 dlarios94
@@ -2997,5 +2998,4 @@ jeffreyhwa
 EmbededInMyHead
 andrew_porath
 dominickdefazio
-ReginaKnudsen
 tweepy.TweepError=
