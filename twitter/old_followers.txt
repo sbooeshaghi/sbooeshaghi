@@ -1231,7 +1231,6 @@ dsfava
 njmacarthur
 sweethomealbb
 ali_nehme00
-0X9A41C1
 AlbaThunberg
 ShadyGlorious
 renevdeuren
@@ -1416,7 +1415,6 @@ OriSenbazuru
 calicolocali
 nadine_xoxo
 KabirGoel
-okapi_blue
 pramiomio
 2020gobeyond
 rajandchavda
@@ -2998,4 +2996,6 @@ Sarah_holtt
 jeffreyhwa
 EmbededInMyHead
 andrew_porath
+dominickdefazio
+ReginaKnudsen
 tweepy.TweepError=
