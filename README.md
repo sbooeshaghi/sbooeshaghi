@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|0X9A41C1|dominickdefazio|
-|okapi_blue|ReginaKnudsen|
-Fri Nov 12 12:28:22 UTC 2021
+Fri Nov 12 18:25:18 UTC 2021
