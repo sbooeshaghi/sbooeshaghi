@@ -1416,6 +1416,7 @@ OriSenbazuru
 calicolocali
 nadine_xoxo
 KabirGoel
+okapi_blue
 pramiomio
 2020gobeyond
 rajandchavda
@@ -1875,7 +1876,7 @@ krister
 KarlMar05384385
 faraazcannes
 VelasquezRicco
-uvycyf5789
+uvycyf59by7
 mrazomej
 rams832002
 AaronJd21
@@ -2997,5 +2998,4 @@ Sarah_holtt
 jeffreyhwa
 EmbededInMyHead
 andrew_porath
-dominickdefazio
 tweepy.TweepError=

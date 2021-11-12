@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|dsdfmdfsdf|GS_dev3|
-|apir0n|uvycyf5789|
-Fri Nov 12 00:44:57 UTC 2021
+|uvycyf5789|okapi_blue|
+|dominickdefazio|uvycyf59by7|
+Fri Nov 12 06:25:52 UTC 2021
