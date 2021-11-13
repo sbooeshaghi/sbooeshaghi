@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|pochekailov|stefanospinel15|
-Sat Nov 13 12:27:34 UTC 2021
+|mkdir_maya|jamiezeld|
+|stefanospinel15|shelby_babowicz|
+Sat Nov 13 18:24:54 UTC 2021
