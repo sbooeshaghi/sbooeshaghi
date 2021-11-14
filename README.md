@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|shelby_babowicz|bayouphysicist|
-Sun Nov 14 06:25:21 UTC 2021
+Sun Nov 14 12:27:46 UTC 2021
