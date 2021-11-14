@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|GS_dev3|Computationals_|
-|nextcfd|stefanospinel15|
-Sun Nov 14 00:44:42 UTC 2021
+|shelby_babowicz|bayouphysicist|
+Sun Nov 14 06:25:21 UTC 2021
