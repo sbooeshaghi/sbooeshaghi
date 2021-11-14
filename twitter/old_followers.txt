@@ -1,4 +1,3 @@
-GS_dev3
 _Maliki_M
 pierre_marijon
 SimonCHEVOLLEA2
@@ -671,7 +670,7 @@ WillRosencrans
 JFluidMech
 ydsa_caltech
 Z3vxs
-nextcfd
+Computationals_
 AliJasonSaleh1
 linzhang88
 CaltechN
@@ -731,6 +730,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
