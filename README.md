@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|shelby_babowicz|
-Mon Nov 15 12:28:47 UTC 2021
+|jamiezeld|Mohammedaabahus|
+|shelby_babowicz|okapi_blue|
+Mon Nov 15 18:23:53 UTC 2021
