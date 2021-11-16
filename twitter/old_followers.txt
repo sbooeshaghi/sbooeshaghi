@@ -1,3 +1,4 @@
+susan_heavey
 bayouphysicist
 _Maliki_M
 pierre_marijon
@@ -2997,5 +2998,4 @@ andrew_porath
 dominickdefazio
 ReginaKnudsen
 jamiezeld
-shelby_babowicz
 tweepy.TweepError=
