@@ -1,3 +1,4 @@
+simmons_7710
 susan_heavey
 bayouphysicist
 _Maliki_M
@@ -732,6 +733,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2996,6 +2998,4 @@ jeffreyhwa
 EmbededInMyHead
 andrew_porath
 dominickdefazio
-ReginaKnudsen
-jamiezeld
 tweepy.TweepError=
