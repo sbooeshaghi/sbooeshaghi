@@ -731,6 +731,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1198,7 +1199,6 @@ Barysheva_Sasha
 GeopoliticaD
 Ali_Brainy
 Mohammedaabahus
-Mohammedaabahus
 VonMeerskie
 smohammada74
 pipeguillenMD
@@ -1414,7 +1414,6 @@ OriSenbazuru
 calicolocali
 nadine_xoxo
 KabirGoel
-okapi_blue
 pramiomio
 2020gobeyond
 rajandchavda
@@ -2998,4 +2997,5 @@ EmbededInMyHead
 andrew_porath
 dominickdefazio
 ReginaKnudsen
+jamiezeld
 tweepy.TweepError=
