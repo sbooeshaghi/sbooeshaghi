@@ -398,7 +398,6 @@ alex_peltzer
 sedkapone
 AqibZKhan
 eco_bboi
-eco_bboi
 mzhao8
 MakerTobey
 CellJeffe
@@ -1598,7 +1597,6 @@ SmaltoDay
 jakesprime
 Shahab_Shz
 choihungzoeker
-choihungzoeker
 jain_srushti
 corndate
 fbooeshaghi
@@ -1895,7 +1893,6 @@ THUotila
 LeuMous
 IPuercospin
 Desmondsmith
-apir0n
 eleutheromaniaD
 amitshomrat
 dlarios94
@@ -2998,4 +2995,7 @@ joesigman
 Sarah_holtt
 jeffreyhwa
 EmbededInMyHead
+andrew_porath
+dominickdefazio
+ReginaKnudsen
 tweepy.TweepError=
