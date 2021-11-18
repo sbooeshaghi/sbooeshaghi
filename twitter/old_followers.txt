@@ -733,7 +733,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2598,6 +2597,7 @@ NASAGeneLab
 sushimndl
 aksbioinfo
 GhadermarziSina
+tinyTWIGS
 tinyTWIGS
 Lees_tweeted
 BioRoboost
