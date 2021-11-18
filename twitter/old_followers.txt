@@ -1,3 +1,8 @@
+Caroline_Bartma
+abeirami
+Darioumma
+MiggyChuapoco
+fareedumtskt
 TomerTsaban
 simmons_7710
 susan_heavey
@@ -2993,9 +2998,4 @@ TaylorMadisonP
 TheeChrisCrit
 joesigman
 Sarah_holtt
-jeffreyhwa
-EmbededInMyHead
-andrew_porath
-dominickdefazio
-ReginaKnudsen
 tweepy.TweepError=

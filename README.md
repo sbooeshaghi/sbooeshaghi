@@ -4,7 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|sanna_madan|TomerTsaban|
-|tinyTWIGS|SannaMadan|
-|NeuroLuebbert|ReginaKnudsen|
-Thu Nov 18 06:26:02 UTC 2021
+|jeffreyhwa|Caroline_Bartma|
+|EmbededInMyHead|abeirami|
+|andrew_porath|Darioumma|
+|dominickdefazio|MiggyChuapoco|
+|ReginaKnudsen|fareedumtskt|
+Thu Nov 18 12:28:41 UTC 2021
