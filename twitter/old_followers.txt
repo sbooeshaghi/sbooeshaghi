@@ -1,3 +1,4 @@
+chunjie_sam_liu
 Caroline_Bartma
 abeirami
 Darioumma
@@ -739,6 +740,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2996,6 +2998,4 @@ Evanrobert233
 Cory_R
 TaylorMadisonP
 TheeChrisCrit
-joesigman
-Sarah_holtt
 tweepy.TweepError=
