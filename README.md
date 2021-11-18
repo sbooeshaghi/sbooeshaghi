@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|tinyTWIGS|
-Thu Nov 18 00:44:32 UTC 2021
+|sanna_madan|TomerTsaban|
+|tinyTWIGS|SannaMadan|
+|NeuroLuebbert|ReginaKnudsen|
+Thu Nov 18 06:26:02 UTC 2021

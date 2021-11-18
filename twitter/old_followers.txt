@@ -1,3 +1,4 @@
+TomerTsaban
 simmons_7710
 susan_heavey
 bayouphysicist
@@ -517,7 +518,7 @@ Rohan_B_13
 patrlundgren
 sickomingbo
 GhorbaniAmirata
-sanna_madan
+SannaMadan
 mnandita
 cpnoct
 jorgealvite
@@ -2598,7 +2599,6 @@ sushimndl
 aksbioinfo
 GhadermarziSina
 tinyTWIGS
-tinyTWIGS
 Lees_tweeted
 BioRoboost
 V_Saggiomo
@@ -2944,7 +2944,6 @@ agatafshsh
 ThomasDWKim
 vjonsson
 a_olechowski
-NeuroLuebbert
 cmart_seq
 FritzPreusser
 jenny_molloy
@@ -2998,4 +2997,5 @@ jeffreyhwa
 EmbededInMyHead
 andrew_porath
 dominickdefazio
+ReginaKnudsen
 tweepy.TweepError=
