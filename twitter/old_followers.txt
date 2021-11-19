@@ -1,3 +1,5 @@
+gonzobio
+AronTSkaftason
 chunjie_sam_liu
 Caroline_Bartma
 abeirami
@@ -2996,6 +2998,4 @@ DylanTheGingg
 natashaislove16
 Evanrobert233
 Cory_R
-TaylorMadisonP
-TheeChrisCrit
 tweepy.TweepError=

@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|joesigman|chunjie_sam_liu|
-|Sarah_holtt|stefanospinel15|
-Thu Nov 18 18:25:46 UTC 2021
+|TaylorMadisonP|gonzobio|
+|TheeChrisCrit|AronTSkaftason|
+Fri Nov 19 00:44:03 UTC 2021
