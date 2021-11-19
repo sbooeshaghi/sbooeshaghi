@@ -1,3 +1,4 @@
+r_marcels
 gtcaa
 tanmayee_n
 gonzobio
@@ -744,6 +745,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2996,6 +2998,4 @@ courtneywinging
 KwadjoWalker
 morgann878
 DylanTheGingg
-natashaislove16
-Evanrobert233
 tweepy.TweepError=

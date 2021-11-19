@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Cory_R|gtcaa|
-|TaylorMadisonP|tanmayee_n|
-Fri Nov 19 12:28:34 UTC 2021
+|natashaislove16|r_marcels|
+|Evanrobert233|stefanospinel15|
+Fri Nov 19 18:25:22 UTC 2021
