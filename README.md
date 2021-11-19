@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|TaylorMadisonP|gonzobio|
-|TheeChrisCrit|AronTSkaftason|
-Fri Nov 19 00:44:03 UTC 2021
+|stefanospinel15|TaylorMadisonP|
+Fri Nov 19 06:25:49 UTC 2021
