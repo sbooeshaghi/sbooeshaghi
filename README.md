@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|natashaislove16|r_marcels|
-|Evanrobert233|stefanospinel15|
-Fri Nov 19 18:25:22 UTC 2021
+|Mariadaria18|GeneOnlineNews|
+|morgann878|DermitMaria|
+|DylanTheGingg|mkiravn|
+Sat Nov 20 00:43:27 UTC 2021

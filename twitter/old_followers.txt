@@ -1,3 +1,5 @@
+GeneOnlineNews
+DermitMaria
 r_marcels
 gtcaa
 tanmayee_n
@@ -689,7 +691,7 @@ Computationals_
 AliJasonSaleh1
 linzhang88
 CaltechN
-Mariadaria18
+mkiravn
 ZhijianLi3
 MrMoAtif1
 gtmnagalla
@@ -2996,6 +2998,4 @@ debokle
 TheBaum561
 courtneywinging
 KwadjoWalker
-morgann878
-DylanTheGingg
 tweepy.TweepError=
