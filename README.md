@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Mariadaria18|GeneOnlineNews|
-|morgann878|DermitMaria|
-|DylanTheGingg|mkiravn|
-Sat Nov 20 00:43:27 UTC 2021
+|AnkitSmall|dustincram|
+|stefanospinel15|morgann878|
+Sat Nov 20 06:25:31 UTC 2021
