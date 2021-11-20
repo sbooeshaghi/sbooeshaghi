@@ -1,3 +1,4 @@
+WaiO38
 dustincram
 GeneOnlineNews
 DermitMaria
@@ -419,6 +420,7 @@ CellJeffe
 test7hahahaha
 thisischristina
 MostafaTorbati
+AnkitSmall
 DelaramPB
 TaShelby
 SinaMoDiZa
@@ -1430,6 +1432,7 @@ OriSenbazuru
 calicolocali
 nadine_xoxo
 KabirGoel
+okapi_blue
 pramiomio
 2020gobeyond
 rajandchavda
@@ -2995,7 +2998,4 @@ DietzHunter
 alexgremse
 rickydtran
 debokle
-TheBaum561
-courtneywinging
-KwadjoWalker
 tweepy.TweepError=
