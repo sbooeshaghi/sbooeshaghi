@@ -724,7 +724,6 @@ VahapEldem8
 ClathrinSays
 ShaneRoesemann
 NayrouzAz
-zamanian_
 Nuno11878867
 a_c_herman
 Alvaro_ac_al
@@ -749,7 +748,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1248,6 +1246,7 @@ dsfava
 njmacarthur
 sweethomealbb
 ali_nehme00
+0X9A41C1
 AlbaThunberg
 ShadyGlorious
 renevdeuren
@@ -1999,6 +1998,7 @@ harmanseven
 manusaraswat10
 noahdsimons
 _A_____D_
+_A_____D_
 aceswuss
 rbmkreactor
 tfairrr
@@ -2197,6 +2197,7 @@ mmunoz_ag
 Dbanadaki
 gshrma_
 YiYang75608969
+bioinformaticcs
 bioinformaticcs
 devangvang
 vizgen_inc
@@ -2997,5 +2998,4 @@ DietzHunter
 alexgremse
 rickydtran
 debokle
-TheBaum561
 tweepy.TweepError=
