@@ -4,7 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|zamanian_|0X9A41C1|
-|stefanospinel15|_A_____D_|
-|TheBaum561|bioinformaticcs|
-Sun Nov 21 06:25:37 UTC 2021
+|s_h_a_w_n_a_t|TheBaum561|
+|_A_____D_|courtneywinging|
+|bioinformaticcs|KwadjoWalker|
+Sun Nov 21 12:27:55 UTC 2021

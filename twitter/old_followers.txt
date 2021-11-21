@@ -1740,7 +1740,6 @@ maumtzlares
 MaWest26
 AOdelH
 youyou_company
-s_h_a_w_n_a_t
 JamesSharpsteen
 saul_hrr
 bakmirebus4528
@@ -1998,7 +1997,6 @@ harmanseven
 manusaraswat10
 noahdsimons
 _A_____D_
-_A_____D_
 aceswuss
 rbmkreactor
 tfairrr
@@ -2197,7 +2195,6 @@ mmunoz_ag
 Dbanadaki
 gshrma_
 YiYang75608969
-bioinformaticcs
 bioinformaticcs
 devangvang
 vizgen_inc
@@ -2998,4 +2995,7 @@ DietzHunter
 alexgremse
 rickydtran
 debokle
+TheBaum561
+courtneywinging
+KwadjoWalker
 tweepy.TweepError=
