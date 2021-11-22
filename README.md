@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|_combinatorist|KwadjoWalker|
-|stefanospinel15|morgann878|
-Mon Nov 22 12:29:00 UTC 2021
+|ZNoamz|DylanTheGingg|
+|celestelabedz|natashaislove16|
+Mon Nov 22 18:25:32 UTC 2021
