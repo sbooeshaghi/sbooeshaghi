@@ -23,7 +23,6 @@ SimonCHEVOLLEA2
 Fiona51037220
 sathvik_ak
 SeeqBio
-_combinatorist
 JustEngelmann
 qgeissmann
 AlexeyCatone
@@ -748,7 +747,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2998,4 +2996,6 @@ rickydtran
 debokle
 TheBaum561
 courtneywinging
+KwadjoWalker
+morgann878
 tweepy.TweepError=
