@@ -4,7 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|morgann878|stefanospinel15|
-|DylanTheGingg|ordinator|
-|natashaislove16|JSMartinez47|
-Tue Nov 23 06:25:57 UTC 2021
+|stefanospinel15|morgann878|
+|ordinator|DylanTheGingg|
+|JSMartinez47|natashaislove16|
+Tue Nov 23 12:28:34 UTC 2021
