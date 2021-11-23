@@ -747,6 +747,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2197,6 +2198,7 @@ bioinformaticcs
 devangvang
 vizgen_inc
 ordinator
+ordinator
 absfarooq
 LRaes2
 KevinTSayers
@@ -2395,6 +2397,7 @@ Jhonmart3
 thereal_arinze
 a1aks
 PatriciLaugier
+JSMartinez47
 JSMartinez47
 AlyaaMahmoud
 jt_field
@@ -2995,7 +2998,4 @@ debokle
 TheBaum561
 courtneywinging
 KwadjoWalker
-morgann878
-DylanTheGingg
-natashaislove16
 tweepy.TweepError=
