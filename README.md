@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|patrickstumpf01|p4sst|
-Wed Nov 24 12:28:46 UTC 2021
+|Computationals_|Computational_x|
+Wed Nov 24 18:25:24 UTC 2021
