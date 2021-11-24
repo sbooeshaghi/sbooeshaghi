@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|morgann878|NeuroLuebbert|
-Wed Nov 24 06:26:10 UTC 2021
+|patrickstumpf01|p4sst|
+Wed Nov 24 12:28:46 UTC 2021
