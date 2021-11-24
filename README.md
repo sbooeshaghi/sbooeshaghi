@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|natashaislove16|_combinatorist|
-Tue Nov 23 18:25:22 UTC 2021
+|DylanTheGingg|stefanospinel15|
+Wed Nov 24 00:44:32 UTC 2021
