@@ -691,7 +691,7 @@ WillRosencrans
 JFluidMech
 ydsa_caltech
 Z3vxs
-Computational_x
+Computational_s
 AliJasonSaleh1
 linzhang88
 CaltechN
@@ -750,6 +750,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1596,6 +1597,7 @@ timourazhari
 Riskengineer1
 radicalfaery
 magebeans
+Merz
 Merz
 clowndrivendev
 Rahulsargar1
@@ -2598,7 +2600,6 @@ basilk_
 MDUppal92
 NR_Tucker
 LabMutwil
-LabMutwil
 maxwellshafer
 cmcginnis92
 golobor
@@ -2797,7 +2798,6 @@ raz265
 sangram_ksahu
 mprabhakaran89
 woodboy
-AleCerverat
 AleCerverat
 soso9
 harpactocrates
