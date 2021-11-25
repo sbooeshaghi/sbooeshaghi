@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|morgann878|
-Thu Nov 25 00:44:19 UTC 2021
+|courtneywinging|2wxscapin_|
+|KwadjoWalker|LabMutwil|
+|morgann878|AleCerverat|
+Thu Nov 25 06:26:05 UTC 2021
