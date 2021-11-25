@@ -2,7 +2,6 @@
 NeuroLuebbert
 WaiO38
 dustincram
-GeneOnlineNews
 DermitMaria
 r_marcels
 gtcaa
@@ -488,7 +487,6 @@ MSoumner
 IlyaSimutin
 DrAshM2
 lady_xor_tiger
-MelNuesch
 tomyoong
 jamesrhawley
 DatabaeInLA
@@ -750,7 +748,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1597,7 +1594,6 @@ timourazhari
 Riskengineer1
 radicalfaery
 magebeans
-Merz
 Merz
 clowndrivendev
 Rahulsargar1
@@ -2998,4 +2994,8 @@ alexgremse
 rickydtran
 debokle
 TheBaum561
+courtneywinging
+KwadjoWalker
+morgann878
+DylanTheGingg
 tweepy.TweepError=
