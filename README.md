@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|morgann878|_sbooesh_|
-|DylanTheGingg|apir0n|
-Fri Nov 26 00:43:57 UTC 2021
+|apir0n|morgann878|
+Fri Nov 26 06:26:05 UTC 2021
