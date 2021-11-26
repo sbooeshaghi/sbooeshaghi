@@ -4,8 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|GeneOnlineNews|courtneywinging|
-|MelNuesch|KwadjoWalker|
-|stefanospinel15|morgann878|
-|Merz|DylanTheGingg|
-Thu Nov 25 18:25:25 UTC 2021
+|morgann878|_sbooesh_|
+|DylanTheGingg|apir0n|
+Fri Nov 26 00:43:57 UTC 2021
