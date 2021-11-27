@@ -749,6 +749,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2797,6 +2798,7 @@ mprabhakaran89
 woodboy
 AleCerverat
 soso9
+soso9
 harpactocrates
 harijay
 RLuisier
@@ -2996,6 +2998,4 @@ rickydtran
 debokle
 TheBaum561
 courtneywinging
-KwadjoWalker
-morgann878
 tweepy.TweepError=
