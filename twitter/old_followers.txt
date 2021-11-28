@@ -12,7 +12,6 @@ gonzobio
 AronTSkaftason
 chunjie_sam_liu
 Caroline_Bartma
-abeirami
 Darioumma
 MiggyChuapoco
 fareedumtskt
@@ -534,7 +533,6 @@ Rohan_B_13
 patrlundgren
 sickomingbo
 GhorbaniAmirata
-SannaMadan
 mnandita
 cpnoct
 jorgealvite
@@ -749,6 +747,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2998,4 +2997,5 @@ TheBaum561
 courtneywinging
 KwadjoWalker
 morgann878
+DylanTheGingg
 tweepy.TweepError=
