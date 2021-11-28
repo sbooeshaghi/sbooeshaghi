@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Anzala_09|Scooby_do098|
-|farid_ita|morgann878|
-Sun Nov 28 00:45:09 UTC 2021
+|KwadjoWalker|stefanospinel15|
+|morgann878|soso9|
+Sun Nov 28 06:25:52 UTC 2021
