@@ -1350,7 +1350,7 @@ k_thos
 marcdezordo
 Ian_kiamba
 rahultewariji
-Anzala_09
+Scooby_do098
 ValdiNoorAzhar
 harryl7427
 ProPhotography
@@ -1797,7 +1797,6 @@ julsamani
 AhmadAbuhaimed
 av_thakkar
 FlameAngel8
-farid_ita
 farid_ita
 Sketchcraft
 BassamJamal4
@@ -2998,4 +2997,5 @@ debokle
 TheBaum561
 courtneywinging
 KwadjoWalker
+morgann878
 tweepy.TweepError=
