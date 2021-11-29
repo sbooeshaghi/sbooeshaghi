@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|Alisinab|
-|morgann878|nor_shaheera|
-Mon Nov 29 06:26:03 UTC 2021
+|Alisinab|sarveshnikumbh|
+|nor_shaheera|stefanospinel15|
+Mon Nov 29 12:29:02 UTC 2021
