@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Alisinab|sarveshnikumbh|
-|nor_shaheera|stefanospinel15|
-Mon Nov 29 12:29:02 UTC 2021
+|Scooby_do098|clarimise|
+|KwadjoWalker|H_anzala09|
+Mon Nov 29 18:28:37 UTC 2021

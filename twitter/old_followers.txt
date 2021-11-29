@@ -198,6 +198,7 @@ farhad_shiri
 m_a_schenk
 ClarkFritsch
 clarimise
+clarimise
 Alisinab
 joshmnicholson
 EganPeltan
@@ -1350,7 +1351,7 @@ k_thos
 marcdezordo
 Ian_kiamba
 rahultewariji
-Scooby_do098
+H_anzala09
 ValdiNoorAzhar
 harryl7427
 ProPhotography
@@ -2997,5 +2998,4 @@ rickydtran
 debokle
 TheBaum561
 courtneywinging
-KwadjoWalker
 tweepy.TweepError=
