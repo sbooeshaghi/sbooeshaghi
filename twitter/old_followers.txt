@@ -198,6 +198,7 @@ m_a_schenk
 ClarkFritsch
 clarimise
 Alisinab
+Alisinab
 joshmnicholson
 EganPeltan
 itok10918
@@ -396,6 +397,7 @@ Hannah_SuperRes
 Bhavya39131843
 _mariod
 MoTarekM
+nor_shaheera
 nor_shaheera
 IHaoWang1
 H3K4me1
@@ -747,7 +749,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2997,5 +2998,4 @@ debokle
 TheBaum561
 courtneywinging
 KwadjoWalker
-morgann878
 tweepy.TweepError=
