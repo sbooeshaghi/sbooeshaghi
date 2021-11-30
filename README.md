@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|clarimise|arshamg_|
-|BrickCityHQ|lessi_manuel|
-|courtneywinging|SannaMadan|
-Tue Nov 30 00:45:47 UTC 2021
+|TheBaum561|brainy_ants|
+Tue Nov 30 06:25:34 UTC 2021
