@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Scooby_do098|clarimise|
-|KwadjoWalker|H_anzala09|
-Mon Nov 29 18:28:37 UTC 2021
+|clarimise|arshamg_|
+|BrickCityHQ|lessi_manuel|
+|courtneywinging|SannaMadan|
+Tue Nov 30 00:45:47 UTC 2021
