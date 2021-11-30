@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|TheBaum561|brainy_ants|
-Tue Nov 30 06:25:34 UTC 2021
+Tue Nov 30 12:26:45 UTC 2021
