@@ -1036,7 +1036,6 @@ pamtrading
 eczenrs
 Negarrak
 ranjithyu
-dipespandey08
 sainju_sajan
 agoody19
 billyhwangNJ
@@ -1956,7 +1955,6 @@ Hubris__Nemesis
 AliRAkil
 aaqua_
 Shas__18
-jordanaboali
 phillip169
 ovipic
 Remanescente9
@@ -2998,4 +2996,6 @@ alexgremse
 rickydtran
 debokle
 TheBaum561
+courtneywinging
+KwadjoWalker
 tweepy.TweepError=

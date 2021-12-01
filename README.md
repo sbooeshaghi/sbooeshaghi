@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|SannaMadan|debokle|
-|CellModel|TheBaum561|
-Wed Dec  1 06:26:10 UTC 2021
+|dipespandey08|courtneywinging|
+|jordanaboali|KwadjoWalker|
+Wed Dec  1 12:29:16 UTC 2021
