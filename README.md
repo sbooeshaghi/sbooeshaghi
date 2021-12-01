@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|sergeynurk|
-Tue Nov 30 18:25:38 UTC 2021
+|debokle|asingh_22g|
+Wed Dec  1 00:46:24 UTC 2021
