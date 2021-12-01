@@ -539,7 +539,6 @@ Rohan_B_13
 patrlundgren
 sickomingbo
 GhorbaniAmirata
-SannaMadan
 mnandita
 cpnoct
 jorgealvite
@@ -798,7 +797,6 @@ atheisticcause
 alienghic
 genebrew
 drelopara
-CellModel
 dofreed
 aBioSWE
 gavin_sowa
@@ -2998,4 +2996,6 @@ Jesus_freak49
 DietzHunter
 alexgremse
 rickydtran
+debokle
+TheBaum561
 tweepy.TweepError=
