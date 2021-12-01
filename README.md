@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|dipespandey08|courtneywinging|
-|jordanaboali|KwadjoWalker|
-Wed Dec  1 12:29:16 UTC 2021
+|KwadjoWalker|okapi_blue|
+Wed Dec  1 18:25:51 UTC 2021
