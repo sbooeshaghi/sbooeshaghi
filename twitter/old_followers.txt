@@ -753,6 +753,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2997,5 +2998,4 @@ rickydtran
 debokle
 TheBaum561
 courtneywinging
-KwadjoWalker
 tweepy.TweepError=
