@@ -1005,7 +1005,6 @@ errontitus
 AdibChristian
 mohil112
 TheJoedeVivre
-matteopapaluca
 FikriHusein9
 DirtyHARRY2019
 bigdata_school
@@ -2998,4 +2997,5 @@ rickydtran
 debokle
 TheBaum561
 courtneywinging
+KwadjoWalker
 tweepy.TweepError=

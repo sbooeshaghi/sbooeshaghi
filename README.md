@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|KwadjoWalker|okapi_blue|
-Wed Dec  1 18:25:51 UTC 2021
+|matteopapaluca|KwadjoWalker|
+Thu Dec  2 00:44:33 UTC 2021
