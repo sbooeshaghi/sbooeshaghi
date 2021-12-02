@@ -1,3 +1,5 @@
+C_Shamballa
+zamakany
 asingh_22g
 sergeynurk
 brainy_ants
@@ -1704,7 +1706,6 @@ stewartvolland
 IshacGilbert
 vwturbo123
 drouin_alex
-sebbas_gomez
 asbabahaemir
 bennyfizzle
 haikierkegaard
@@ -2997,5 +2998,4 @@ rickydtran
 debokle
 TheBaum561
 courtneywinging
-KwadjoWalker
 tweepy.TweepError=
