@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|_iMuhZ|dipespandey08|
-|courtneywinging|_irAnDo|
-Fri Dec  3 00:46:52 UTC 2021
+|Dajjal2237|stefanospinel15|
+|_coltseavers|courtneywinging|
+Fri Dec  3 06:26:13 UTC 2021

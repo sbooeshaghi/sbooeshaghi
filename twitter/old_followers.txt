@@ -755,6 +755,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1710,7 +1711,6 @@ drouin_alex
 asbabahaemir
 bennyfizzle
 haikierkegaard
-Dajjal2237
 NorberFerreyros
 verbine
 SyedMAO
@@ -1980,7 +1980,6 @@ a_michaut
 alp_arslan2000
 SrPabloOrellana
 Soad205
-_coltseavers
 Nave58866091
 Project2Program
 sakshiramesh_
@@ -2998,4 +2997,5 @@ alexgremse
 rickydtran
 debokle
 TheBaum561
+courtneywinging
 tweepy.TweepError=
