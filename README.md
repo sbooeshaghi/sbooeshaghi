@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|sebbas_gomez|C_Shamballa|
-|KwadjoWalker|zamakany|
-Thu Dec  2 18:26:05 UTC 2021
+|_iMuhZ|dipespandey08|
+|courtneywinging|_irAnDo|
+Fri Dec  3 00:46:52 UTC 2021
