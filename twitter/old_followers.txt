@@ -2798,7 +2798,6 @@ sangram_ksahu
 mprabhakaran89
 woodboy
 AleCerverat
-AleCerverat
 soso9
 harpactocrates
 harijay
@@ -2998,4 +2997,5 @@ rickydtran
 debokle
 TheBaum561
 courtneywinging
+KwadjoWalker
 tweepy.TweepError=
