@@ -102,7 +102,7 @@ JayMoore_res
 sTARAalicia
 Melissa_Truong
 RobinCubed
-aaaapkv
+anapolymer
 BrielinB
 DarshakWrites
 Karen_StewKirk
@@ -755,7 +755,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2998,4 +2997,5 @@ debokle
 TheBaum561
 courtneywinging
 KwadjoWalker
+morgann878
 tweepy.TweepError=

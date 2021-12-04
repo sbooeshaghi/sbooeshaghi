@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|SannaMadan|stefanospinel15|
-|TheNameIsNeo1|KwadjoWalker|
-Sat Dec  4 06:25:47 UTC 2021
+|aaaapkv|anapolymer|
+|stefanospinel15|morgann878|
+Sat Dec  4 12:28:38 UTC 2021
