@@ -388,7 +388,6 @@ Aurore__Gay
 maunishbarvalia
 mervekahraman71
 LasradoNinaad
-jpdaanoy
 luisachocarro
 cnoutsos
 AnointedGb
@@ -755,6 +754,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1797,6 +1797,7 @@ orwellissimo
 deepika18989
 julsamani
 AhmadAbuhaimed
+av_thakkar
 av_thakkar
 FlameAngel8
 farid_ita
@@ -2997,5 +2998,4 @@ debokle
 TheBaum561
 courtneywinging
 KwadjoWalker
-morgann878
 tweepy.TweepError=
