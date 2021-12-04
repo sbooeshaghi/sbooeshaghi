@@ -541,7 +541,6 @@ Rohan_B_13
 patrlundgren
 sickomingbo
 GhorbaniAmirata
-SannaMadan
 mnandita
 cpnoct
 jorgealvite
@@ -756,6 +755,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1735,7 +1735,6 @@ anoladayo
 nagolinc
 jhan2qt
 IMADJamil
-TheNameIsNeo1
 PotatoOfReason_
 leonxlin
 birolaay
@@ -2998,4 +2997,5 @@ rickydtran
 debokle
 TheBaum561
 courtneywinging
+KwadjoWalker
 tweepy.TweepError=
