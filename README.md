@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|AleCerverat|KwadjoWalker|
-Fri Dec  3 18:25:41 UTC 2021
+|KwadjoWalker|SannaMadan|
+Sat Dec  4 00:44:44 UTC 2021

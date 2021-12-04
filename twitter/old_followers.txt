@@ -541,6 +541,7 @@ Rohan_B_13
 patrlundgren
 sickomingbo
 GhorbaniAmirata
+SannaMadan
 mnandita
 cpnoct
 jorgealvite
@@ -2997,5 +2998,4 @@ rickydtran
 debokle
 TheBaum561
 courtneywinging
-KwadjoWalker
 tweepy.TweepError=
