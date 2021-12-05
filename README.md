@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Alii_Ganjj|SannaMadan|
-|okapi_blue|DylanTheGingg|
-Sun Dec  5 06:25:46 UTC 2021
+|stefanospinel15|natashaislove16|
+Sun Dec  5 12:28:10 UTC 2021
