@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|av_thakkar|morgann878|
-Sun Dec  5 00:47:14 UTC 2021
+|Alii_Ganjj|SannaMadan|
+|okapi_blue|DylanTheGingg|
+Sun Dec  5 06:25:46 UTC 2021

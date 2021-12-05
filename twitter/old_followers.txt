@@ -540,6 +540,7 @@ Rohan_B_13
 patrlundgren
 sickomingbo
 GhorbaniAmirata
+SannaMadan
 mnandita
 cpnoct
 jorgealvite
@@ -826,7 +827,6 @@ rbstojnic
 annekylosaurus
 ihcturner
 smh_harry
-Alii_Ganjj
 chriswithers13
 christian_cozma
 tsotnech
@@ -1436,7 +1436,6 @@ OriSenbazuru
 calicolocali
 nadine_xoxo
 KabirGoel
-okapi_blue
 pramiomio
 2020gobeyond
 rajandchavda
@@ -2998,4 +2997,5 @@ TheBaum561
 courtneywinging
 KwadjoWalker
 morgann878
+DylanTheGingg
 tweepy.TweepError=
