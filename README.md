@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|jpdaanoy|stefanospinel15|
-|morgann878|av_thakkar|
-Sat Dec  4 18:25:27 UTC 2021
+|av_thakkar|morgann878|
+Sun Dec  5 00:47:14 UTC 2021
