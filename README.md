@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sun Dec  5 18:25:07 UTC 2021
+|AOdelH|stefanospinel15|
+|CancerEvolution|ireflectit|
+Mon Dec  6 00:46:06 UTC 2021
