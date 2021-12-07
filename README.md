@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|natashaislove16|jpdaanoy|
-|Evanrobert233|magebeans|
-Tue Dec  7 06:26:34 UTC 2021
+|magebeans|natashaislove16|
+Tue Dec  7 12:29:59 UTC 2021
