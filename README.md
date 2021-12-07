@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|SandraS63851350|stefanospinel15|
-|edaznee|_coltseavers|
-Tue Dec  7 00:46:31 UTC 2021
+|natashaislove16|jpdaanoy|
+|Evanrobert233|magebeans|
+Tue Dec  7 06:26:34 UTC 2021

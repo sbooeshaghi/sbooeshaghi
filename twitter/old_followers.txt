@@ -386,6 +386,7 @@ Aurore__Gay
 maunishbarvalia
 mervekahraman71
 LasradoNinaad
+jpdaanoy
 luisachocarro
 cnoutsos
 AnointedGb
@@ -1596,6 +1597,7 @@ vinfonta
 timourazhari
 Riskengineer1
 radicalfaery
+magebeans
 magebeans
 Merz
 clowndrivendev
@@ -2996,6 +2998,4 @@ courtneywinging
 KwadjoWalker
 morgann878
 DylanTheGingg
-natashaislove16
-Evanrobert233
 tweepy.TweepError=
