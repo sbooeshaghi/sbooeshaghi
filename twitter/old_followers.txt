@@ -1554,7 +1554,6 @@ Otmane404
 IshaanMalhi
 alth0u
 mohsin_rm
-PaulDamalie
 sep_est
 rockurbody2
 unstructur
@@ -2998,4 +2997,5 @@ morgann878
 DylanTheGingg
 natashaislove16
 Evanrobert233
+Cory_R
 tweepy.TweepError=
