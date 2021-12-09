@@ -1,3 +1,5 @@
+mehmetzbozkuss
+PNW_CRA
 C_Shamballa
 asingh_22g
 sergeynurk
@@ -2996,6 +2998,4 @@ morgann878
 DylanTheGingg
 natashaislove16
 Evanrobert233
-Cory_R
-TaylorMadisonP
 tweepy.TweepError=

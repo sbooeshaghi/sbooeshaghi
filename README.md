@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|keyboardpipette|mikelesssss|
-|EsfahaniMoein|TaylorMadisonP|
-Thu Dec  9 12:29:14 UTC 2021
+|Cory_R|mehmetzbozkuss|
+|TaylorMadisonP|PNW_CRA|
+Thu Dec  9 18:26:04 UTC 2021
