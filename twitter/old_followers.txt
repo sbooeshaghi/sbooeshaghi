@@ -2267,7 +2267,6 @@ alienzj
 johan__gson
 ThisIsSaraJager
 AmirRattner
-ur_friend_papu
 Artem_Kosmin
 rpucheq
 TweetNTD
@@ -2998,4 +2997,5 @@ morgann878
 DylanTheGingg
 natashaislove16
 Evanrobert233
+Cory_R
 tweepy.TweepError=

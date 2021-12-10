@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Cory_R|mehmetzbozkuss|
-|TaylorMadisonP|PNW_CRA|
-Thu Dec  9 18:26:04 UTC 2021
+|ur_friend_papu|Cory_R|
+Fri Dec 10 00:46:20 UTC 2021
