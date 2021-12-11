@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Evanrobert233|stefanospinel15|
-|Cory_R|okapi_blue|
-Fri Dec 10 18:25:42 UTC 2021
+|stefanospinel15|AdrianBrueckner|
+|okapi_blue|Evanrobert233|
+Sat Dec 11 00:43:52 UTC 2021
