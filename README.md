@@ -4,4 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sun Dec 12 12:28:21 UTC 2021
+|Evanrobert233|jt_field|
+Sun Dec 12 18:25:13 UTC 2021
