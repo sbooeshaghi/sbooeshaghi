@@ -756,7 +756,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1962,7 +1961,6 @@ GenetixVideos
 marktmaclean
 RealAdamB1
 shazmur
-ashkanliberty
 FAbdul_Rahman
 LisaMReichert
 emukamel
@@ -2998,4 +2996,6 @@ morgann878
 DylanTheGingg
 natashaislove16
 Evanrobert233
+Cory_R
+TaylorMadisonP
 tweepy.TweepError=
