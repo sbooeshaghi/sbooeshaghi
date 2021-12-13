@@ -398,6 +398,7 @@ tiagolcarv
 7imNg
 WenzelLab
 NaragonTom
+NaragonTom
 FelixGoldberg1
 f_safaei
 edaznee
@@ -757,6 +758,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2598,7 +2600,6 @@ maxwellshafer
 cmcginnis92
 golobor
 LabWidget
-LabWidget
 ai_weslewis
 NeBanovich
 ashrujitg
@@ -2797,7 +2798,6 @@ AleCerverat
 soso9
 harpactocrates
 harijay
-RLuisier
 RLuisier
 DnaCowgirl
 RobForeman8
