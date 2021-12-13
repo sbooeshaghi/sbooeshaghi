@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|Cory_R|
-|ashkanliberty|TaylorMadisonP|
-Mon Dec 13 06:26:05 UTC 2021
+|Evanrobert233|InandVertebrate|
+|Cory_R|LabWidget|
+|TaylorMadisonP|RLuisier|
+Mon Dec 13 12:29:25 UTC 2021
