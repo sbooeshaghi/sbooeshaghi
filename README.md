@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|LabWidget|NaragonTom|
-|RLuisier|stefanospinel15|
-Mon Dec 13 18:25:39 UTC 2021
+|NaragonTom|hsiehwilson_lab|
+|shapira_yonatan|ashkanliberty|
+Tue Dec 14 00:47:26 UTC 2021
