@@ -198,7 +198,6 @@ The_InnovationJ
 DocSashas
 toninells
 demonpore
-demonpore
 BhoiteRutuja
 ShyamalMehtalia
 Mezarque
@@ -397,7 +396,6 @@ AnointedGb
 MStarostecka
 tiagolcarv
 7imNg
-WenzelLab
 WenzelLab
 NaragonTom
 FelixGoldberg1
@@ -2998,4 +2996,6 @@ KwadjoWalker
 morgann878
 DylanTheGingg
 natashaislove16
+Evanrobert233
+Cory_R
 tweepy.TweepError=
