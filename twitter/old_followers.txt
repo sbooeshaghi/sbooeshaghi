@@ -757,7 +757,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2998,4 +2997,5 @@ DylanTheGingg
 natashaislove16
 Evanrobert233
 Cory_R
+TaylorMadisonP
 tweepy.TweepError=
