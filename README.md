@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|Evanrobert233|NaragonTom|
-Wed Dec 15 18:25:45 UTC 2021
+|StattGamer|elchampa1769|
+|NaragonTom|Evanrobert233|
+|PotatoOfReason_|Cory_R|
+Thu Dec 16 00:45:26 UTC 2021

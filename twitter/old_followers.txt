@@ -123,7 +123,7 @@ noamteyssier
 MoEbrahimkhani
 ImaniFarnaz
 fawwazanvilen
-StattGamer
+elchampa1769
 EthanAhler
 Cece16444641
 StoneEL2
@@ -397,7 +397,6 @@ MStarostecka
 tiagolcarv
 7imNg
 WenzelLab
-NaragonTom
 NaragonTom
 FelixGoldberg1
 f_safaei
@@ -1734,7 +1733,6 @@ anoladayo
 nagolinc
 jhan2qt
 IMADJamil
-PotatoOfReason_
 leonxlin
 birolaay
 Farshadopolo
@@ -2998,4 +2996,6 @@ KwadjoWalker
 morgann878
 DylanTheGingg
 natashaislove16
+Evanrobert233
+Cory_R
 tweepy.TweepError=
