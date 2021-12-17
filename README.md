@@ -4,5 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|okapi_blue|galloarmas|
-Fri Dec 17 00:47:52 UTC 2021
+|morgann878|ChristaCaggiano|
+|DylanTheGingg|RomanosSP|
+|natashaislove16|SENGLAITAN|
+|Evanrobert233|stefanospinel15|
+|Cory_R|bioinformaticcs|
+Fri Dec 17 06:26:20 UTC 2021

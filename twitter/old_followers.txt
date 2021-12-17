@@ -1,3 +1,6 @@
+ChristaCaggiano
+RomanosSP
+SENGLAITAN
 galloarmas
 hsiehwilson_lab
 InandVertebrate
@@ -758,6 +761,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2194,6 +2198,7 @@ Dbanadaki
 gshrma_
 YiYang75608969
 bioinformaticcs
+bioinformaticcs
 devangvang
 vizgen_inc
 ordinator
@@ -2993,9 +2998,4 @@ debokle
 TheBaum561
 courtneywinging
 KwadjoWalker
-morgann878
-DylanTheGingg
-natashaislove16
-Evanrobert233
-Cory_R
 tweepy.TweepError=
