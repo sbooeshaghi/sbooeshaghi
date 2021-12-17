@@ -761,7 +761,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2198,7 +2197,6 @@ Dbanadaki
 gshrma_
 YiYang75608969
 bioinformaticcs
-bioinformaticcs
 devangvang
 vizgen_inc
 ordinator
@@ -2998,4 +2996,6 @@ debokle
 TheBaum561
 courtneywinging
 KwadjoWalker
+morgann878
+DylanTheGingg
 tweepy.TweepError=
