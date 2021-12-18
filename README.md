@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|courtneywinging|gaurav_agavekar|
-|KwadjoWalker|SaberaTalukder|
-|morgann878|stefanospinel15|
-Sat Dec 18 12:28:24 UTC 2021
+|stefanospinel15|okapi_blue|
+Sat Dec 18 18:25:21 UTC 2021
