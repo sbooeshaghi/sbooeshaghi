@@ -4,5 +4,36 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|courtneywinging|stefanospinel15|
-Sun Dec 19 12:28:40 UTC 2021
+|tweepy.TweepError=|benm182|
+|-|courtneywinging|
+|-|KwadjoWalker|
+|-|morgann878|
+|-|DylanTheGingg|
+|-|natashaislove16|
+|-|Evanrobert233|
+|-|Cory_R|
+|-|TaylorMadisonP|
+|-|TheeChrisCrit|
+|-|joesigman|
+|-|Sarah_holtt|
+|-|jeffreyhwa|
+|-|EmbededInMyHead|
+|-|andrew_porath|
+|-|dominickdefazio|
+|-|ReginaKnudsen|
+|-|jamiezeld|
+|-|shelby_babowicz|
+|-|J_Harm0n|
+|-|Bryutiful|
+|-|fortuna_alexa|
+|-|Matt_Goldman_|
+|-|sandraa_01|
+|-|leftyszn|
+|-|callikush|
+|-|patrick_green|
+|-|Strappazz0n|
+|-|chad_zubka|
+|-|PierreSchoolar|
+|-|hannahlucyx3|
+|-|mitchgoldhaber|
+Sun Dec 19 18:09:36 UTC 2021
