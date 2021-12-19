@@ -4,4 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sun Dec 19 06:25:45 UTC 2021
+|courtneywinging|stefanospinel15|
+Sun Dec 19 12:28:40 UTC 2021
