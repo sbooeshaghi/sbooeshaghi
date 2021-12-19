@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|okapi_blue|courtneywinging|
-Sun Dec 19 00:48:27 UTC 2021
+Sun Dec 19 06:25:45 UTC 2021
