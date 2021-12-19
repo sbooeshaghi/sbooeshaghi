@@ -1443,7 +1443,6 @@ OriSenbazuru
 calicolocali
 nadine_xoxo
 KabirGoel
-okapi_blue
 pramiomio
 2020gobeyond
 rajandchavda
@@ -2998,4 +2997,5 @@ alexgremse
 rickydtran
 debokle
 TheBaum561
+courtneywinging
 tweepy.TweepError=
