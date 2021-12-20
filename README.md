@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|itsmetweeetin|deepika18989|
-Mon Dec 20 06:26:41 UTC 2021
+|deepika18989|courtneywinging|
+Mon Dec 20 12:29:55 UTC 2021

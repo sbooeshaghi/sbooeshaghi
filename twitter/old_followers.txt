@@ -1798,7 +1798,6 @@ andresfranco87
 somaliatoday999
 orwellissimo
 deepika18989
-deepika18989
 julsamani
 AhmadAbuhaimed
 av_thakkar
@@ -2998,4 +2997,5 @@ alexgremse
 rickydtran
 debokle
 TheBaum561
+courtneywinging
 tweepy.TweepError=
