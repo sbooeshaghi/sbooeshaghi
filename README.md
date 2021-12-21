@@ -4,8 +4,9 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|alexgremse|Microbe_lover|
-|rickydtran|junkRNA|
-|debokle|HuskyIo|
-|TheBaum561|stefanospinel15|
-Tue Dec 21 12:29:52 UTC 2021
+|stefanospinel15|Ubiquitinate_Me|
+|sudo_jay|HebrewSimeon|
+|jkrouss|SaketBagde|
+|Jesus_freak49|an0n47|
+|DietzHunter|okapi_blue|
+Tue Dec 21 18:25:43 UTC 2021
