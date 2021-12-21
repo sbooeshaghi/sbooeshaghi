@@ -1,3 +1,6 @@
+Microbe_lover
+junkRNA
+HuskyIo
 yelnunnedyah
 MarkEBecker
 HeidariElyas
@@ -768,6 +771,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2994,8 +2998,4 @@ geraldtheseal_
 jkrouss
 Jesus_freak49
 DietzHunter
-alexgremse
-rickydtran
-debokle
-TheBaum561
 tweepy.TweepError=
