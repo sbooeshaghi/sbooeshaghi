@@ -1,3 +1,4 @@
+jwwhitaker
 MariamAboian
 CarlosMMinutti
 Ubiquitinate_Me
@@ -2997,5 +2998,4 @@ _omargHonim
 lpachter
 ByBrianaE
 danielabua2011
-s_k_7
 tweepy.TweepError=
