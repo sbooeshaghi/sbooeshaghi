@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|sunnie852|MariamAboian|
-|geraldtheseal_|CarlosMMinutti|
-Wed Dec 22 00:47:35 UTC 2021
+|ladydesiree|stefanospinel15|
+Wed Dec 22 06:26:52 UTC 2021
