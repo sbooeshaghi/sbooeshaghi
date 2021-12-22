@@ -1,3 +1,5 @@
+MariamAboian
+CarlosMMinutti
 Ubiquitinate_Me
 HebrewSimeon
 SaketBagde
@@ -2996,6 +2998,4 @@ ByBrianaE
 danielabua2011
 s_k_7
 ladydesiree
-sunnie852
-geraldtheseal_
 tweepy.TweepError=

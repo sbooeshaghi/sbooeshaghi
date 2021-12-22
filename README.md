@@ -4,9 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|Ubiquitinate_Me|
-|sudo_jay|HebrewSimeon|
-|jkrouss|SaketBagde|
-|Jesus_freak49|an0n47|
-|DietzHunter|okapi_blue|
-Tue Dec 21 18:25:43 UTC 2021
+|sunnie852|MariamAboian|
+|geraldtheseal_|CarlosMMinutti|
+Wed Dec 22 00:47:35 UTC 2021
