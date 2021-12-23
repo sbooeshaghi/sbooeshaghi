@@ -306,7 +306,6 @@ ideas_dynamic
 borrajilla17
 tamadher_aa
 MatiarJ
-armin_dadras
 SanskaariSehgal
 Amankhawajaa
 chesnol96
@@ -778,7 +777,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -999,6 +997,7 @@ TonysPants
 MeetPat07478957
 dychiang8
 LabWelch
+AlSarmentero
 AlSarmentero
 HmadehMohammad1
 JadFahs
@@ -1501,7 +1500,6 @@ MickyFarnan
 PrisonersMantra
 eyad1996
 MNG68
-Darylbassett3
 bIainiac
 javiercinho13
 eodwordl
@@ -2998,4 +2996,6 @@ LOLCats4U
 KipnissNathan
 _omargHonim
 lpachter
+ByBrianaE
+danielabua2011
 tweepy.TweepError=
