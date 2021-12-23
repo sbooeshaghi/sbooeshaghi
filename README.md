@@ -4,7 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|armin_dadras|AlSarmentero|
-|stefanospinel15|ByBrianaE|
-|Darylbassett3|danielabua2011|
-Thu Dec 23 06:26:24 UTC 2021
+|AlSarmentero|stefanospinel15|
+|yarbsalocin|s_k_7|
+Thu Dec 23 12:29:43 UTC 2021

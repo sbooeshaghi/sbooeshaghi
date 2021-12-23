@@ -777,6 +777,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -997,7 +998,6 @@ TonysPants
 MeetPat07478957
 dychiang8
 LabWelch
-AlSarmentero
 AlSarmentero
 HmadehMohammad1
 JadFahs
@@ -2766,7 +2766,6 @@ sridnona6
 SRsrivatsan
 JoseLCadavid
 jordanberg0
-yarbsalocin
 MathSchoolInt
 dna_rosenberg
 koetjen
@@ -2998,4 +2997,5 @@ _omargHonim
 lpachter
 ByBrianaE
 danielabua2011
+s_k_7
 tweepy.TweepError=
