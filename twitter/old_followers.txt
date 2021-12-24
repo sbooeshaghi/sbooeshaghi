@@ -1,3 +1,4 @@
+chememememe
 crisprcas21
 jwwhitaker
 MariamAboian
@@ -777,6 +778,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2996,6 +2998,4 @@ _omargHonim
 lpachter
 ByBrianaE
 danielabua2011
-s_k_7
-ladydesiree
 tweepy.TweepError=
