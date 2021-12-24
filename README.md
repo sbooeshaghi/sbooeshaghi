@@ -4,6 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|danielabua2011|LabWelch|
-|s_k_7|As3adov|
-Thu Dec 23 18:25:44 UTC 2021
+|stefanospinel15|Paulmakhoul|
+|LabWelch|danielabua2011|
+|As3adov|s_k_7|
+Fri Dec 24 00:46:58 UTC 2021
