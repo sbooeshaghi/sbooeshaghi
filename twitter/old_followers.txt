@@ -1,3 +1,5 @@
+gail_orchard
+TonyZador
 chememememe
 crisprcas21
 jwwhitaker
@@ -2996,6 +2998,4 @@ KipnissNathan
 _omargHonim
 lpachter
 ByBrianaE
-danielabua2011
-s_k_7
 tweepy.TweepError=
