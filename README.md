@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|danielabua2011|gail_orchard|
-|s_k_7|TonyZador|
-Sun Dec 26 06:26:07 UTC 2021
+Sun Dec 26 12:28:34 UTC 2021
