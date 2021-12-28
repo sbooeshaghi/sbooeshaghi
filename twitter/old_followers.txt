@@ -1,3 +1,4 @@
+linoy_tsaban
 gail_orchard
 TonyZador
 chememememe
@@ -780,6 +781,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2996,6 +2998,4 @@ LOLCats4U
 KipnissNathan
 _omargHonim
 lpachter
-ByBrianaE
-danielabua2011
 tweepy.TweepError=
