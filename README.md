@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|danielabua2011|
-Mon Dec 27 18:25:35 UTC 2021
+|ByBrianaE|MeetPat07478957|
+|danielabua2011|okapi_blue|
+Tue Dec 28 00:46:30 UTC 2021

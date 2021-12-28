@@ -998,6 +998,7 @@ SGA831
 LindorffLarsen
 TonysPants
 MeetPat07478957
+MeetPat07478957
 dychiang8
 LabWelch
 AlSarmentero
@@ -1458,6 +1459,7 @@ OriSenbazuru
 calicolocali
 nadine_xoxo
 KabirGoel
+okapi_blue
 pramiomio
 2020gobeyond
 rajandchavda
@@ -2996,6 +2998,4 @@ LOLCats4U
 KipnissNathan
 _omargHonim
 lpachter
-ByBrianaE
-danielabua2011
 tweepy.TweepError=
