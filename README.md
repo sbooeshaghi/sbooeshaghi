@@ -4,6 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|MeetPat07478957|ByBrianaE|
-|okapi_blue|danielabua2011|
-Tue Dec 28 06:26:27 UTC 2021
+Tue Dec 28 12:29:29 UTC 2021
