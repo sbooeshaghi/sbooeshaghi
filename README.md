@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|maneesha_thaker|ByBrianaE|
-Wed Dec 29 12:29:55 UTC 2021
+Wed Dec 29 18:25:40 UTC 2021
