@@ -598,7 +598,6 @@ aafshinfard
 nilshomer
 MohammadLotfol1
 maneesha_thaker
-maneesha_thaker
 apimplaskar
 rakszewska
 Avgchick1
@@ -2998,4 +2997,5 @@ LOLCats4U
 KipnissNathan
 _omargHonim
 lpachter
+ByBrianaE
 tweepy.TweepError=
