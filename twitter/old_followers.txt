@@ -961,6 +961,7 @@ jordan_mcrae_
 ElowitzLab
 YUHANHAO2
 nima_genome
+shapira_yonatan
 annie__erickson
 j3nnysheng
 CuriousMaia
@@ -2997,5 +2998,4 @@ KipnissNathan
 _omargHonim
 lpachter
 ByBrianaE
-danielabua2011
 tweepy.TweepError=
