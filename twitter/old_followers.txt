@@ -781,7 +781,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1984,7 +1983,6 @@ GenetixVideos
 marktmaclean
 RealAdamB1
 shazmur
-ashkanliberty
 FAbdul_Rahman
 LisaMReichert
 emukamel
@@ -2998,4 +2996,6 @@ LOLCats4U
 KipnissNathan
 _omargHonim
 lpachter
+ByBrianaE
+danielabua2011
 tweepy.TweepError=
