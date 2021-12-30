@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|danielabua2011|shapira_yonatan|
-Thu Dec 30 12:29:34 UTC 2021
+|_omargHonim|stefanospinel15|
+|lpachter|okapi_blue|
+|ByBrianaE|ashkanliberty|
+Thu Dec 30 18:25:42 UTC 2021
