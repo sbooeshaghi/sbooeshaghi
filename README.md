@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|ByBrianaE|
-Fri Dec 31 12:29:30 UTC 2021
+|_omargHonim|maneesha_thaker|
+|lpachter|stefanospinel15|
+|ByBrianaE|feyzarguc|
+Fri Dec 31 18:25:39 UTC 2021

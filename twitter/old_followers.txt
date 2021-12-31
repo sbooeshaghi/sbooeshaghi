@@ -598,6 +598,7 @@ aafshinfard
 nilshomer
 MohammadLotfol1
 maneesha_thaker
+maneesha_thaker
 apimplaskar
 rakszewska
 Avgchick1
@@ -781,6 +782,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -795,6 +797,7 @@ rodrigobarnes
 jbreboix
 Fatem3hSa
 abhilash_111
+feyzarguc
 feyzarguc
 fulong_yu
 kaylia_duncan
@@ -2995,7 +2998,4 @@ MikeMarinoLive
 PengHeCam
 LOLCats4U
 KipnissNathan
-_omargHonim
-lpachter
-ByBrianaE
 tweepy.TweepError=
