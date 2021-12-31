@@ -4,7 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|_omargHonim|stefanospinel15|
-|lpachter|okapi_blue|
-|ByBrianaE|ashkanliberty|
-Thu Dec 30 18:25:42 UTC 2021
+|jind0sh|_omargHonim|
+Fri Dec 31 00:47:47 UTC 2021

@@ -1038,7 +1038,6 @@ DirtyHARRY2019
 bigdata_school
 innofarah
 ginavakili
-jind0sh
 fawzical
 ToubiMohammed
 sitani83
@@ -2998,4 +2997,5 @@ MikeMarinoLive
 PengHeCam
 LOLCats4U
 KipnissNathan
+_omargHonim
 tweepy.TweepError=
