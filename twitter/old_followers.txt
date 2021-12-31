@@ -1460,7 +1460,6 @@ OriSenbazuru
 calicolocali
 nadine_xoxo
 KabirGoel
-okapi_blue
 pramiomio
 2020gobeyond
 rajandchavda
@@ -2998,4 +2997,5 @@ PengHeCam
 LOLCats4U
 KipnissNathan
 _omargHonim
+lpachter
 tweepy.TweepError=
