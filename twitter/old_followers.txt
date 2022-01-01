@@ -781,7 +781,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -962,7 +961,6 @@ jordan_mcrae_
 ElowitzLab
 YUHANHAO2
 nima_genome
-shapira_yonatan
 annie__erickson
 j3nnysheng
 CuriousMaia
@@ -2998,4 +2996,6 @@ LOLCats4U
 KipnissNathan
 _omargHonim
 lpachter
+ByBrianaE
+danielabua2011
 tweepy.TweepError=

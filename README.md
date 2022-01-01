@@ -4,4 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Sat Jan  1 06:26:00 UTC 2022
+|stefanospinel15|ByBrianaE|
+|shapira_yonatan|danielabua2011|
+Sat Jan  1 12:28:54 UTC 2022
