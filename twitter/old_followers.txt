@@ -414,7 +414,6 @@ maunishbarvalia
 mervekahraman71
 LasradoNinaad
 jpdaanoy
-luisachocarro
 cnoutsos
 AnointedGb
 MStarostecka
@@ -2998,4 +2997,5 @@ _omargHonim
 lpachter
 ByBrianaE
 danielabua2011
+s_k_7
 tweepy.TweepError=
