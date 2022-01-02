@@ -4,5 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|luisachocarro|s_k_7|
-Sat Jan  1 18:25:33 UTC 2022
+|TheEmpiriSylum|stefanospinel15|
+Sun Jan  2 00:48:04 UTC 2022
