@@ -779,7 +779,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1666,7 +1665,6 @@ nolbertovp
 _irAnDo
 ikigunners
 pillowpulse
-abdrahmane_d
 AhmedDa45201431
 SuvizV
 Eolith_Jas
@@ -2998,4 +2996,6 @@ ByBrianaE
 danielabua2011
 s_k_7
 ladydesiree
+sunnie852
+geraldtheseal_
 tweepy.TweepError=
