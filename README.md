@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|ladydesiree|stefanospinel15|
-Sun Jan  2 18:25:22 UTC 2022
+|susan_heavey|ladydesiree|
+|stefanospinel15|sunnie852|
+Mon Jan  3 00:46:38 UTC 2022
