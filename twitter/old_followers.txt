@@ -198,7 +198,6 @@ slmnmls
 AlecsandraSarz7
 QureshiAhtiram
 tranmartink
-tranmartink
 RNKaiu
 Dave_E_Carlson
 ProfSmyth
@@ -397,7 +396,6 @@ ravi_gadwal
 flowerempressa
 _lecote_
 SaswatiKar15
-monicabonilla22
 monicabonilla22
 h_s_b_i
 WolfgangKopp3
@@ -2998,4 +2996,6 @@ danielabua2011
 s_k_7
 ladydesiree
 sunnie852
+geraldtheseal_
+Jesus_freak49
 tweepy.TweepError=

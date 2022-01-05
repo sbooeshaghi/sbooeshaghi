@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|tranmartink|
-|geraldtheseal_|monicabonilla22|
-Wed Jan  5 00:48:45 UTC 2022
+|tranmartink|geraldtheseal_|
+|monicabonilla22|Jesus_freak49|
+Wed Jan  5 06:26:43 UTC 2022
