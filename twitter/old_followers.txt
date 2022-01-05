@@ -83,7 +83,7 @@ abe_bio
 weiqiu55
 drawlearnrepeat
 PascalSturmfels
-sam_power_825
+sp_monte_carlo
 jmuiuc
 PRepiscak
 Robertruthlight
@@ -1028,7 +1028,7 @@ logan_beker28
 4484
 errontitus
 AdibChristian
-mohil112
+MoGorecha
 TheJoedeVivre
 FikriHusein9
 DirtyHARRY2019
