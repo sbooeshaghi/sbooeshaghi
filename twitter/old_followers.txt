@@ -998,6 +998,7 @@ LindorffLarsen
 TonysPants
 MeetPat07478957
 dychiang8
+dychiang8
 LabWelch
 AlSarmentero
 HmadehMohammad1
@@ -1905,7 +1906,7 @@ krister
 KarlMar05384385
 faraazcannes
 VelasquezRicco
-uvycyf59by7
+uvfby7
 mrazomej
 rams832002
 AaronJd21
@@ -2997,5 +2998,4 @@ s_k_7
 ladydesiree
 sunnie852
 geraldtheseal_
-Jesus_freak49
 tweepy.TweepError=
