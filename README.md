@@ -4,6 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|QureshiAhtiram|rdf004|
-|rosheeed|geraldtheseal_|
-Thu Jan  6 06:26:37 UTC 2022
+|geraldtheseal_|wamoyal|
+Thu Jan  6 12:30:24 UTC 2022
