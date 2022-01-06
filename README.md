@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|geraldtheseal_|wamoyal|
-Thu Jan  6 12:30:24 UTC 2022
+|ladydesiree|stefanospinel15|
+|sunnie852|shapira_yonatan|
+Thu Jan  6 18:26:13 UTC 2022
