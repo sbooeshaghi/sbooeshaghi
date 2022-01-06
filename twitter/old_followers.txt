@@ -198,7 +198,6 @@ AppleMath2
 slmnmls
 AlecsandraSarz7
 QureshiAhtiram
-QureshiAhtiram
 tranmartink
 RNKaiu
 Dave_E_Carlson
@@ -2250,7 +2249,7 @@ minakhoshi
 Azimi31263323
 neurojoy
 BiplabP05076721
-rosheeed
+rdf004
 kristin_muench
 marccobe
 DeeMarieDelgado
@@ -2998,4 +2997,5 @@ danielabua2011
 s_k_7
 ladydesiree
 sunnie852
+geraldtheseal_
 tweepy.TweepError=

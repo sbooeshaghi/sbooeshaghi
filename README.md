@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|dychiang8|AnimaAnandkumar|
-|geraldtheseal_|QureshiAhtiram|
-Thu Jan  6 00:49:11 UTC 2022
+|QureshiAhtiram|rdf004|
+|rosheeed|geraldtheseal_|
+Thu Jan  6 06:26:37 UTC 2022
