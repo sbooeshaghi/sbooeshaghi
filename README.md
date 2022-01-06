@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|sam_power_825|sp_monte_carlo|
-|mohil112|MoGorecha|
-Wed Jan  5 18:26:11 UTC 2022
+|dychiang8|AnimaAnandkumar|
+|geraldtheseal_|QureshiAhtiram|
+Thu Jan  6 00:49:11 UTC 2022

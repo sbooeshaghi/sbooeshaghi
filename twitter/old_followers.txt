@@ -1,3 +1,4 @@
+AnimaAnandkumar
 linoy_tsaban
 gail_orchard
 TonyZador
@@ -196,6 +197,7 @@ lucapinello
 AppleMath2
 slmnmls
 AlecsandraSarz7
+QureshiAhtiram
 QureshiAhtiram
 tranmartink
 RNKaiu
@@ -997,7 +999,6 @@ SGA831
 LindorffLarsen
 TonysPants
 MeetPat07478957
-dychiang8
 dychiang8
 LabWelch
 AlSarmentero
@@ -2997,5 +2998,4 @@ danielabua2011
 s_k_7
 ladydesiree
 sunnie852
-geraldtheseal_
 tweepy.TweepError=
