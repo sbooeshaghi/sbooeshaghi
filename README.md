@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|s_k_7|abdrahmane_d|
-Fri Jan  7 00:50:12 UTC 2022
+Fri Jan  7 06:26:43 UTC 2022
