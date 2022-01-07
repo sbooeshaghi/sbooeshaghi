@@ -1669,6 +1669,7 @@ nolbertovp
 _irAnDo
 ikigunners
 pillowpulse
+abdrahmane_d
 AhmedDa45201431
 SuvizV
 Eolith_Jas
@@ -2997,5 +2998,4 @@ _omargHonim
 lpachter
 ByBrianaE
 danielabua2011
-s_k_7
 tweepy.TweepError=
