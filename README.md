@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|olgabot|
-Fri Jan  7 12:29:50 UTC 2022
+|abdrahmane_d|s_k_7|
+|olgabot|ladydesiree|
+Fri Jan  7 18:26:05 UTC 2022

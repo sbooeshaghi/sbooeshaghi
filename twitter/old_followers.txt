@@ -1668,7 +1668,6 @@ nolbertovp
 _irAnDo
 ikigunners
 pillowpulse
-abdrahmane_d
 AhmedDa45201431
 SuvizV
 Eolith_Jas
@@ -2398,7 +2397,6 @@ Denglab_Tulane
 rechgab
 Joshua_M_Weiss
 olgabot
-olgabot
 praneet006
 hannyta_134
 upendra_35
@@ -2998,4 +2996,6 @@ _omargHonim
 lpachter
 ByBrianaE
 danielabua2011
+s_k_7
+ladydesiree
 tweepy.TweepError=
