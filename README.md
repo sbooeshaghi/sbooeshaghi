@@ -4,5 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|sefsinsen|LedesmaNando|
-Sun Jan  9 00:48:46 UTC 2022
+Sun Jan  9 06:26:21 UTC 2022
