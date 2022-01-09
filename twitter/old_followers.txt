@@ -783,6 +783,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -2997,5 +2998,4 @@ lpachter
 ByBrianaE
 danielabua2011
 s_k_7
-ladydesiree
 tweepy.TweepError=
