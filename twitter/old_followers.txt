@@ -376,7 +376,6 @@ Vijaya_Batthula
 thomas_sandmann
 chenkenbio
 lubianat
-jayanthaiims
 levin_bertrandt
 MustaphaSibai
 freed_nikki
@@ -783,7 +782,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1200,6 +1198,7 @@ ejaz_k
 nsisodiya
 petras_rf
 Andri_112099
+Andri_112099
 mitokondryaa
 As3adov
 HockenberryAdam
@@ -1399,6 +1398,7 @@ navnouhi
 TimHillierBrook
 Saram_Ali_
 sheynk
+sheynk
 irasido30
 _sethia
 HaishKhan
@@ -1464,7 +1464,6 @@ KabirGoel
 pramiomio
 2020gobeyond
 rajandchavda
-Im_LoneRanger
 RLIBERTE
 _yianni_
 msaud96
@@ -2998,4 +2997,5 @@ danielabua2011
 s_k_7
 ladydesiree
 sunnie852
+geraldtheseal_
 tweepy.TweepError=

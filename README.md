@@ -4,5 +4,7 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|geraldtheseal_|stefanospinel15|
-Mon Jan 10 06:27:02 UTC 2022
+|jayanthaiims|Andri_112099|
+|stefanospinel15|sheynk|
+|Im_LoneRanger|geraldtheseal_|
+Mon Jan 10 12:30:06 UTC 2022
