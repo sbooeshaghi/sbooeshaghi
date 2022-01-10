@@ -782,6 +782,7 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
+stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1198,7 +1199,6 @@ ejaz_k
 nsisodiya
 petras_rf
 Andri_112099
-Andri_112099
 mitokondryaa
 As3adov
 HockenberryAdam
@@ -1398,7 +1398,6 @@ navnouhi
 TimHillierBrook
 Saram_Ali_
 sheynk
-sheynk
 irasido30
 _sethia
 HaishKhan
@@ -1573,7 +1572,6 @@ IHaveSweaters
 JB737
 Set73
 DiaryMadam
-NadaKhouryy
 Otmane404
 IshaanMalhi
 alth0u
@@ -2628,7 +2626,6 @@ tinyTWIGS
 Lees_tweeted
 BioRoboost
 V_Saggiomo
-Cramsuig
 ncb38534504
 DaPrivacyLawyer
 MichaelBauman
@@ -2998,4 +2995,7 @@ s_k_7
 ladydesiree
 sunnie852
 geraldtheseal_
+Jesus_freak49
+DietzHunter
+alexgremse
 tweepy.TweepError=
