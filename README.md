@@ -4,45 +4,5 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|tweepy.TweepError=|
-|shapira_yonatan|-|
-|infierno_verd|-|
-|s_k_7|-|
-|Jesus_freak49|-|
-|DietzHunter|-|
-|alexgremse|-|
-|rickydtran|-|
-|debokle|-|
-|TheBaum561|-|
-|courtneywinging|-|
-|KwadjoWalker|-|
-|morgann878|-|
-|DylanTheGingg|-|
-|natashaislove16|-|
-|Evanrobert233|-|
-|Cory_R|-|
-|TaylorMadisonP|-|
-|TheeChrisCrit|-|
-|joesigman|-|
-|Sarah_holtt|-|
-|jeffreyhwa|-|
-|EmbededInMyHead|-|
-|andrew_porath|-|
-|dominickdefazio|-|
-|ReginaKnudsen|-|
-|jamiezeld|-|
-|shelby_babowicz|-|
-|J_Harm0n|-|
-|Bryutiful|-|
-|fortuna_alexa|-|
-|Matt_Goldman_|-|
-|sandraa_01|-|
-|leftyszn|-|
-|callikush|-|
-|patrick_green|-|
-|Strappazz0n|-|
-|chad_zubka|-|
-|PierreSchoolar|-|
-|hannahlucyx3|-|
-|mitchgoldhaber|-|
-Mon Jan 10 00:47:49 UTC 2022
+|geraldtheseal_|stefanospinel15|
+Mon Jan 10 06:27:02 UTC 2022
