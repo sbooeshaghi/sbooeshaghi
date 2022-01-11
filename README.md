@@ -4,5 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|alexgremse|shapira_yonatan|
-Tue Jan 11 12:30:49 UTC 2022
+|stefanospinel15|NadaKhouryy|
+|DietzHunter|abdrahmane_d|
+Tue Jan 11 18:26:03 UTC 2022

@@ -782,7 +782,6 @@ Tahir_ul_qamar
 OTsiouri
 KLNahas
 lucicse
-stefanospinel15
 Nayimcete
 cas_crispr
 AnttonLamarka
@@ -1573,6 +1572,7 @@ IHaveSweaters
 JB737
 Set73
 DiaryMadam
+NadaKhouryy
 Otmane404
 IshaanMalhi
 alth0u
@@ -1667,6 +1667,7 @@ nolbertovp
 _irAnDo
 ikigunners
 pillowpulse
+abdrahmane_d
 AhmedDa45201431
 SuvizV
 Eolith_Jas
@@ -2997,5 +2998,4 @@ ladydesiree
 sunnie852
 geraldtheseal_
 Jesus_freak49
-DietzHunter
 tweepy.TweepError=
