@@ -963,6 +963,7 @@ jordan_mcrae_
 ElowitzLab
 YUHANHAO2
 nima_genome
+shapira_yonatan
 annie__erickson
 j3nnysheng
 CuriousMaia
@@ -2997,5 +2998,4 @@ sunnie852
 geraldtheseal_
 Jesus_freak49
 DietzHunter
-alexgremse
 tweepy.TweepError=
