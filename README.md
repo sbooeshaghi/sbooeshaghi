@@ -4,6 +4,6 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-|stefanospinel15|NadaKhouryy|
-|DietzHunter|abdrahmane_d|
-Tue Jan 11 18:26:03 UTC 2022
+|shapira_yonatan|BorkarMihir|
+|raspberry314159|TheEmpiriSylum|
+Wed Jan 12 00:48:19 UTC 2022
