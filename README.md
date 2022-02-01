@@ -4,4 +4,4 @@ This table is automatically updated every six hours with a list of Twitter users
 
 | Unfollowed me |  Followed me |
 | --- | --- |
-Mon Jan 31 18:09:13 UTC 2022
+Tue Feb  1 00:31:07 UTC 2022
